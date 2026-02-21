@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Emergency medicine / Trauma — specialty index — DGRefHelp Drafts</title>
+  <link rel="stylesheet" href="../assets/site.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">
+        <h1><a href="../index.html">DGRefHelp drafts</a> / Emergency medicine / Trauma — specialty index</h1>
+        <div class="sub">Signposting page for high-risk acute presentations that usually need ED / ambulance pathways (primary care framing: triage + immediate actions + minimum referral metrics).</div>
+      </div>
+      <div class="badges">
+        <div class="badge">Mode: quick</div>
+        <div class="badge">Last updated: 2026‑02‑15</div>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="card-hd">
+          <div class="tabs" data-tabs>
+            <button class="tab" role="tab" data-tab="evidence" aria-selected="true">Evidence</button>
+            <button class="tab" role="tab" data-tab="draft" aria-selected="false">DGRefHelp draft</button>
+            <button class="tab" role="tab" data-tab="refs" aria-selected="false">References</button>
+          </div>
+          <div class="copybar">
+            <button class="btn" data-copy-target="#draftText">Copy draft</button>
+            <button class="btn" data-copy-target="#evidenceText">Copy evidence</button>
+          </div>
+        </div>
+
+        <div class="card-bd">
+          <div class="panel active" role="tabpanel" data-panel="evidence">
+            <div id="evidenceText" class="section">
+              <h3>Evidence summary (what this index is for)</h3>
+
+              <div class="callout ok">
+                <strong>Key design points (primary care)</strong>
+                <ul>
+                  <li>This specialty bucket is for conditions where <strong>the main GP contribution is rapid triage + safe routing</strong> (often 999/ED/SDEC), not community work-up.</li>
+                  <li>Useful pages here focus on: <strong>red flags</strong>, “must not miss” differentials, <strong>immediate actions</strong>, and the <strong>minimum handover data</strong> to avoid delays.</li>
+                  <li>Where guidance depends on local pathways (SDEC availability, direct specialties, imaging access), this is flagged as <strong>Local agreement needed</strong>.</li>
+                </ul>
+              </div>
+
+              <h4>Current included drafts</h4>
+              <ul>
+                <li><strong>Head injury (adults)</strong> — NG232 community referral triggers (when to call 999 vs send to ED) + minimum referral metrics (GCS, anticoagulants, mechanism).</li>
+              </ul>
+
+              <h4>Planned next (not drafted yet)</h4>
+              <ul>
+                <li>Acute confusion / delirium red flags (sepsis, hypoxia, hypoglycaemia, stroke) — routing + minimum tests.</li>
+                <li>Falls in older adults (incl. head injury + anticoag) — routing + “what to include” referral letter.</li>
+                <li>Major burns red flags / chemical burns — immediate actions + referral route.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="panel" role="tabpanel" data-panel="draft">
+            <div id="draftText" class="section">
+              <h3>Emergency medicine / Trauma — specialty index (primary care)</h3>
+
+              <h4>Use this page when</h4>
+              <ul>
+                <li>You want quick links to acute “route-now” pathways, and a reminder of the core handover data to document before transfer.</li>
+              </ul>
+
+              <h4>Pathways</h4>
+              <ul>
+                <li><a href="./head-injury-adult.html">Head injury (adults) — assessment + when to refer (NICE NG232)</a></li>
+              </ul>
+
+              <h4>General referral letter / triage metrics (ED/ambulance)</h4>
+              <ul>
+                <li>Time + mechanism: exact time of injury; <strong>mechanism</strong> (incl. fall height/stairs/RTC); witness account if available.</li>
+                <li>Observations: HR, BP, RR, Temp, <strong>SpO2 on air</strong>, GCS (incl. best E/V/M if not 15), pupils.</li>
+                <li>Key symptoms since injury: <strong>LOC</strong>, amnesia, vomiting count, seizure, headache, confusion/behaviour change.</li>
+                <li>Neuro exam: focal deficit, gait/ataxia, speech, vision, limb power/sensation.</li>
+                <li>Antithrombotics/coagulopathy: warfarin/DOAC/heparin/LMWH; antiplatelets (excluding aspirin mono); known bleeding/clotting disorder; last dose if known.</li>
+                <li>PMH: previous neurosurgery; epilepsy; alcohol/drugs intoxication; safeguarding concerns.</li>
+                <li>Injuries elsewhere / C-spine pain.</li>
+              </ul>
+
+              <div class="callout warn">
+                <strong>Local agreement needed (D&amp;G)</strong>
+                <ul>
+                  <li>[ ] Is there any local <strong>minor head injury / CT direct-access / ambulatory pathway</strong>, or should all head injuries meeting NG232 referral criteria go via ED?</li>
+                  <li>[ ] Local patient information leaflet / safety-net wording for <strong>concussion</strong> (if discharged from ED).</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="panel" role="tabpanel" data-panel="refs">
+            <div class="section">
+              <h3>References</h3>
+              <ul>
+                <li>NICE. <em>Head injury: assessment and early management</em> (NG232). Updated 2023. Accessed 2026‑02‑15. https://www.nice.org.uk/guidance/ng232</li>
+              </ul>
+              <p class="small">Draft note: this index is navigation + referral-metrics; individual pathways carry their own evidence blocks.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../assets/site.js"></script>
+</body>
+</html>

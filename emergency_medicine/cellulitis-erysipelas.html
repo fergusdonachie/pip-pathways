@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cellulitis/erysipelas — DGRefHelp Drafts</title>
+  <link rel="stylesheet" href="../assets/site.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="brand">
+        <h1><a href="../index.html">DGRefHelp drafts</a> / Cellulitis/erysipelas</h1>
+        <div class="sub">Evidence summary (key statements + how they fit together) → DGRefHelp first draft (primary care triage + when to refer/admit).</div>
+      </div>
+      <div class="badges">
+        <div class="badge">Mode: quick</div>
+        <div class="badge">Last updated: 2026‑02‑11</div>
+      </div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="card-hd">
+          <div class="tabs" data-tabs>
+            <button class="tab" role="tab" data-tab="evidence" aria-selected="true">Evidence</button>
+            <button class="tab" role="tab" data-tab="draft" aria-selected="false">DGRefHelp draft</button>
+            <button class="tab" role="tab" data-tab="refs" aria-selected="false">References</button>
+          </div>
+          <div class="copybar">
+            <button class="btn" data-copy-target="#draftText">Copy draft</button>
+            <button class="btn" data-copy-target="#evidenceText">Copy evidence</button>
+          </div>
+        </div>
+
+        <div class="card-bd">
+          <div class="panel active" role="tabpanel" data-panel="evidence">
+            <div id="evidenceText" class="section">
+              <h3>Evidence summary (triangulated)</h3>
+
+              <div class="callout ok">
+                <strong>Key decision points to build the page around</strong>
+                <ul>
+                  <li><strong>Don’t overcall “cellulitis”</strong>: exclude common mimics (venous stasis dermatitis, inflammatory bite reaction, gout, contact dermatitis, DVT) before antibiotics.</li>
+                  <li><strong>Same‑day / hospital</strong> if features suggest a serious soft‑tissue infection or systemic illness (necrotising fasciitis, sepsis, orbital/periorbital cellulitis, septic arthritis/osteomyelitis).</li>
+                  <li><strong>Oral antibiotics first line</strong> if the patient can take oral medicines and isn’t severely unwell; reassess if not improving in <strong>2–3 days</strong> or if rapidly worsening.</li>
+                </ul>
+              </div>
+
+              <h4>1) NICE NG141 (cellulitis and erysipelas: antimicrobial prescribing) — the practical rules</h4>
+              <ul>
+                <li>Before treating, <strong>exclude other causes of redness</strong> (for example inflammatory reaction to immunisation/insect bite; chronic venous insufficiency).</li>
+                <li><strong>Swabs</strong> are rarely useful: consider only if the skin is broken <em>and</em> there is a penetrating injury, water exposure, or acquisition outside the UK.</li>
+                <li><strong>Draw around the erythema</strong> to monitor progress (note: erythema may be less visible on darker skin tones).</li>
+                <li><strong>Oral first line</strong> unless severity requires IV; if IV used, <strong>review by 48h</strong> and switch to oral if possible.</li>
+                <li><strong>Reassess</strong> if symptoms worsen rapidly/significantly, do not start to improve within <strong>2–3 days</strong>, severe pain out of proportion, or spreading beyond initial presentation.</li>
+                <li><strong>Refer to hospital</strong> if signs suggest more serious illness/condition (examples given: orbital cellulitis, osteomyelitis, septic arthritis, necrotising fasciitis, sepsis).</li>
+                <li><strong>Consider referral / specialist advice</strong> if severely unwell, infection near eyes/nose, possible uncommon pathogens, spreading infection not responding to oral antibiotics, lymphangitis, or cannot take oral antibiotics (consider local IV-at-home/community options where appropriate).</li>
+                <li>Manage predispositions: diabetes, venous insufficiency, eczema, oedema (incl. CCB‑related).</li>
+              </ul>
+
+              <h4>2) What this implies for a D&amp;G DGRefHelp page (scope decisions)</h4>
+              <ul>
+                <li>This page is <strong>triage + routing</strong> focused; antibiotic choice should be linked to (or deferred to) <strong>local antimicrobial guidance</strong> (NICE gives reasonable defaults).</li>
+                <li>Keep a tight list of “<strong>don’t miss</strong>” differentials and the “<strong>triangle of danger</strong>” (eyes/nose) rule as a referral accelerator.</li>
+                <li>Keep <strong>Local agreement needed</strong> items explicit (e.g., SDEC/OPAT availability, who owns follow‑up at 48–72h, and which service takes ‘failed oral’ cases).</li>
+              </ul>
+
+              <div class="small">This evidence summary is written for pathway design: it highlights decision‑changing points and where local policy choices sit.</div>
+            </div>
+          </div>
+
+          <div class="panel" role="tabpanel" data-panel="draft">
+
+            <div class="callout" style="margin-bottom:12px">
+              <strong>Copy/paste HTML for Right Decisions accordion sections</strong>
+              <div class="small">Per your preference, these snippets contain section content only (no internal headings). Paste each into the matching accordion section.</div>
+              <div style="height:10px"></div>
+              <div class="copybar" style="justify-content:flex-start">
+                <button class="btn" data-copy-target="#htmlBackground">Copy Background HTML</button>
+                <button class="btn" data-copy-target="#htmlAssessment">Copy Assessment HTML</button>
+                <button class="btn" data-copy-target="#htmlPCM">Copy Primary care mgmt HTML</button>
+                <button class="btn" data-copy-target="#htmlRefer">Copy Who to refer HTML</button>
+                <button class="btn" data-copy-target="#htmlNotRefer">Copy Who not to refer HTML</button>
+                <button class="btn" data-copy-target="#htmlRefs">Copy References HTML</button>
+              </div>
+
+              <details style="margin-top:10px">
+                <summary class="small" style="cursor:pointer">Show HTML snippets</summary>
+
+                <h4 style="margin:12px 0 6px">Background (HTML)</h4>
+                <pre id="htmlBackground">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cellulitis/erysipelas&lt;/strong&gt; is an acute bacterial skin/soft-tissue infection (often streptococci/staphylococci). Erysipelas is typically more superficial with a well-demarcated edge.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t miss&lt;/strong&gt;: necrotising fasciitis/serious soft-tissue infection, sepsis, periorbital/orbital cellulitis, septic arthritis/osteomyelitis.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Don’t overcall&lt;/strong&gt;: common mimics include venous stasis dermatitis/lipodermatosclerosis, inflammatory bite reactions, contact dermatitis, gout/pseudogout, superficial thrombophlebitis and DVT.&lt;/li&gt;
+&lt;/ul&gt;</pre>
+
+                <h4 style="margin:12px 0 6px">Assessment (primary care) (HTML)</h4>
+                <pre id="htmlAssessment">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;History:&lt;/strong&gt; onset and progression, systemic symptoms (rigors, confusion), pain severity, breaks in skin (eczema/ulcer/tinea pedis), bites/trauma, water exposure, travel, prior MRSA, immunosuppression, diabetes/lymphoedema/venous disease.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Examination:&lt;/strong&gt; temperature, HR/BP, size and spread, lymphangitis, fluctuance/abscess, crepitus, bullae, disproportionate pain, reduced sensation, joint involvement, facial/periorbital involvement.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Practical tip:&lt;/strong&gt; draw around erythema margin to monitor progression (be aware erythema may be less visible on darker skin tones).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;If skin is broken:&lt;/strong&gt; consider swab only if penetrating injury, water-borne exposure, or acquired outside the UK.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Consider differentials:&lt;/strong&gt; stasis dermatitis/lipodermatosclerosis, gout, contact dermatitis, superficial thrombophlebitis, DVT (especially unilateral swollen calf) or inflammatory bite reaction.&lt;/li&gt;
+&lt;/ul&gt;</pre>
+
+                <h4 style="margin:12px 0 6px">Primary care management (HTML)</h4>
+                <pre id="htmlPCM">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;If uncomplicated and not severely unwell:&lt;/strong&gt; treat with &lt;strong&gt;oral antibiotics first line&lt;/strong&gt; (use local antimicrobial guidance; NICE NG141 provides default choices).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Supportive care:&lt;/strong&gt; analgesia; elevate affected limb; mark the margin; advise skin may take time to look normal after antibiotics finish.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Address entry points / predispositions:&lt;/strong&gt; treat tinea pedis/interdigital maceration; optimise eczema care; manage oedema/venous insufficiency; optimise diabetes control.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Safety-net / review:&lt;/strong&gt; seek help if rapid worsening at any time, or if not starting to improve within &lt;strong&gt;2–3 days&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;</pre>
+
+                <h4 style="margin:12px 0 6px">Who to refer (HTML)</h4>
+                <pre id="htmlRefer">&lt;p&gt;&lt;strong&gt;Same-day hospital assessment (ED/SDEC/acute pathway)&lt;/strong&gt; if any of:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Features of &lt;strong&gt;sepsis&lt;/strong&gt; or the person is &lt;strong&gt;systemically very unwell&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Severe pain out of proportion&lt;/strong&gt;, rapidly progressive infection, crepitus, skin necrosis, bullae, anaesthesia or concern for &lt;strong&gt;necrotising fasciitis&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Concern for &lt;strong&gt;orbital/periorbital cellulitis&lt;/strong&gt; or infection near the eyes/nose (higher risk of intracranial complication).&lt;/li&gt;
+  &lt;li&gt;Possible &lt;strong&gt;septic arthritis&lt;/strong&gt; (hot swollen joint, severe pain with movement) or &lt;strong&gt;osteomyelitis&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Consider referral / seek specialist advice&lt;/strong&gt; (depending on local options) if:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spreading infection &lt;strong&gt;not responding to oral antibiotics&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Lymphangitis.&lt;/li&gt;
+  &lt;li&gt;Cannot take oral antibiotics (consider local IV-at-home / community IV options where available).&lt;/li&gt;
+  &lt;li&gt;Possible &lt;strong&gt;uncommon pathogens&lt;/strong&gt; (penetrating injury, water exposure, acquired outside UK) or MRSA risk (follow local advice).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Route (draft):&lt;/strong&gt; DGRI SDEC/ED for severe/systemic/red flags; otherwise manage in primary care with planned review. If “failed oral” but stable, refer via locally agreed ambulatory IV/assessment route.&lt;/p&gt;</pre>
+
+                <h4 style="margin:12px 0 6px">Who not to refer (HTML)</h4>
+                <pre id="htmlNotRefer">&lt;ul&gt;
+  &lt;li&gt;Mild/localised cellulitis/erysipelas with no systemic features, no red flags and able to take oral antibiotics.&lt;/li&gt;
+  &lt;li&gt;Likely mimic (e.g. venous stasis dermatitis, inflammatory bite reaction, gout) where infection is not the main diagnosis — manage the underlying condition and safety-net.&lt;/li&gt;
+&lt;/ul&gt;</pre>
+
+                <h4 style="margin:12px 0 6px">References (HTML)</h4>
+                <pre id="htmlRefs">&lt;ol&gt;
+  &lt;li&gt;NICE NG141: Cellulitis and erysipelas: antimicrobial prescribing (recommendations: reassess at 2–3 days; oral first line; referral criteria). https://www.nice.org.uk/guidance/ng141/chapter/Recommendations (retrieved 2026‑02‑11)&lt;/li&gt;
+&lt;/ol&gt;</pre>
+              </details>
+            </div>
+
+            <div id="draftText" class="section">
+              <h3>Cellulitis/erysipelas</h3>
+
+              <h4>Background</h4>
+              <ul>
+                <li><strong>Cellulitis/erysipelas</strong> is an acute bacterial skin/soft-tissue infection (often streptococci/staphylococci). Erysipelas is typically more superficial with a well-demarcated edge.</li>
+                <li><strong>Don’t miss:</strong> necrotising fasciitis/serious soft-tissue infection, sepsis, periorbital/orbital cellulitis, septic arthritis/osteomyelitis.</li>
+                <li><strong>Don’t overcall:</strong> common mimics include venous stasis dermatitis/lipodermatosclerosis, inflammatory bite reactions, contact dermatitis, gout/pseudogout, superficial thrombophlebitis and DVT.</li>
+              </ul>
+
+              <h4>Assessment (primary care) — collapsible</h4>
+              <ul>
+                <li><strong>History:</strong> onset/progression; systemic symptoms (rigors, confusion); pain severity; breaks in skin (eczema/ulcer/tinea pedis); bites/trauma; water exposure/travel; prior MRSA; immunosuppression; diabetes/lymphoedema/venous disease.</li>
+                <li><strong>Examination:</strong> obs (T, HR, BP); size/spread; lymphangitis; fluctuance/abscess; crepitus; bullae; disproportionate pain; reduced sensation; joint involvement; facial/periorbital involvement.</li>
+                <li><strong>Practical tip:</strong> draw around erythema margin to monitor progression (NICE). Be aware erythema may be less visible on darker skin tones.</li>
+                <li><strong>If skin is broken:</strong> consider swab only if penetrating injury, water-borne exposure, or acquired outside the UK (NICE).</li>
+                <li><strong>Consider differentials:</strong> stasis dermatitis/lipodermatosclerosis, gout, contact dermatitis, superficial thrombophlebitis, DVT, inflammatory bite reaction.</li>
+              </ul>
+
+              <h4>Primary care management</h4>
+              <ul>
+                <li><strong>If uncomplicated and not severely unwell:</strong> treat with <strong>oral antibiotics first line</strong> (use local antimicrobial guidance; NICE NG141 provides default choices).</li>
+                <li><strong>Supportive care:</strong> analgesia; elevate affected limb; mark the margin; advise skin may take time to look normal after antibiotics finish.</li>
+                <li><strong>Address entry points / predispositions:</strong> treat tinea pedis/interdigital maceration; optimise eczema care; manage oedema/venous insufficiency; optimise diabetes control.</li>
+                <li><strong>Safety-net / review:</strong> seek help if rapid worsening at any time, or if not starting to improve within <strong>2–3 days</strong> (NICE).</li>
+              </ul>
+
+              <h4>Who to refer</h4>
+
+              <h4>Same-day hospital assessment (ED/SDEC/acute pathway)</h4>
+              <ul>
+                <li>Features of <strong>sepsis</strong> or the person is <strong>systemically very unwell</strong>.</li>
+                <li><strong>Severe pain out of proportion</strong>, rapidly progressive infection, crepitus, skin necrosis, bullae, anaesthesia or concern for <strong>necrotising fasciitis</strong>.</li>
+                <li>Concern for <strong>orbital/periorbital cellulitis</strong> or infection near the eyes/nose (higher risk of intracranial complication).</li>
+                <li>Possible <strong>septic arthritis</strong> (hot swollen joint, severe pain with movement) or <strong>osteomyelitis</strong>.</li>
+              </ul>
+
+              <h4>Consider referral / seek specialist advice (local options)</h4>
+              <ul>
+                <li>Spreading infection <strong>not responding to oral antibiotics</strong>.</li>
+                <li>Lymphangitis.</li>
+                <li>Cannot take oral antibiotics (consider local IV-at-home / community IV options where available).</li>
+                <li>Possible <strong>uncommon pathogens</strong> (penetrating injury, water exposure, acquired outside UK) or MRSA risk (follow local advice).</li>
+              </ul>
+
+              <p class="small"><strong>Route (draft):</strong> DGRI SDEC/ED for severe/systemic/red flags; otherwise manage in primary care with planned review. If “failed oral” but stable, refer via locally agreed ambulatory IV/assessment route.</p>
+
+              <h4>Who not to refer</h4>
+              <ul>
+                <li>Mild/localised cellulitis/erysipelas with no systemic features, no red flags and able to take oral antibiotics.</li>
+                <li>Likely mimic (e.g. venous stasis dermatitis, inflammatory bite reaction, gout) where infection is not the main diagnosis — manage the underlying condition and safety-net.</li>
+              </ul>
+
+              <h4>Local agreement needed (drafting-site only)</h4>
+              <ul>
+                <li><label><input type="checkbox" disabled /> Confirm <strong>local antibiotic choices/doses</strong> to display (D&amp;G antimicrobial guide) vs keeping a single “see local antimicrobial guidance” link.</label></li>
+                <li><label><input type="checkbox" disabled /> Confirm the <strong>default route</strong> for “failed oral but stable” cellulitis (SDEC? ambulatory IV/OPAT? acute medicine?).</label></li>
+                <li><label><input type="checkbox" disabled /> Confirm whether there is a <strong>community IV</strong> option (OPAT) and who can refer directly.</label></li>
+                <li><label><input type="checkbox" disabled /> Confirm who should provide <strong>48–72h review</strong> (practice review vs SDEC follow-up) and the trigger threshold for escalation.</label></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="panel" role="tabpanel" data-panel="refs">
+            <div class="section">
+              <h3>References (retrieved 2026‑02‑11)</h3>
+              <ol>
+                <li>NICE NG141: Cellulitis and erysipelas: antimicrobial prescribing (recommendations: reassess at 2–3 days; oral first line; referral criteria). <a href="https://www.nice.org.uk/guidance/ng141/chapter/Recommendations">nice.org.uk</a></li>
+              </ol>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="footer">
+        <a href="../index.html">← Back to topics</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="../assets/site.js"></script>
+</body>
+</html>
