@@ -35,7 +35,6 @@ Tests:
 
 Manage via atrial fibrillation pathway
 
-
 ### Normal ECG (or ectopics only and no risk factors*)
 
 Manage potential lifestyle causes:
@@ -65,8 +64,6 @@ These are likely to respond to lifestyle modification and can generally be manag
 - Accompanying chest pain or lightheadedness.
 - History or physical signs of structural heart disease, heart failure, or hypertension.
 
- 
-
 ## Who to refer
 
 
@@ -84,7 +81,6 @@ Physiologist will triage referral for appropriate investigation based on the ref
 If normal, holter results will be sent direct back to referrer.
 
 If abnormal, holter results will be sent by the Physiologists to Cardiologist for review, a copy will be sent to GP.
-
 
 ### Abnormal ECG and or risk factors*
 
@@ -105,9 +101,8 @@ Routine Referral to Cardiology:
 - Recurrent sustained tachyarrhythmia, AF, or flutter.
 - Symptoms consistent with paroxysmal supraventricular tachycardia.
 - Ventricular ectopics if:
-
-underlying heart disease is suspected from clinical assessment or ECG
-- ectopics are very frequent or ventricular tachycardia is suspected
+    - underlying heart disease is suspected from clinical assessment or ECG
+    - ectopics are very frequent or ventricular tachycardia is suspected
 
 ## Who not to refer
 

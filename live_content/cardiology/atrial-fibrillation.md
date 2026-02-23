@@ -34,7 +34,7 @@ Oral Anticoagulant Therapy:
 
 Lifestyle Advice:
 
-- Encourage weight loss for overweight patients (BMI >27kg/mÂ²).
+- Encourage weight loss for overweight patients (BMI >27kg/m²).
 - Encourage physical activity and moderate exercise.
 - Discuss moderation or abstinence from alcohol.
 - Advise minimising caffeine intake.
@@ -42,12 +42,12 @@ Lifestyle Advice:
 ## Who to refer
 
 - Criteria for Rhythm Control and Cardioversion:
-- Symptomatic AF despite adequate rate control.
-- Young age (<65 years).
-- Inadequate rate control despite measures or intolerance of these.
-- Structural heart disease on echocardiography.
-- AF and co-existing heart failure.
-- Symptomatic paroxysmal AF requiring a rhythm control strategy.
+    - Symptomatic AF despite adequate rate control.
+    - Young age (<65 years).
+    - Inadequate rate control despite measures or intolerance of these.
+    - Structural heart disease on echocardiography.
+    - AF and co-existing heart failure.
+    - Symptomatic paroxysmal AF requiring a rhythm control strategy.
 
 ## Who not to refer
 

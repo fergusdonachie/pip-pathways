@@ -18,13 +18,14 @@ Initial investigations include:
 
 If referring for consideration of angina diagnosis:
 
-- Provide the person with sublingual glyceryl trinitrate to use for the relief of symptoms while they are waiting for specialist assessment.
+- Provide the person with sublingual glyceryl trinitrate to use for the relief of symptoms while they are waiting for specialist assessment.
 - Instruct the person that if they experience chest pain they should:
-
-Stop what they are doing and rest.
-- If symptoms persist after 5 minutes use their glyceryl trinitrate as instructed.
-- Take a second dose after 5 minutes if the pain has not eased.
-- Call 999 for an ambulance if the pain persists, or earlier if the pain is intensifying and the person feels unwell.
+    - Stop what they are doing and rest.
+    - If symptoms persist after 5 minutes use their glyceryl trinitrate as instructed.
+    - Take a second dose after 5 minutes if the pain has not eased.
+    - Call 999 for an ambulance if the pain persists, or earlier if the pain is intensifying and the person feels unwell.
+- Consider prescribing aspirin (75 mg daily), Atorvastatin 80mg and other anti-anginal medication as appropriate until the diagnosis is confirmed.
+- Manage cardiovascular risk factors, including lifestyle advice
 
 ## Who to refer
 
@@ -33,7 +34,6 @@ Stop what they are doing and rest.
 
 - Increase in severity or frequency of symptoms over recent days and/or
 - Prolonged rest pain > 20 minutes within the past 12 hours
-
 
 ### Refer to Rapid Access Chest Pain Clinic
 
@@ -49,7 +49,6 @@ Referrals are made via SCI-Gateway...DGRI...Cardiology...RACPS.
 All referrals are treated as urgent.
 
 Please DO not tell the patient they are attending for ETT. All patientss are seen, a full clinical history taken and any investigations required will be decided at the time of their appointment
-
 
 ### Refer to cardiology
 

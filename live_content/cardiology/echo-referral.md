@@ -5,13 +5,11 @@ Fetched: 2026-02-23
 
 ## Assessment
 
-Please include in the clinical details all the data which would be sent for a  referral to the cardiology clinic:
+Please include in the clinical details all the data which would be sent for a referral to the cardiology clinic:
 
 - History and examination findings
 - FBC, U&E
 - ECG
-
- 
 
 Referrals are done via SCI Gateway...DGRI...Cardiology...Open Access Echo
 
@@ -19,8 +17,8 @@ Referrals are done via SCI Gateway...DGRI...Cardiology...Open Access Echo
 
 Appropriate patients for referral would include those with :-
 
-- New Murmurs - do check back records to ensure this has not previously been diagnosed. 
-- New onset AF with heart murmur 
+- New Murmurs - do check back records to ensure this has not previously been diagnosed.
+- New onset AF with heart murmur
 
 Referrals for diagnosis of heart failure should be referred via the heart failure pathway.
 

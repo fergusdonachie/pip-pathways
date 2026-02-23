@@ -23,7 +23,7 @@ Initial assessment should include:
 - NT-proBNP
 - ECG
 
-A NT-ProBNP of < 400 pg/mL effectively excludes *symptomatic* heart failure (the BNP will drop in well controlled heart failure)
+A NT-ProBNP of < 400 pg/mL effectively excludes*symptomatic*heart failure (the BNP will drop in well controlled heart failure)
 
 NT-ProBNP is not specific to heart failure and levels rise moderately with age, in atrial fibrillation, in chronic kidney disease (typically to around 400-1000 pg/mL). However in the context of a patient with symptoms/signs of heart failure a NT-ProBNP > 400 merits referral for echo.
 
@@ -58,9 +58,8 @@ Include:
 All referrals will be triaged by Clinical Physiology
 
 - Urgent echo will be considered if:
-
-NT-proBNP >2000 pg/mL or,
-- Clinical/ECG features suggest significant cardiac dysfunction .
+    - NT-proBNP >2000 pg/mL or,
+    - Clinical/ECG features suggest significant cardiac dysfunction .
 
 Echo results will be returned to the referring clinician with a clear interpretation.
 
@@ -76,9 +75,7 @@ Do not refer:
 - Patients with normal NTProBNP and no compelling clinical features
 - Patients with preserved ejection fraction (see below)
 
-
 #### Heart Failure with Preserved Ejection Fraction (HFpEF)
-
 
 ##### What is HFpEF?
 
@@ -94,7 +91,6 @@ It is common in older adults, especially women, and is often associated with:
 
 Unlike heart failure with reduced ejection fraction (HFrEF), there is no proven disease-modifying treatment, and management is focused on symptom control and comorbidity optimisation.
 
-
 ##### Management of HFpEF?
 
 If the echo report shows preserved ejection fraction and:
@@ -102,16 +98,17 @@ If the echo report shows preserved ejection fraction and:
 - There are symptoms consistent with heart failure, and
 - There is no major structural abnormality requiring cardiology review (e.g. severe valve disease):
 
-Then GPs should:  
+Then GPs should:
 
-- Consider a loop diuretic (e.g. furosemide 20–40 mg) if oedema or breathlessness.
-
-- Tight control of blood pressure, blood sugar, and atrial fibrillation.
-- Weight management and physical activity as tolerated.
-
-- NSAIDs
-- Rate-limiting calcium channel blockers in patients with pulmonary congestion
-
+- Manage fluid overload:
+    - Consider a loop diuretic (e.g. furosemide 20–40 mg) if oedema or breathlessness.
+- Consider SGLT2 (e.g. Dapagliflozin
+- Optimise comorbidities:
+    - Tight control of blood pressure, blood sugar, and atrial fibrillation.
+    - Weight management and physical activity as tolerated.
+- Avoid medications that may worsen symptoms:
+    - NSAIDs
+    - Rate-limiting calcium channel blockers in patients with pulmonary congestion
 
 ##### When to Refer
 

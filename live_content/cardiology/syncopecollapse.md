@@ -17,14 +17,13 @@ Initial Assessment:
 
 ## Primary care management
 
-Refer for Ambulatory ECG via SCI Gateway...DGRI...Cardiology...Community Holter - please attach ECG! 
+Refer for Ambulatory ECG via SCI Gateway...DGRI...Cardiology...Community Holter - please attach ECG!
 
 - Physiologist will triage referral for appropriate investigation based on the referral information:
-
-Daily symptoms - 24 hour holter 
-- Several times a week: Holter monitoring (24 - 72 hours).
-- Weekly symptoms: 7 day holder.
-- Less frequent: Event recorder.
+    - Daily symptoms - 24 hour holter
+    - Several times a week: Holter monitoring (24 - 72 hours).
+    - Weekly symptoms: 7 day holder.
+    - Less frequent: Event recorder.
 
 Holter results:
 
