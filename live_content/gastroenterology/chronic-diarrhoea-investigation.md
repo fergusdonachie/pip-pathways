@@ -25,7 +25,7 @@ Consider other surgical/structural/rare causes including:
 - **Malabsorption**: Iron, B12, folic acid, Ca, albumin, coeliac, F elastase
 - **Immunodeficiency**: HIV Igs
 - **Microscopic colitis**: Colonoscopy + biopsy
-- **IBD**: faecal Calprotectin and colonoscopy 
+- **IBD**: faecal Calprotectin and colonoscopy
 
 ## Malabsorption
 

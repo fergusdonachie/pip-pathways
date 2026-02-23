@@ -48,12 +48,12 @@ Presentation
 - Sign post to NHS Inform - www.nhsinform.scot
 - Sign post to NHS Doing More – www.dgdoingmore.co.uk
 
- 
+
 
 Issue condition specific leaflet
 
 - Hallux valgus (Bunions)
-- Hallus limits or rigidus
+- Hallus limits or rigidus
 - Morton's neuroma
 
 ## Refer

@@ -19,7 +19,7 @@ Presentation
 - Certain shoes e.g. hard leather can make it painful
 - Pain often worse after rest e.g. when rising from bed, before symptoms
 - Worse after major injury to midfoot.
-- A palpable bony prominence called an osteophyte usually forms over affected joints
+- A palpable bony prominence called an osteophyte usually forms over affected joints
 
 ## Differential diagnosis
 
@@ -38,7 +38,7 @@ Presentation
 - Sign post to NHS Inform - www.nhsinform.scot
 - Sign post to NHS Doing More – www.dgdoingmore.co.uk
 
- 
+
 
 ## Refer
 

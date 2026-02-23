@@ -7,13 +7,13 @@ Fetched: 2026-02-23
 
 The EAST pathway for postmenopausal bleeding can be found here.
 
- 
+
 
 ## Postmenopausal bleeding pathway - WEST
 
 The WEST pathway for postmenopausal bleeding can be found here.
 
- 
+
 
 ---
 ## Editorial Information

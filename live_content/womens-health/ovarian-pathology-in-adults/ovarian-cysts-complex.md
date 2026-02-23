@@ -19,9 +19,9 @@ Fetched: 2026-02-23
 - Gynae referral, CA125 and staging CT (chest, abdominal, pelvis)
 - Note: If <25 yrs further tumour markers and MRI prior to CT may be arranged at the discretion of gynaecology
 
-- Gynaecology referral, CA125 and staging CT (chest, abdominal, pelvis) but if age <40 yrs, further tumour markers and MRI - additional CT at discretion of gynaecology MDT
+- Gynaecology referral, CA125 and staging CT (chest, abdominal, pelvis) but if age <40 yrs, further tumour markers and MRI - additional CT at discretion of gynaecology MDT
 
- 
+
 
 ---
 ## Editorial Information

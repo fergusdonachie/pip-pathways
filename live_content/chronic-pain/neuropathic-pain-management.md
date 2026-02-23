@@ -5,12 +5,9 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
-###### This guideline is currently under review.  This information has been confirmed as safe to use by the Secondary Care Pain Team.
-
+###### This guideline is currently under review.  This information has been confirmed as safe to use by the Secondary Care Pain Team.
 
 ###### Consider the following special situations
-
 
 ###### Red flags
 
@@ -19,13 +16,11 @@ Fetched: 2026-02-23
 - Pain significantly limits daily activities
 - Underlying health condition has deteriorated
 
-
 ###### Referral to specialist care
 
 - Failure of medical management
 - Consideration of Qutenza and other interventions
 - Consideration of MDT assessment and management
-
 
 ###### Chronic regional pain syndrome
 
@@ -48,13 +43,11 @@ Do not forget self management resources - Pain Association, Pain Concern and NHS
 
 Choice depends on patient factors and physician preference
 
-
 ###### Amitriptyline
 
 Start at 10 mg at night time increase at 10 mg increments per week up to dose with maximum benefit and least side effects
 
 - Maximum dose – 125 mg
-
 
 ###### Gabapentin
 
@@ -65,7 +58,6 @@ Start at 300 mg at night time and build up in 300 mg increments per week (throug
 
 ## 2nd line management
 
-
 ###### Pregabalin
 
 If amitriptyline or gabapentin is not effective or not tolerated). Start at 75 mg twice a day and build up to a dose with maximum benefit with least side effects.
@@ -75,11 +67,9 @@ If amitriptyline or gabapentin is not effective or not tolerated). Start at 75 m
 
 ## 3rd line management
 
-
 ###### Alternative Tricyclics
 
 Nortriptyline or Imipramine in doses between 25-75mg/daily
-
 
 ###### SNRI antidepressants/Cabamazepine
 
@@ -90,10 +80,9 @@ Nortriptyline or Imipramine in doses between 25-75mg/daily
 
 ## 4th line management
 
-
 ###### Topical agents
 
-- Lidocaine 5% plaster can be used for localised neuropathic pain to be applied for 12 hrs and off for 12 hrs. Maximum dose – 3 patches each time
+- Lidocaine 5% plaster can be used for localised neuropathic pain to be applied for 12 hrs and off for 12 hrs. Maximum dose – 3 patches each time
 - Capsaicin 0.075% cream could be used 3-4 times a day for 3-4 weeks
 
 ## 5th line management

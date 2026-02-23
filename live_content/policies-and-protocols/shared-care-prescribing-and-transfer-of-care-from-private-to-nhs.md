@@ -11,9 +11,7 @@ Document Reference: D&G Guidance for Shared Care Approved Version: 1.1 June 2023
 
 Printed copies must not be considered the definitive version.
 
-
 ### Document Control
-
 
 ### Contents
 
@@ -29,7 +27,6 @@ Printed copies must not be considered the definitive version.
 - 4.2 Bariatric Surgery
 - 4.3 Gender Dysphoria
 
-
 ### 1. Background
 
 Many ‘secondary care’ conditions can be appropriately managed with a shared care approach with primary care where some of the monitoring is carried out in primary care with a clear management plan for escalation back to the secondary care specialist. Examples are monitoring of PSA in stable prostate cancer patients or monitoring of disease-modifying rheumatology drugs.
@@ -40,7 +37,6 @@ Patients are increasingly seeking for GPs to provide prescriptions or monitoring
 
 There are long waits for some NHS specialist services, in particular gender clinics, and many patients are seeking interim treatment from GPs or are sourcing treatment online from uncertain sources and asking GPs to continue these on the NHS.
 
-
 ### 2. Underlying Principles
 
 - Doctors should work within the limits of their competence.
@@ -48,9 +44,7 @@ There are long waits for some NHS specialist services, in particular gender clin
 - Doctors working in the UK are bound by GMC Duties of a doctor which includes an obligation to provide safe handover of care.
 - Specialist only medication can be prescribed by GPs only as part of a shared care agreement.
 
-
 ### 3. General Scenarios
-
 
 #### 3.1 NHS Specialist Requesting Monitoring or Prescribing by GP
 
@@ -58,13 +52,11 @@ This requires an agreement by both parties and is usually done under an Enhanced
 
 Where the only involvement of Primary Care is to issue a prescription under direct specialist guidance a funded enhanced service may not be required.
 
-
 #### 3.2 Private UK Based Specialist Providing Equivalent Care to NHS
 
 Patients may choose to move back to NHS care from a private provider. This should be arranged directly by the private clinic to the NHS specialist who may then be in a position to arrange shared care. In the interim period patients should continue to source prescriptions and monitoring from the private clinic.
 
 Where there is ongoing monitoring/supervision by the private clinic, patients should continue to obtain private prescriptions. GPs should not issue NHS prescriptions.
-
 
 #### 3.3 Private Specialist Based Abroad
 
@@ -72,9 +64,7 @@ If the treatment that has been procured privately is not available on NHS (e.g. 
 
 If the treatment would be available on the NHS, then patients can transfer to NHS. This should be arranged by the private provider but for private specialists abroad this is unlikely, and GPs may need to facilitate the referral. Interim prescribing and monitoring should continue from the private provider abroad or transfer to a UK private provider.
 
-
 ### 4. Specific Scenarios
-
 
 #### 4.1 Adult ADHD
 
@@ -82,17 +72,14 @@ If the treatment would be available on the NHS, then patients can transfer to NH
 - Methylphenidate is unlicensed for use in adults for ADHD, but BNF gives guidance on appropriate doses which can be prescribed under specialist guidance.
 - Monitoring requirements – BP, pulse, psychiatric symptoms, appetite, weight, and height should be recorded at initiation of therapy, following each dose adjustment, and at least every 6 months thereafter.
 
-
 ##### Patients diagnosed by private service
 
 - Psychiatry will not reassess patients for the sole purpose of confirming a diagnosis made by a private clinic.
 - If patients have been diagnosed and treatment initiated by a private service, they must continue to obtain prescriptions and monitoring from their private service. GPs should not give NHS prescriptions.
 
-
 ##### Patients diagnosed by NHS
 
 - Supervision and monitoring is done by psychiatry, prescription issued by GP.
-
 
 #### 4.2 Bariatric Surgery
 
@@ -103,13 +90,11 @@ If the treatment would be available on the NHS, then patients can transfer to NH
 - Ongoing monitoring of Bloods at least annually – varies with procedure.
 - Ongoing nutritional supplements – varies with procedure.
 
-
 ##### Patients receiving surgery on NHS
 
 - 2-year follow-up by regional centre.
 - A clear monitoring plan will be issued, and the regional centre will continue to be available for review and advice.
 - After an initial monitoring period care will be transferred locally and the local weight management clinic will advise as necessary via advice request.
-
 
 ##### Patients receiving surgery privately who would fit criteria for NHS treatment
 
@@ -117,14 +102,12 @@ If the treatment would be available on the NHS, then patients can transfer to NH
 - Patients can request to transfer to NHS after the initial follow-up period. The patient should ensure that an appropriate handover is given clearly documenting the procedure and the requirement for supplements and blood monitoring.
 - The local weight management clinic can advise as necessary via a SCI-Gateway advice request.
 
-
 ##### Patients receiving surgery privately not fitting criteria for NHS treatment
 
 - Lifelong follow-up and monitoring should be arranged with a private provider.
 - NHS Scotland policy states this will not be provided by NHS, although emergency treatment will still be provided.
 - It is accepted that both the above statements are unrealistic, and a pragmatic approach may be needed in dealing with these patients.
 - The local weight management clinic will advise on appropriate follow-up and monitoring.
-
 
 #### 4.3 Gender Dysphoria
 
@@ -134,17 +117,15 @@ If the treatment would be available on the NHS, then patients can transfer to NH
 - The specialist centre remains available for prompt advice even after discharge.
 - Hormone prescribing for gender dysphoria is off licence.
 
-
 ##### Patients receiving diagnosis at private gender clinic
 
 - Prescribing and monitoring should continue to be by the private provider.
 - GPs should not issue NHS prescriptions. If patients request to transfer to NHS care then the private provider should arrange this with the regional NHS tertiary centre (Sandyford Clinic).
 
-
 ##### Patients requesting prescription while waiting for gender clinic
 
 - Initiating hormone treatment should only be done after expert multidisciplinary assessment and should not be initiated by GPs.
-- GPs should not issue prescriptions to patients who are requesting them even if they are already sourcing medication online or from another unauthorised source. 
+- GPs should not issue prescriptions to patients who are requesting them even if they are already sourcing medication online or from another unauthorised source.
 
 ---
 ## Editorial Information

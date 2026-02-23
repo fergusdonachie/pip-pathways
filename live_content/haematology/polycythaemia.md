@@ -8,7 +8,7 @@ Fetched: 2026-02-23
 Polycythaemia is characterised by
 
 - elevated haemoglobin > 180g/L (males), > 165 (females) and/or
-- rise in Haematocrit > 0.52  (males), >0.45 (females).
+- rise in Haematocrit > 0.52  (males), >0.45 (females).
 
 Causes
 
@@ -40,12 +40,10 @@ Discuss referral to haematology if there is steady rise in red cell indices or s
 
 ## Who to refer
 
-
 ### Urgent referral
 
 - Very high Haematocrit; > 0.6 in males, > 0.56 in females
 - Raised Haematocrit in association with acute arterial or venous thrombotic event or active neurological symptoms (persistent headache, visual impairment, TIA)
-
 
 ### Routine referral or advice request
 

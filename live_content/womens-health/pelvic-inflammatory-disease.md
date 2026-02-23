@@ -16,7 +16,7 @@ Adapted from BASHH UK national guideline for the management of PID (June 2011) a
 - Adnexal tenderness/cervical motion tenderness
 - Fever ≥ 38**°**C
 
- 
+
 
 ## Admission
 
@@ -28,7 +28,7 @@ Consider admission in following:
 - Intolerance to oral therapy
 - Presence of tubo-ovarian abscess
 
- 
+
 
 ## Differential diagnoses
 
@@ -41,7 +41,7 @@ Consider:
 - UTI
 - Functional pain
 
- 
+
 
 ## Investigations
 
@@ -53,12 +53,12 @@ high vaginal for culture
 - endocervical for culture (absence of pus cells has negative predictive value of 95% for PID)
 - endocervical for chlamydia/gonorrhoea PCR testing
 
- 
+
 
 ## Treatment
 
 - Delay increases risk of sequelae e.g., infertility, ectopic pregnancy and chronic pelvic pain
-- Outpatient treatment as effective as inpatient therapy for clinically mild-moderate PID
+- Outpatient treatment as effective as inpatient therapy for clinically mild-moderate PID
 - All recommended regimens are of similar efficacy, however, consider need for gonococcal cover and select regimen with cover (see ‘Treatment’ below). Higher risk of gonorrhoea in:
 
 young adults
@@ -68,29 +68,29 @@ young adults
 - sexual contact overseas
 - severe symptoms
 
- 
+
 
 ## Outpatient treatment
 
- 
+
 
 - Complete total of 14 days treatment for both regimens
 - If you suspect gonorrhoea/high risk for gonorrhoea, give **regimen 1**
 - For alternative outpatient regimens please consult BASHH guidelines
 
- 
+
 
 ## Inpatient treatment
 
- 
+
 
 - Complete total of 14 days of treatment for all regimens
 - The **arrows** indicate suggested IV to oral therapy 24 hours following clinical improvement – to complete total of 14 days treatment
 - Two alternative regimens given below as per BASHH guideline if first line unsuitable for any reason or unavailable. For IV to oral switch using these regimens please speak to microbiology
 
- 
 
- 
+
+
 
 ## Partners and Sexual Health follow up
 
@@ -99,7 +99,7 @@ young adults
 - Patients with PID and their male partners should be advised to avoid sexual intercourse until the female has completed the treatment course and if 1g single dose azithromycin is used to treat the partner then sexual activity should not resume for 7 days
 - Patients who test positive for gonorrhoea should all be discussed with Sexual Health who can assist in following up the patient as they will require a test of cure three weeks following treatment commencing
 
- 
+
 
 ## Intrauterine contraceptive devices
 

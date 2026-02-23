@@ -5,15 +5,11 @@ Fetched: 2026-02-23
 
 ## Diabetes UK Type 2 diabetes remission
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 
@@ -21,15 +17,11 @@ Diabetes UKType 2 Diabetes RemissionSummary of weight management options
 
 ## Second Nature
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 
@@ -45,15 +37,11 @@ App based Written materials Health Coach
 
 ## Counterweight plus
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 
@@ -72,15 +60,11 @@ Aims to achieve remission of type 2 diabetes
 
 ## Tier 3 weight management
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 
@@ -88,7 +72,7 @@ Consists of:
 
 - Assessment consultation with a dietitian
 - 8 weeks of weekly coaching and then
-- 10 months of monthly support
+- 10 months of monthly support
 - Clinical Psychology if required
 
 BMI ≥35 wth co-morbidites
@@ -103,15 +87,11 @@ Aim 10-15% weight loss
 
 ## Bariatric surgery
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 

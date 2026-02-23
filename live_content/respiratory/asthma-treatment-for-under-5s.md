@@ -9,9 +9,7 @@ Asthma diagnosis is challenging in under 5s. Objective testing is difficult. Dia
 
 ## Step 1 - Trial of paediatric low dose ICS plus SABA
 
-
 #### Initial treatment with low dose inhaled steroids (plus SABA)
-
 
 #### Preparations:
 
@@ -25,7 +23,6 @@ Formulary items in blue. Formulary items which are more environmentally friendly
 
 Trial of treatment should be reviewed after 2-3 months.
 
-
 #### If treatment has not been effective at step 1:
 
 - check inhaler technique and adherence
@@ -34,7 +31,6 @@ Trial of treatment should be reviewed after 2-3 months.
 
 If none of these explain the failure to respond to treatment, refer the child to a specialist in asthma care.
 
- 
 
 
 #### If treatment has been effective:
@@ -45,15 +41,13 @@ If symptoms recur then diagnosis confirmed. Restart at paediatric low dose ICS a
 
 ## Treatment algorithm for under 5s with confirmed asthma
 
- 
+
 
 ---------------
 
 ## Step 1 - Paediatric low dose inhaled steroid plus SABA
 
-
 #### Initial treatment with low dose inhaled steroids (plus SABA)
-
 
 #### Preparations:
 
@@ -65,9 +59,7 @@ Formulary items in blue. Formulary items which are more environmentally friendly
 
 ## Step 2 - Increase to paediatric moderate dose inhaled steroid plus SABA
 
-
 #### Step up if uncontrolled on paediatric low dose inhaled steroids (plus SABA)
-
 
 #### Preparations:
 

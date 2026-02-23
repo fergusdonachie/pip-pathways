@@ -9,7 +9,7 @@ Minor changes to resources/leaflets
 
 ## Signs /Symptoms
 
-- Pain, numbness, burning or tingling  in median nerve distribution of hand - thumb, index and middle fingers and half of the ring finger. 
+- Pain, numbness, burning or tingling  in median nerve distribution of hand - thumb, index and middle fingers and half of the ring finger.
 - Symptoms often worse at night/first thing in morning
 - May have difficulty holding / dropping objects
 - Feeling of hand weakness, reduced sensation and reduced grip strength

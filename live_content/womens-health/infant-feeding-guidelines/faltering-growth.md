@@ -7,9 +7,9 @@ It is normal for infants to lose up to 10% of their birthweight in the early day
 
 Faltering growth is not a reason to stop breastfeeding. Refer to the infant feeding team if any concerns in a breastfeeding mother; do NOT suggest top-ups or switching to formula without consulting the infant feeding team. If immediate concerns that the child is unwell or there is an underlying disorder, refer to paediatrics.
 
-For more information about diagnosing, monitoring weight and managing faltering growth, see the NICE guidelines 
+For more information about diagnosing, monitoring weight and managing faltering growth, see the NICE guidelines
 
- 
+
 
 ---
 ## Editorial Information

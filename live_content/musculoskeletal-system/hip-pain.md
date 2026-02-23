@@ -24,14 +24,14 @@ Consult orthopaedic on-call or Emergency Department:
 - Suspected cancer
 - Previous surgery
 
- 
+
 
 Urgent orthopaedic outpatient referral:
 
 - Avascular necrosis
 - >50 with severe symptoms
 
- 
+
 
 Refer to MSK physio via SCI-gateway
 

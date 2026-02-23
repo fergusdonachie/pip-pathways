@@ -58,12 +58,11 @@ Issue condition specific leaflet
 
 **If symptoms persist following 12 weeks of self management**
 
-Patients can self refer via SAP 030 3333 3001
+Patients can self refer via SAP 030 3333 3001
 
 They will be triaged into appropriate service i.e. Physiotherapy, Orthotist or Podiatrist.
 
 SCI-Gateway referral should be completed for the following more urgent presentations:
-
 
 #### Urgent referral
 

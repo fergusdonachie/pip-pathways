@@ -19,7 +19,7 @@ Other causes of nipple/breast pain to consider may include:
 
 More information about the above can be found in the following pages or at:
 
-The GP Infant Feeding Network 
+The GP Infant Feeding Network
 
 ---
 ## Editorial Information

@@ -28,13 +28,11 @@ Causes
 
 ## Who to refer
 
-
 ### Cases that should be referred **immediately** for management
 
 - Suspected acute Leukaemia. The on-call haematologist will contact the primary care after reviewing the blood results and blood film from the sample obtained
 - New cases of CML presenting with high white cell count (>100) or symptoms suspicious of hyperviscosity (visual blurring / loss, persistent headache, thrombosis)
 - New cases of CLL presenting with features of active haemolysis or severe cytopenia
-
 
 ### Urgent referral
 
@@ -42,7 +40,6 @@ Causes
 - New cases of CML excluding those with the above features
 - New cases of CLL with bulky adenopathy or B-symptoms ( drenching night sweats, weight loss of >10% of body weight in 3 months, excess fatigue)
 - Unexplained leuco-erythroblastic peripheral blood film; the film will be reported and phoned to the referring practice.
-
 
 ### Routine referral
 

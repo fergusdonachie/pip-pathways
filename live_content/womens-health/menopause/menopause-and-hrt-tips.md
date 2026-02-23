@@ -6,12 +6,12 @@ Fetched: 2026-02-23
 ## Diagnosis of menopause
 
 - Age 45 or over - Diagnosis is clinical and hormone blood tests are not recommended
-- Age 
+- Age
 FSH/LH
 - Estradiol
 - TFT, Prolactin
 
- 
+
 
 ## Indications for HRT
 
@@ -31,7 +31,7 @@ HRT can be used for as long as the patient feels that the benefits outweigh the 
 - Full assessment of symptoms and impact is required to lead to joint informed decision making
 - If estrogen replacement is required, determine if vaginal estrogen, or systemic HRT
 
-**Indications**** for non-tablet route of Estrogen.**
+**Indications**** for non-tablet route of Estrogen.**
 
 - Individual preference, based on correct information.
 - Poor symptom control with tablet HRT.
@@ -59,7 +59,7 @@ Women having a spontaneous menopause at the usual age, should start on a low dos
 
 Women suffering from a premature or early menopause, often need to gradually increase to fairly high doses of estrogen to control symptoms, especially if a sudden, induced menopause.
 
-In these women, it is reasonable to start at a medium dose and be prepared to increase at 3 monthly intervals.  
+In these women, it is reasonable to start at a medium dose and be prepared to increase at 3 monthly intervals.
 
 - Estrogen in a higher than medium dose should be associated with a proportionate increase in progestogen dose for endometrial protection
 - Higher than licensed doses not recommended and other contributory factors (such as diet and lifestyle) should be addressed before increasing dose
@@ -80,11 +80,10 @@ If offering continuous combined, advise that some bleeding within the first 6 mo
 
 HRT aims to replace estrogen. Unless the patient has had a total hysterectomy, some form of progestogen should be used in addition.Please note:
 
-- Many HRT preparations have similar names, eg Evorel is an estrogen only patch whereas Evorel Conti contains estrogen and progestogen. Check the brand and components carefully
-- Mirena can be used for the progestogenic endometrial protection along with systemic estrogen, but only if it is "up-to-date" which means is within 5 years of insertion. (Mirena is licensed for 4 years for endometrial protection, but nationally it is accepted that 5 years is OK). If inserted after the age of 45 for contraception, it can be continued after 5 years, but if adding in systemic estrogen, it **MUST** be up-to-date
+- Many HRT preparations have similar names, eg Evorel is an estrogen only patch whereas Evorel Conti contains estrogen and progestogen. Check the brand and components carefully
+- Mirena can be used for the progestogenic endometrial protection along with systemic estrogen, but only if it is "up-to-date" which means is within 5 years of insertion. (Mirena is licensed for 4 years for endometrial protection, but nationally it is accepted that 5 years is OK). If inserted after the age of 45 for contraception, it can be continued after 5 years, but if adding in systemic estrogen, it **MUST** be up-to-date
 
 If Mirena removed and patient has been taking systemic estrogen, HRT **MUST**be changed to one containing **both estrogen and****progestogen**and should be clearly documented.
-
 
 ### Inadvertent unopposed estrogen
 
@@ -111,13 +110,13 @@ Most common reason for referral is unscheduled bleeding on continuous combined H
 - If transdermal continuous combined HRT indicated, offer off license half continuous combined patch, rather than medium dose (Evorel conti or Femseven conti) to offer low dose when possible Postmenopause : Menopause Matters
 - If higher dose estrogen required (after giving any type of HRT at least 3 months to show effect, addressing other factors contributing to symptoms, eg diet and lifestyle, patch adherence..) increase progestogen proportionately
 - Try to avoid the need for regimens taking estrogen and progestogen separately, since progestogen can be missed leading to higher chance of endometrial stimulation and hence bleeding. The need for separate progestogen is inevitable if using estrogen gel or spray, since these are estrogen only, but these should be a later option, not offered first line
-- **Uterine bleeding with hormone therapies in menopausal women: a systematic review. **J H Pickar1 2, D F Archer 3, S R Goldstein et al. Climacteric 2020 Dec; 23(6):550-558
+- **Uterine bleeding with hormone therapies in menopausal women: a systematic review. **J H Pickar1 2, D F Archer 3, S R Goldstein et al. Climacteric 2020 Dec; 23(6):550-558
 
 ## Poor symptom control with HRT
 
 - Allow 3 to 6 months on therapy to ensure full effect
 - Inadequate estrogen dosage - increase dose or change route
-- Poor absorption due to bowel disorder - change to transdermal
+- Poor absorption due to bowel disorder - change to transdermal
 - Drug interactions eg. barbiturates, phenytoin, carbamazepine - increase oral dose or change to transdermal
 - Poor patch adhesion - change delivery system. Patch position—buttocks best absorption. Some women absorb best from patch, others from gel, others from spray and some respond best to oral
 - Incorrect diagnosis - other conditions such as thyroid dysfunction, hypertension and poor glucose control and lifestyle factors can cause similar symptoms to menopause
@@ -145,11 +144,11 @@ When to refer depends on your experience and confidence but in general terms, th
 
 The interactive decision tree on www.menopausematters.co.uk/tree.php aims to help with prescribing decisions.
 
-**Telephone helpline, Thursdays 9am to 12, 01387 241121 –**run by SR Katrina Martin who is happy to help with any queries and can also be contacted by email at katrina.martin@nhs.scot
+**Telephone helpline, Thursdays 9am to 12, 01387 241121 –**run by SR Katrina Martin who is happy to help with any queries and can also be contacted by email at katrina.martin@nhs.scot
 
 ## Resources
 
- 
+
 
 03-BMS-TfC-HRT-Practical-Prescribing-NOV2022-A.pdf (thebms.org.uk)
 

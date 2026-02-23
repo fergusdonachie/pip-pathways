@@ -43,11 +43,9 @@ MHRA Drug safety update- Emollients and risk of severe and fatal burns: new reso
 - Epimax Oatmeal® cream (equivalent to Aveeno®)
 - If a pump is required zerobase 500g is most cost effective
 
-
 #### Products containing urea
 
 - Balneum® cream
-
 
 #### Soap Substitutes
 
@@ -56,7 +54,6 @@ Please note these can be purchased cheaply over the counter;
 - Epimax ✓ First Choice(can be held under warm/hot running water to give a foamy bath additive)
 - Epimax Original® cream
 - QV Gentle® wash
-
 
 #### Emollient Bath Additives
 
@@ -70,7 +67,6 @@ Emulsifying ointment ✓ First Choice(can be held under warm/hot running water t
 - Dermol® 200 shower emollient
 - Dermol 500 lotion
 - Dermol® 600 bath emollient
-
 
 #### Barrier Preparations
 
@@ -88,7 +84,6 @@ See the MRSA Policy – Best Practice Guidelines - on BEACONIC-129 MRSA Policy.p
 - Chlorhexidine body wash 4% ✓ First Choice
 - Octenidine ointment
 - Octenidine body wash
-
 
 ### Impetigo
 
@@ -108,13 +103,11 @@ If fungal infection suspected, please send off for skin scraping first. This is 
 
 Please refer to NHS Dumfries and Galloway Public Health Policies for any changes in advice.
 
-
 #### Scabies: Scabies | Right Decisions
 
 - Permethrin 5% cream✓ First Choice/li>
 - Malathion 0.5%
 - Ivermectin (on specialist advice)
-
 
 #### Head lice: Head lice | Health topics A to Z | CKS | NICE
 
@@ -141,18 +134,15 @@ Ointments are recommended by Dermatology
 
 As guided by ScriptSwitch in primary care for availability due to supply issues :
 
-
 #### Mild corticosteroid:
 
 - Hydrocortisone 1%
-
 
 #### Moderately potent corticosteroid:
 
 - Audavate RD ®
 - Betnovate-RD®
 - Eumovate®
-
 
 #### Potent corticosteroid:
 
@@ -161,16 +151,13 @@ As guided by ScriptSwitch in primary care for availability due to supply issues 
 - Locoid®
 - Mometasone
 
-
 #### Very potent corticosteroid:
 
 - Clobetasol propionate 0.05%. When available- ClobaDerm® is the preferred brand. Length of treatment as per dermatologist
 
-
 #### Steroids with antimicrobials (for short term use e.g. 7 days in infected eczema or as per dermatologist until skin is clear and back to normal)
 
 - Fucibet®
-
 
 ### Preparations for psoriasis
 
@@ -182,7 +169,6 @@ As guided by ScriptSwitch in primary care for availability due to supply issues 
 - Wynzora cream ®
 - Exorex® lotion (coal tar solution 5%)
 
-
 #### Scalp Preparations
 
 - Betacap® Scalp Application (Betamethasone valerate 0.1%)
@@ -192,7 +178,6 @@ As guided by ScriptSwitch in primary care for availability due to supply issues 
 - Sebco® (Coal tar 12%, Salicylic acid 2%)
 - Etrivex shampoo
 - Synalar® gel
-
 
 ### Specialist Use Drugs for Psoriasis
 
@@ -250,7 +235,6 @@ For the treatment of moderate to severe chronic plaque psoriasis in adult patien
 
 For the treatment of moderate to severe plaque psoriasis in adults in need of systemic medicinal therapy. For use in patients in whom other non-biologic systemic treatments (methotrexate, ciclosporin and acitretin) are not appropriate or have failed and who are considered unsuitable for biologic therapy given their current disease state or personal preference.
 
-
 ### Specialist Use Drugs for Eczema Atopic Eczema
 
 ** Dupilumab SC (Dupixent®) injection – ✓ Specialist Use Only **
@@ -283,7 +267,6 @@ For the treatment of moderate-to-severe atopic dermatitis in adults and adolesce
 
 - Pro- Banthine® - 15mg tds at least one hour before food. If side effects unbearable, take with food.
 
-
 ### Hidradenitis Suppurativa (specialist use)
 
 ** Adalimumab – ✓ Specialist Use Only, prescribe by brand ** Amgevita® SC injection - preferred biosimilar
@@ -297,7 +280,6 @@ For the treatment of moderate-to-severe atopic dermatitis in adults and adolesce
 
 ## 5. Pruritis
 
-
 ### Nodular prurigo
 
 ** Dupilumab SC (Dupixent®) injection – ✓ Specialist Use Only **
@@ -310,17 +292,14 @@ See DGRefHelp for treatment pathway Acne | Right Decisions
 
 MHRA Drug safety update Isotretinoin (Roaccutane▼): reminder of important risks and precautions
 
-
 #### Topical treatment:
 
 - Management should always include topical treatments, with the choice based on the type and severity of acne:
-
 
 #### Initial treatment for non-inflammatory acne:
 
 - Topical retinoid (e.g., Differin®), starting with 2-3 nights per week and increasing frequency as tolerated.
 - Azelaic acid (e.g., Finacea gel, Skinoren cream), which is well tolerated in preteens and teenagers.
-
 
 #### Inadequate response to initial treatment:
 
@@ -328,14 +307,12 @@ MHRA Drug safety update Isotretinoin (Roaccutane▼): reminder of important risk
 - Review after 8 weeks, then every 4 months.
 - If still no response treat as inflammatory acne below.
 
-
 #### Initial treatment for inflammatory acne:
 
 - Benzoyl peroxide (BPO) or
 - Topical retinoid (e.g., Differin®), starting with 2-3 nights per week and increasing frequency as tolerated or
 - Combination of Benzoyl peroxide (BPO) and topical retinoid (e.g., Epiduo®).
 - BPO and topical antibiotic (Duac) or retinoid/antibiotic (Treclin)
-
 
 #### Moderate inflammatory acne:
 
@@ -346,10 +323,9 @@ Lymecycline 408 mg OD,
 - Doxycycline 100 mg OD,
 - Erythromycin 500 mg BD
 
-
 #### Severe inflammatory acne:
 
-- Refer all patients with severe acne for specialist assessment and consideration of oral isotretinoin 
+- Refer all patients with severe acne for specialist assessment and consideration of oral isotretinoin
 - If the patient is female, ensure they are using appropriate contraception prior to referral for isotretinoin.
 
 - Rozex® cream/gel (Metronidazole 0.75%)
@@ -359,7 +335,6 @@ Lymecycline 408 mg OD,
 
 ## 7. Scalp and hair conditions
 
-
 ### Seborrhoeic dermatitis
 
 - Alphosyl® 2 in 1 shampoo ✓ First Choice
@@ -367,7 +342,6 @@ Lymecycline 408 mg OD,
 - Nizoral® (ketoconazole shampoo)
 
 See BNF
-
 
 #### Severe alopecia areata
 
@@ -389,12 +363,10 @@ Camouflages - ACBS for disfiguring skin lesions
 
 ## 10. Sun protection and photo damage
 
-
 ### Sunscreen preparations - ACBS for skin protection in photodermatoses
 
 - Anthelios Sunscreen lotion SPF 50+
 - Uvistat Sun Cream SPF 50
-
 
 ### Photodamage
 
@@ -419,7 +391,6 @@ The following are available through the Pharmacy First Scotland service at commu
 - Salactol Paint
 - Salatac gel
 - Bazuka Extra Strength 26% gel (Diomed Developments Ltd)
-
 
 ### Warts
 

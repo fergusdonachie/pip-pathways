@@ -37,7 +37,6 @@ Assessment of patients with symptoms suggestive of upper GI cancer should includ
 
 ## Refer urgent suspicion of cancer
 
-
 #### Oesophago-gastric cancer
 
 - Persistent or progressive dysphagia (**NOT**a 'feeling of something stuck in throat')

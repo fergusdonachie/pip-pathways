@@ -7,11 +7,9 @@ Fetched: 2026-02-23
 
 - Ravulizumab – as per local guidance – ✓ Specialist Use Only
 
-
 ### Oral treatment
 
 - Ferrous Fumarate 305mg tablets ✓ First Choice
-
 
 ### Parenteral treatment*
 
@@ -47,11 +45,9 @@ Not thought to be diet related — administer hydroxocobalamin 1 mg intramuscula
 
 ## 2. Fluid and electrolytes
 
-
 ### Oral Bicarbonate – chronic acidotic states
 
 Sodium bicarbonate capsules
-
 
 ### Hypokalaemia
 
@@ -59,11 +55,9 @@ Sando-K® effervescent tablets
 
 Kay-Cee-L® syrup
 
-
 ### Hyponatraemia
 
 Sodium chloride M/R tablets
-
 
 ### Hypocalcaemia
 
@@ -71,28 +65,23 @@ Adcal® chewable tablet
 
 Calvive® 1000 effervescent tablets
 
-
 ### Hypomagnesaemia
 
 Magnaspartate® sachets
 
 Magnesium glycerphosphate chewable tablets (Neomag®)
 
-
 ### Hypophosphataemia
 
 Phosphate Sandoz® effervescent tablets
-
 
 ### Hyperkalaemia (mild to moderate)
 
 Calcium polystyrene sulphonate (Calcium resonium®)
 
-
 ### Oral Rehydration Salts
 
 Dioralyte® sachets
-
 
 ### Low blood volume
 
@@ -104,7 +93,6 @@ See gluten-free formulary GFF-update-2022-1.pdf
 
 ## 6. Vitamin deficiency
 
-
 ### Vitamin B group
 
 - B6 – Pyridoxine tablets
@@ -114,11 +102,9 @@ See gluten-free formulary GFF-update-2022-1.pdf
 
 MHRA Drug Safety Update Dec 2014: Pabrinex Allergic reactions
 
-
 ### Vitamin C
 
 non formulary. Patients requiring vitamin C should be encouraged to eat vitamin c rich foods due to the high cost of this product
-
 
 ### Vitamin D
 
@@ -128,17 +114,14 @@ non formulary. Patients requiring vitamin C should be encouraged to eat vitamin 
 - If swallowing difficulties: InVita D3 oral drops 25,000IU
 - Ergocalciferol 300,000 IU/ml intramuscular injection – to be supplied by clinic. If necessary can also be obtained as single ampoule from DGRI pharmacy.
 
-
 ### Vitamin K
 
 - Malabsorption syndromes (water-soluble preparation required): Menadiol sodium phosphate
 - Fat soluble formula (not malabsorption): Phytomenadione
 
-
 ### Multivitamins
 
 - Abidec ®drops
-
 
 ### Neural tube defects (prevention in pregnancy)
 
@@ -162,7 +145,6 @@ Standard ACBS indications:
 
 Other products may be prescribed as advised by Dietitian
 
-
 ### Oral Nutritional Supplements (for use in adults)
 
 First Line Product:
@@ -181,7 +163,6 @@ Fortisip® Compact (low volume,125ml bottle, 2.4kcal/ml)
 
 - Fortisip® Yogurt Style (200ml bottle, 1.5kcal/ml))
 - Ensure Plus® Yogurt Style (220ml bottle, 1.5kcal/ml)
-
 
 ### Thickeners
 

@@ -20,10 +20,9 @@ Examination:
 - Consider DRE/PV
 - Blood pressure
 
- 
+
 
 ## Primary care management
-
 
 ##### Investigations
 
@@ -33,17 +32,15 @@ Examination:
 
 Almost all patients will require referral, however, if MSU positive and symptoms resolve with appropriate treatment, referral is not needed.
 
- 
+
 
 ## Who to refer
-
 
 ##### Refer Urology Urgent Suspicion of Cancer
 
 - Age 45 or over with visible haematuria and negative MSU
 - All ages with visible haematuria which persists or recurs after UTI treatment
 
- 
 
 
 ##### Refer Urology Urgent
@@ -51,7 +48,7 @@ Almost all patients will require referral, however, if MSU positive and symptoms
 - Age < 45 with visible haematuria and negative MSU
 - Already investigated patients whose haematuria returns outwith 6 months
 
- 
+
 
 No imaging is required prior to referral
 

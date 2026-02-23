@@ -14,13 +14,11 @@ Fetched: 2026-02-23
 
 Maintenance and Reliever Treatment (MART) is recommended by NICE/SIGN/BTS guidance 2024 as the preferred regime for children aged 5 or over where they are assessed as being able to manage it.
 
-Step 1, however, is still low dose inhaled corticosteroids (ICS) and short acting beta-agonist (SABA) - Anti-inflammatory Reliever (AIR) is not recommended for under 12s. 
+Step 1, however, is still low dose inhaled corticosteroids (ICS) and short acting beta-agonist (SABA) - Anti-inflammatory Reliever (AIR) is not recommended for under 12s.
 
 ## Step 1 - Paediatric low dose ICS plus SABA
 
-
 #### Initial treatment with low dose inhaled steroids (plus SABA)
-
 
 #### Preparations:
 
@@ -34,18 +32,14 @@ Formulary items in blue. Formulary items which are more environmentally friendly
 
 For patients who are assessed as unable to manage MART see Preventer/Reliever regime below.
 
-
 #### Stop ICS and Salbutamol inhalers and start MART
-
 
 #### Directions:
 
 1 puff BD plus 1 puff PRN. Maximum 6 puffs on any one occasion
 
-
 #### Preparations:
 
- 
 
 
 #### Maximum daily dose:
@@ -60,18 +54,14 @@ Formulary items in blue. Formulary items which are more environmentally friendly
 
 ## Step 3 - Paediatric moderate dose MART
 
-
 #### If uncontrolled on paediatric low dose MART, increase to medium dose:
-
 
 #### Directions:
 
 2 puffs BD plus 1 puff PRN. Maximum 6 puffs on any one occasion
 
-
 #### Preparations:
 
- 
 
 
 #### Maximum daily dose:
@@ -92,15 +82,13 @@ If still uncontrolled on paediatric moderate dose MART:
 
 ## Preventer/Reliever regime for age 5-11
 
- 
+
 
 The 'standard' regime of separate preventer and reliever is still an option for children who are assessed as being unable to manage MART treatment
 
 ## Step 1 - Paediatric low dose ICS plus SABA
 
-
 #### Initial treatment with low dose inhaled steroids (plus SABA)
-
 
 #### Preparations:
 
@@ -116,9 +104,7 @@ Give the montelukast for a trial period of 8 to 12 weeks (unless there are side 
 
 ## Step 3 - Combination LABA/Paediatric low dose ICS
 
-
 #### Step up if uncontrolled on low dose inhaled steroids (plus SABA)
-
 
 #### Preparations:
 
@@ -132,9 +118,7 @@ Continue Montelukast if it was beneficial
 
 ## Step 4 - Combination LABA/Paediatric moderate dose ICS
 
-
 #### Step up if uncontrolled on low dose inhaled steroids (plus SABA)
-
 
 #### Preparations:
 

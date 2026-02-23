@@ -11,7 +11,7 @@ Eosinophilia is defined as a rise of the eosinophil count > 0.5
 
 Hyper-eosinophilia is defined as an increase in eosinophil count of 1.5X109/L or greater persisting for at least 6 months in the absence of a clear cause.
 
-Eosinophilia is most commonly a secondary blood phenomenon, occurring as a reaction to an allergic reaction, skin disorders (atopy),  parasitic infestation, drugs or pulmonary eosinophilia. Other causes of eosinophilia include clonal and idiopathic.
+Eosinophilia is most commonly a secondary blood phenomenon, occurring as a reaction to an allergic reaction, skin disorders (atopy),  parasitic infestation, drugs or pulmonary eosinophilia. Other causes of eosinophilia include clonal and idiopathic.
 
 ## Assessment
 
@@ -31,14 +31,12 @@ Mild eosinophilia is typically related to another condition (asthma, urticaria) 
 
 ## Who to refer
 
-
 ### Refer urgently
 
 - Eosinophil count > 10X109/L
 - Signs of evolving organ dysfunction; gastrointestinal, pulmonary, cardiac
 - Leucoerythroblastic blood film
 - Very raised WCC >50
-
 
 ### Refer routinely
 

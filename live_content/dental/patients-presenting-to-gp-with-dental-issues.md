@@ -13,16 +13,13 @@ If patients are already registered with a dentist they should be directed there 
 
 ## Patients who are not registered with a dentist
 
-
 ### Routine dental care
 
-Patients can contact the dental helpline 01387 245532 or visit  https://dghscp.co.uk/dental-services/ for up to date information on availablity of NHS dentists, however, they are likely to need to register with a private dentist.
-
+Patients can contact the dental helpline 01387 245532 or visit  https://dghscp.co.uk/dental-services/ for up to date information on availablity of NHS dentists, however, they are likely to need to register with a private dentist.
 
 #### Student clinic
 
 There are some dental students placed in D&G so this may be an option for some patients. They can contact ***dg.dentalhelpline@nhs.scot***or the helpline number to note interest in being treated by a student. This does not incur any patient charges. It is only available to adults (over 16)
-
 
 ### Urgent dental issue
 

@@ -32,12 +32,10 @@ Refer to specialist services
 
 ## 3. Diabetes mellitus and hypoglycaemia
 
-
 ### Biguanides
 
 - Metformin ✓ First Choice - maximum recommended dose is 2g daily
 - Metformin MR – a trial of up to 6 months could be considered in patients with severe GI side effects who would otherwise discontinue immediate release. Dose is usually once daily with main meal of the day.
-
 
 ### SGLT2 inhibitors
 
@@ -46,25 +44,21 @@ Refer to specialist services
 
 In patients with type 2 diabetes and established cardiovascular disease, SGLT2 inhibitors with proven cardiovascular benefit (currently empagliflozin, dapagliflozin and canagliflozin) should be considered (SIGN 154).
 
-
 ### Sulfonylureas
 
 - Gliclazide 80mg tablets ✓ First Choice
 - Glimepiride
-
 
 ### Dipeptidylpeptidase-4 inhibitors (DPP4i)
 
 - Sitagliptin ✓ First Choice
 - Linagliptin -requires no dosage adjustment in renal failure and can be used in end stage renal failure
 
-Patients should be counselled to report any signs of acute pancreatitis 
-
+Patients should be counselled to report any signs of acute pancreatitis
 
 ### Glitazones
 
 - Pioglitazone ✓ First Choice
-
 
 ### Incretin mimetics
 
@@ -75,9 +69,7 @@ Patients should be reviewed at 6 months and only continue therapy in those with 
 - Semaglutide once weekly (Ozempic®)
 - Exenatide once weekly (Bydureon®)
 
-
 ### Insulins
-
 
 #### Short acting Insulins
 
@@ -94,19 +86,16 @@ Patients should be reviewed at 6 months and only continue therapy in those with 
 - Apidra® Solostar pre-filled pen
 - Apidra® 10ml vial
 
-
 #### Ultra short acting insulin
 
 - Fiasp ®Penfill catrridge 3ml▼
 - Fiasp ®FlexTouch pre-filled pen▼
 - Fiasp ® vial 10ml▼
 
-
 #### Intermediate and long-acting insulins
 
 - Humulin I® cartridges 3l
 - Humulin I® Kwikpen pre-filled pen
-
 
 #### Insulin Analogues – for restricted use as per SMC
 
@@ -119,7 +108,6 @@ Patients should be reviewed at 6 months and only continue therapy in those with 
 - Tresiba ® Penfill 100 units/mL solution for injection in cartridge
 - Tresiba ®FlexTouch 100 units/mL solution for injection in pre-filled pen
 
-
 #### Biphasic insulins
 
 - Novomix® 30 Penfill cartridges
@@ -130,7 +118,6 @@ Patients should be reviewed at 6 months and only continue therapy in those with 
 - Humalog® Mix50 Kwikpen pre-filled pen
 - Humulin M3® Kwikpen pre-filled pen
 - Humulin M3® cartridge 3ml
-
 
 ### Blood monitoring
 
@@ -151,14 +138,11 @@ GlucoRx Q
 
 Instant
 
-
 ### Urine testing for ketones
 
 - GlucoRx KetoRx® sticks ✓ First Choice
 
-
 ### Hypodermic equipment
-
 
 #### Injection devices
 
@@ -169,7 +153,6 @@ Reusable pens are available to prescribe in different colours to aid patients di
 - Autopen 24® HumaPen® Savvio re-useable pen 3ml 1- 60units for use with Humulin and Humalog cartridges
 - AllStar PRO® re-usable pen 1- 80units for use with Lantus and Apidra catrtridges
 - Junior STAR®
-
 
 #### Lancets
 
@@ -182,12 +165,10 @@ Droplet and Caresens Lancets are compatible with most finger-pricking devices.
 
 N.B Health professionals must only use single use devices: Sterilance Lite II – for use by health professionals only – do not prescribe – PECOS 143276
 
-
 #### Needles
 
 - BD Viva® (4mm) ✓ First Choice
 - BD Autoshield Duo® – for use by health professionals only (do not prescribe- PECOS 189649)
-
 
 #### Sharps Containers
 
@@ -216,7 +197,6 @@ For further please refer to the following reference sources and local protocols
 - https://www.nhsdghandbook.co.uk/medical-handbook/osteoporosis
 - SIGN 142 https://www.sign.ac.uk/media/1741/sign142.pdf
 
-
 ### Fracture risk assessment
 
 Management has shifted from diagnosing osteoporosis by bone density definition (lumbar spine or hip bone density 2.5 standard deviations or more below the young adult mean value for women, reported as T score <-2.5 by DEXA scan) to assessing and reducing fracture risk.
@@ -224,7 +204,6 @@ Management has shifted from diagnosing osteoporosis by bone density definition (
 A DEXA scan is recommended as part of the fracture risk assessment if already identified as “increased risk” – see Referral Criteria for DEXA on RefHelp and FRAX or Qfracture risk assessment calculators.
 
 If multiple vertebral collapses (2 or more) exclude myeloma or metastatic disease and commence treatment to reduce fracture risk regardless of bone density (DEXA not required however can be useful)
-
 
 #### Safety considerations
 
@@ -234,13 +213,11 @@ MHRA warning regarding osteonecrosis of jaw with bisphosphonates https://www.gov
 
 MHRA warning for neck of femur fractures https://www.gov.uk/drug-safety-update/bisphosphonates-atypical-femoral-fractures
 
-
 #### Prevention and treatment of postmenopausal osteoporosis
 
 Early menopause or under 60 years with no contraindications
 
 - HRT see 6.8.1 ✓ First Choice
-
 
 #### Calcium & Vitamin D Supplements
 
@@ -249,14 +226,11 @@ Early menopause or under 60 years with no contraindications
 - TheiCal-D3 chewable (1 tablet daily, dissolves on tongue for those with swallowing difficulties)
 - Adcal D3 caplet (2 tablets twice daily)
 
-
 ### Treatment of osteoporosis
-
 
 #### Early menopause or under 60 years with no contraindications
 
 - HRT see 6.8.1 ✓ First Choice
-
 
 #### Post menopausal osteoporosis
 
@@ -266,7 +240,6 @@ Early menopause or under 60 years with no contraindications
 
 + Calcium and Vitamin D3 supplement ✓ First Choice
 
-
 #### Specialist initiation only
 
 - Zolendronic acid 5mg (IV infusion) ✓ Specialist Use Only
@@ -274,19 +247,16 @@ Early menopause or under 60 years with no contraindications
 - Denosumab 60mg/ml 6 monthly s/c injection ✓ Specialist Initiation Only(see shared care protocol and monitoring advice on RefHelp>Osteoporosis>Denosumab shared care protocol)
 - Teriparatide (Movymia®) daily sub cut injections – via Homecare ✓ Specialist Use Only
 
-
 #### Corticosteroid-induced osteoporosis (treatment and prevention)
 
 - Alendronic acid 70mg (once weekly)
 - Risedronate sodium 35mg (once weekly) + Calcium and Vitamin D3 supplement
-
 
 #### Male osteoporosis
 
 Specialist referral should be considered
 
 - Alendronic acid 70mg (once weekly) please note licensed dose of alendronic acid in men is 10mg once daily, but it is common practice to use 70mg once weekly + Calcium and Vitamin D3 supplement
-
 
 ### Treatment of Vitamin D deficiency
 
@@ -301,7 +271,6 @@ See DG RefHelp>Osteoporosis> Vitamin D
 ## 6. Gonadotrophin responsive conditions
 
 - Nafarelin ✓ Specialist Use Only
-
 
 ### Acromegaly somatostatin analogues
 
@@ -326,14 +295,11 @@ HRT dose: Menopause matters
 
 For women who have had a hysterectomy; or receiving progestogen separately i.e. Mirena coil inserted within 5 years, or taking micronised progesterone, or medroxyprogesterone in a dose proportionate to oestrogen
 
-
 ### Oestrogen-only HRT – Oral Tablets
-
 
 ### Oestrogen-only HRT – Transdermal Patches
 
 *note the Estradot patches are the smallest in size, are often the brand women report stick best, but are also most often associated with stock shortages
-
 
 ### Oestrogen-only HRT – Transdermal Gel/Spray
 
@@ -341,9 +307,7 @@ For women who have had a hysterectomy; or receiving progestogen separately i.e. 
 
 Peri-menopausal women with a uterus, i.e. less than 1 year since last menses.
 
-
 ### Sequential Combined HRT – Oral Tablets
-
 
 ### Sequential Combined HRT – Transdermal Patch
 
@@ -353,9 +317,7 @@ Local menopause service would suggest starting treatment using half of an Evorel
 
 For post-menopausal women, with a uterus, who have not experienced menses for 1 year+ or perimenopausal women who are amenorhoeic due to their POP/implant
 
-
 ### Continuous Combined HRT – Oral Tablets
-
 
 ### Continuous Combined HRT - Transdermal patch
 
@@ -364,7 +326,6 @@ For post-menopausal women, with a uterus, who have not experienced menses for 1 
 When oestrogen and progestogen are administered separately, in order to protect against endometrial hyperplasia the dose of progestogen should be proportional to the required oestrogen dose, i.e. high dose oestrogen-containing regimens should have high dose progestogen component.
 
 The levonorgestrel 52mg IUS system, i.e. Mirena, can be used for all licensed doses of oestrogen and current practice would be to use this for up to 5 years for endometrial protection. 14-BMS-TfC-Progestogens-and-endometrial-protection-APR2023-A.pdf
-
 
 ### ORAL PROGESTOGEN
 
@@ -381,23 +342,19 @@ Before increasing dose of oestrogen, first worth considering the following:
 
 Discuss with Menopause team if ultra-high dose oestrogen being considered
 
-
 ### Dysmenorrhoea
 
 - Ibuprofen ✓ First Choice
 - Paracetamol
-
 
 ### Irregular uterine bleeding – contraception not required
 
 - Norethisterone
 - Medroxyprogesterone acetate
 
-
 ### Irregular uterine bleeing – contraception required
 
 - Combined oral contraception
-
 
 ### Endometriosis
 
@@ -408,7 +365,6 @@ Discuss with Menopause team if ultra-high dose oestrogen being considered
 - Triptorelin acetate injection- ✓ Specialist Initiation Only
 - Ryeqo® (relugolix, estradiol.norethisterone tablets) – ✓ Specialist Initiation Only
 
-
 ### Uterine Fibroids – treatment of moderate to severe uterine fibroids is by Specialist advice only
 
 - Ulipristal acetate (Esmya®) ✓ Specialist Initiation Only– See MHRA Drug Safety update Ulipristal acetate 5mg (Esmya): further restrictions due to risk of serious liver injury - GOV.UK
@@ -417,9 +373,7 @@ Discuss with Menopause team if ultra-high dose oestrogen being considered
 
 Testosterone for hypogonadism due to testosterone deficiency in adult men Ensure FBC and PSA checked annually once stable
 
-
 ### Testosterone Replacement Options
-
 
 ### Male sex hormone antagonism
 
@@ -427,14 +381,12 @@ Refer to specialist services
 
 ## 9. Thyroid disorders
 
-
 ### Antithyroid drugs
 
 To be initiated on specialist advice
 
 - Carbimazole ✓ First Choice
 - Propylthiouracil – Patients should be counselled re risk of hepatitis (see SPC at www.medicines.org.uk )
-
 
 ### Beta-blockers
 

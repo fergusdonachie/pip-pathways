@@ -22,12 +22,9 @@ Safety considerations
 - MHRA DSU: Baricitinib (Olumiant▼): increased risk of diverticulitis, particularly in patients with risk factors
 - MHRA DSU tofacitinib-new measures to minimise risk of major adverse cardiovascular events and malignancies October 2021
 
-
 ### Rheumatoid arthritis – moderate to severe disease
 
-
 #### Immunosuppressants - *Specialist Initiation Only*
-
 
 #### DMARDs (all initiated in consultation with a specialist)
 
@@ -41,7 +38,6 @@ Safety considerations
 
 Please note methotrexate should only be prescribed as multiples of the 2.5mg strength tablet once weekly
 
-
 #### TNF-alpha inhibitors
 
 - Adalimumab SC Injection – preferred biosimilar Amgevita® ✓ Specialist Initiation Only ✓ First Choice
@@ -50,22 +46,18 @@ Please note methotrexate should only be prescribed as multiples of the 2.5mg str
 - Certolizumab SC Injection ✓ Specialist Initiation Only
 - Golimumab SC Injection ✓ Specialist Initiation Only
 
-
 #### CD-20 blocker
 
 - Rituximab Infusion – preferred biosimilar Ruxience® ✓ Specialist Use Only
-
 
 #### IL-6 inhibitors
 
 - Sarilumab SC Injection ✓ Specialist Initiation Only
 - Tocilizumab SC Injection - preferred biosimilar Tyenne® ✓ Specialist Initiation Only
 
-
 #### CTLA-4 Blocker
 
 - Abatacept SC Injection ✓ Specialist Initiation Only
-
 
 #### JAK inhibitors
 
@@ -74,12 +66,9 @@ Please note methotrexate should only be prescribed as multiples of the 2.5mg str
 - Baricitinib tablets ✓ Specialist Initiation Only
 - Tofacitinib tablets ✓ Specialist Initiation Only
 
-
 ### Psoriatic Arthritis
 
-
 #### Immunosuppressants - *Specialist Initiation Only*
-
 
 #### TNF-alpha inhibitors
 
@@ -88,7 +77,6 @@ Please note methotrexate should only be prescribed as multiples of the 2.5mg str
 - Etanercept SC Injection– preferred biosimilar Benepali® ✓ Specialist Initiation Only
 - Certolizumab SC Injection ✓ Specialist Initiation Only
 - Golimumab SC Injection ✓ Specialist Initiation Only
-
 
 #### IL-17 Inhibitors
 
@@ -96,23 +84,19 @@ Please note methotrexate should only be prescribed as multiples of the 2.5mg str
 - Bimekizumab SC Injection
 - Ixekizumab SC Injection
 
-
 #### IL-12/23 inhibitors
 
 - Ustekinumab SC Injection - preferred biosimilar Uzpruvo® ✓ Specialist Initiation Only
-- Guselkumab SC Injection  ✓ Specialist Initiation Only
-
+- Guselkumab SC Injection  ✓ Specialist Initiation Only
 
 #### JAK inhibitors
 
 - Upadacitinib tablets ✓ Specialist Initiation Only
 - Tofacitinib tablets ✓ Specialist Initiation Only
 
-
 #### PDE-4 inhibitor
 
 - Apremilast tablets ✓ Specialist Initiation Only
-
 
 ### Ankylosing spondylitis
 
@@ -120,9 +104,7 @@ Please note methotrexate should only be prescribed as multiples of the 2.5mg str
 - Ibuprofen
 - Paracetamol (+/- codeine) where NSAIDs are not suitable/tolerated
 
-
 #### Immunosuppressants - *Specialist Initiation Only*
-
 
 #### TNF-alpha inhibitors
 
@@ -132,28 +114,23 @@ Please note methotrexate should only be prescribed as multiples of the 2.5mg str
 - Certolizumab SC Injection ✓ Specialist Initiation Only
 - Golimumab SC Injection ✓ Specialist Initiation Only
 
-
 #### IL-17 Inhibitors
 
 - Secukinumab SC Injection
 - Bimekizumab SC Injection
-
 
 #### JAK inhibitors
 
 - Upadacitinib tablets ✓ Specialist Initiation Only
 - Tofacitinib tablets ✓ Specialist Initiation Only
 
-
 ### Still's disease
 
 - Anakinra SC injection ✓ Specialist Initiation Only as per SMC 2104
 
-
 ### Giant cell arteritis
 
 - Tocilizumab prefilled syringe/pen ✓ Specialist Initiation Only – as per SMC 2014
-
 
 ### ANCA - Associated vasculitis
 
@@ -182,7 +159,6 @@ See:
 - British society for Rheumatology guidelines for the management of gout 2017
 - NICE CKS guidelines https://cks.nice.org.uk/topics/gout/
 
-
 ### Acute attacks
 
 - Naproxen ✓ First Choice
@@ -192,7 +168,6 @@ See:
 Total dose per course should not exceed 6mg, do not repeat course within 3 days
 - Avoid Colchicine in those receiving (or recently prescribed if renal impairment) strong P-glycoprotein or CYP3A4 inhibitors eg clarithromycin. See SPC for colchicine
 - MHRA Colchicine: extremely toxic in overdose
-
 
 ### Longterm prophylaxis of gout
 
@@ -213,12 +188,10 @@ See BNF for further information
 
 ## 4. Pain and inflammation in musculoskeletal disorders
 
-
 ### Non-steroidal anti-inflammatory drugs
 
 - Naproxen ✓ First Choice
 - Ibuprofen
-
 
 #### Safety considerations
 
@@ -229,17 +202,14 @@ See BNF for further information
 
 ## 5. Soft tissue and joint disorders
 
-
 ### Systemic corticosteroids oral
 
 - Prednisolone tablets ✓ First Choice if prescribing oral steroids please refer to the HIGH DOSE Steroid Pre- treatment checklist in the clinical handbook: https://www.nhsdghandbook.co.uk/medical-handbook/high-dose-steroid-pre-treatment- checklist/?handbook
-
 
 ### Local corticosteroid injections
 
 - Methylprednisolone acetate (Depo – Medrone)
 - Triamcinolone acetonide (Kenalog)
-
 
 ### Soft tissue disorders Rubefacients
 

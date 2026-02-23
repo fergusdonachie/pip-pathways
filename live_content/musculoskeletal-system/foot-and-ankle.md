@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
 #### MSK foot and ankle red flags
 
 The primary aim of the assessment process is to exclude any serious pathology through screening for red flags
@@ -24,8 +23,6 @@ Possible red flags that may indicate serious pathology
 - Severe acquired structural deformity
 - Gait disturbance
 
- 
 
 
-####  Choose below for specific advice
-
+####  Choose below for specific advice

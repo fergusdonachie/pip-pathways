@@ -14,17 +14,14 @@ Fetched: 2026-02-23
 
 ## Assessment
 
-
 ### History & screening
 
 - Ask about alcohol intake (units per day, units per week, pattern of drinking and how long for).
 - FAST screening tool (validated by NICE) is recommended: see below
 
-
 #### Blood tests
 
 FBC, U&E, LFTs including GGT and AST
-
 
 #### FAST tool
 
@@ -50,28 +47,24 @@ FBC, U&E, LFTs including GGT and AST
 - Yes, but not in the last year (2)
 - Yes, in the last year (4)
 
-
 #### FAST — Score Interpretation and Suggested Action
 
- 
+
 
 ## Primary care management
 
 - Prescribe Thiamine 50mg TDS until the patient has been abstinent for 6 months and have resumed a balanced diet
 - Advise reduce alcohol slowly but not to stop (explain risks of sudden cessation)
 - Do not prescribe benzodiazepines in primary care due to risk of drinking on top. If a detox is required, refer to SDAS.
-- Signpost to local support i.e. With You / ADS if a detox is not required.  
+- Signpost to local support i.e. With You / ADS if a detox is not required.
 - Fast score: 3-8. Nalmefene is a licensed treatment option which can be considered by GPs to support reduction of hazardous drinking.
 
-
 ### Patient self referral:
-
 
 #### With You (3rd sector support)
 
 - Dumfries: 79 Buccleuch Street, DG1 2AB — Tel: 01387 263208
 - Stranraer: 32 Charlotte Street, DG9 7EF — Tel: 01776 705907
-
 
 #### ADS (Alcohol and Drugs Support)
 
@@ -79,17 +72,14 @@ FBC, U&E, LFTs including GGT and AST
 - Castle Douglas: 225 King Street, DG7 1DT — Tel: 01556 503550
 - Stranraer: 32 Charlotte Street, DG9 7EF — Tel: 01776 702626
 
-
 #### Specialist Drug and Alcohol Service (SDAS)
 
 - Dumfries: Lochfield Road Primary Care Centre, 12-28 Lochfield Road, DG2 9BH - Tel 01387 244555
 - Stranraer: Innistaigh, Dalrymple Street, DG9 7DQ - Tel: 01387244555
 
-
 #### AA (Alcoholics Anonymous)
 
 - Freephone: 0800 9177 650
-
 
 #### Young people (<18 years)
 
@@ -100,8 +90,7 @@ FBC, U&E, LFTs including GGT and AST
 Emergency admission if:
 
 - Seizures, uncontrollable vomiting, hallucinations, acute confusion, severe tremor, autonomic disturbance, reduced consciousness.
-- Suspected Wernicke’s encephalopathy.  
-
+- Suspected Wernicke’s encephalopathy.
 
 #### Specialist Drug & Alcohol Service (SDAS):
 
@@ -109,7 +98,6 @@ Emergency admission if:
 - Patients needing specialist input or already on opiate substitute therapy.
 - Pregnancy with alcohol dependence (urgent).
 - Any patients being referred should have U&E, LFTs including AST and GGT, FAST score and ECG if over 45 within a month of referral date.
-
 
 #### Other services:
 
@@ -119,7 +107,6 @@ Emergency admission if:
 
 FAST score 3+ where abstinence is not wanted
 - Patients with dependence to any substance which isn't opiates or alcohol
-
 
 #### Family and friend support:
 

@@ -30,7 +30,6 @@ Tests:
 
 ## Primary care management
 
-
 ### AF on ECG
 
 Manage via atrial fibrillation pathway
@@ -65,7 +64,6 @@ These are likely to respond to lifestyle modification and can generally be manag
 - History or physical signs of structural heart disease, heart failure, or hypertension.
 
 ## Who to refer
-
 
 ### Normal ECG - ongoing symptoms despite initial lifestyle management
 

@@ -5,15 +5,11 @@ Fetched: 2026-02-23
 
 ## Diabetes UK Type 2 Magazine
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 
@@ -29,15 +25,11 @@ Provide to all newly diagnosed diabetics.
 
 ## DESMOND
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 
@@ -51,15 +43,11 @@ Meet Desmond leaflets are available from the local coordinator
 
 ## My Diabetes My Way
 
-
 ### Description
-
 
 ### Who is it for?
 
-
 ### Format
-
 
 ### Additional comments
 
@@ -69,7 +57,7 @@ Recommended for everyone diagnosed who can access digital platforms
 
 App and web based
 
-Patients can self-sign up online at https://mydiabetesmyway.scot.nhs.uk/Or complete SCI-Diabetes sign up with email under demographics
+Patients can self-sign up online at https://mydiabetesmyway.scot.nhs.uk/Or complete SCI-Diabetes sign up with email under demographics
 
 ---
 ## Editorial Information

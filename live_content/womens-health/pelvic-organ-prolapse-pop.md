@@ -5,45 +5,39 @@ Fetched: 2026-02-23
 
 ## Types of POP
 
-
 ##### Anterior compartment prolapse
 
-- Urethrocele - prolapse of the urethra into the vagina
-- Cystocele - prolapse of the bladder into the vagina
-- Cystourethrocele - prolapse of both urethra and bladder
-
+- Urethrocele - prolapse of the urethra into the vagina
+- Cystocele - prolapse of the bladder into the vagina
+- Cystourethrocele - prolapse of both urethra and bladder
 
 ##### Middle compartment prolapse
 
-- Uterine prolapse - descent of the uterus into the vagina
-- Vaginal vault prolapse - descent of the vaginal vault post-hysterectomy
-- Enterocele - herniation of the Pouch of Douglas (including small intestine/omentum) into the vagina
-
+- Uterine prolapse - descent of the uterus into the vagina
+- Vaginal vault prolapse - descent of the vaginal vault post-hysterectomy
+- Enterocele - herniation of the Pouch of Douglas (including small intestine/omentum) into the vagina
 
 ##### Posterior compartment prolapse
 
-- Rectocele - prolapse of the rectum into the vagina
+- Rectocele - prolapse of the rectum into the vagina
 
 ## Grading of POP
 
-
 ##### POP quantification system:
 
-- Stage 0 - no prolapse
-- Stage I - most distal portion of the prolapse is >1cm proximal to the level of the hymen
-- Stage II - most distal portion of the prolapse is
-- Stage III - most distal portion of the prolapse is
-- Stage IV - complete vaginal eversion
-
+- Stage 0 - no prolapse
+- Stage I - most distal portion of the prolapse is >1cm proximal to the level of the hymen
+- Stage II - most distal portion of the prolapse is
+- Stage III - most distal portion of the prolapse is
+- Stage IV - complete vaginal eversion
 
 ##### Degree of uterine descent:
 
-- 1st degree - cervix visible when the perineum is depressed – prolapse contained within the vagina
-- 2nd degree - cervix prolapsed through the introitus with the fundus remaining in the pelvis
-- 3rd degree -  procidentia (complete prolapse) – entire uterus is outside the introitus
+- 1st degree - cervix visible when the perineum is depressed – prolapse contained within the vagina
+- 2nd degree - cervix prolapsed through the introitus with the fundus remaining in the pelvis
+- 3rd degree -  procidentia (complete prolapse) – entire uterus is outside the introitus
 
 ## Diagnosis of POP
-
 
 ##### History:
 
@@ -86,7 +80,7 @@ Surgical management is offered to patients who:
 - have declined conservative management
 - failed to respond to conservative management
 
-Patient choice should be taken into account when making the referral.    
+Patient choice should be taken into account when making the referral.
 
 ---
 ## Editorial Information

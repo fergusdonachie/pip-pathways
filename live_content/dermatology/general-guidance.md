@@ -41,7 +41,7 @@ Note do not refer lesions on nose or ear to ENT, refer to dermatology with good 
 - Contact dermatitis
 - Rosacea
 - Eczema - Atopic
-- Solar (actinic) keratosis not responding to treatment as per guidance
+- Solar (actinic) keratosis not responding to treatment as per guidance
 - Urticaria
 
 ## Do not refer

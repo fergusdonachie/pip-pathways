@@ -29,7 +29,6 @@ If referring for consideration of angina diagnosis:
 
 ## Who to refer
 
-
 ### Emergency admission
 
 - Increase in severity or frequency of symptoms over recent days and/or

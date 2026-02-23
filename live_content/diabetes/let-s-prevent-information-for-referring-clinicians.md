@@ -24,7 +24,7 @@ Individuals who show an interest in attending Letâs Prevent will be sent an
 
 ## Further information
 
- 
+
 
 ---
 ## Editorial Information

@@ -38,13 +38,11 @@ For physiological discharge advise avoiding nipple manipulation.
 
 ## Who to refer
 
-
 ### Refer Urgent suspicion of cancer
 
 - Nipple discharge that is clear yellow with or without red blood staining
 - Unilateral nipple eczema that does not respond to 2 weeks of moderately potent steroid cream
 - New, unilateral and non-reversible nipple retraction
-
 
 ### Routine referral
 

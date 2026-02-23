@@ -9,7 +9,6 @@ Fetched: 2026-02-23
 - Solifenacin
 - Mirabegron – Note: To be considered where 2 separate trials of anti-muscarinics have not been effective or where first line options are contraindicated. This may be considered a first line option in patients with a high anti-cholinergic burden would be detrimental. In line with Scottish Polypharmacy Guidance 2015.
 
-
 ### Stress Urinary Incontinence in Women
 
 - Pelvic floor muscle exercises
@@ -18,15 +17,13 @@ See national guidance -
 
 - Nice guidance - Men
 - Nice guidance women
-- Management of Incontinence - urinary, in women - CKS 
-
+- Management of Incontinence - urinary, in women - CKS
 
 ### Alpha-andrenoceptor blockers
 
 - Tamsulosin caps ✓ First Choice
 - Alfuzosin ✓ First Choice
 - Doxazosin
-
 
 ### 5α-reductase inhibitors
 
@@ -35,13 +32,11 @@ See national guidance -
 
 Consider alpha-adrenoceptor blockers in patients with distal ureteric stones less than 10mm in diameter
 
-
 ### Alkalinisation of urine
 
 - Potassium citrate ✓ First Choice
 
 ## 2. Bladder instillations and urological surgery
-
 
 ### Bladder infection, dissolution of blood clots and maintenance of indwelling urinary catheters
 
@@ -51,56 +46,45 @@ Consider alpha-adrenoceptor blockers in patients with distal ureteric stones les
 
 Refer to sexual health guidelines at – West of Scotland sexual health guidelines
 
-
 ### Combined hormonal contraceptives - oral
-
 
 #### 1st generation
 
 - Brevinor® ✓ First Choice
-
 
 #### 2nd generation – ethinylestradiol + levonorgestrel
 
 - Levest® 150/30 ✓ First Choice
 - Rigevidon® ✓ First Choice
 
-
 #### Triphasic
 
 - TriRegol® ✓ First Choice
-
 
 #### 3rd generation – ethinylestradiol + desogestrel
 
 - Bimizza® 150/20 ✓ First Choice
 - Cimizt 30/150 ✓ First Choice
 
-
 #### 3rd Generation – ethinylestradiol + gestodene
 
 - Millinette 30/75 and 20/75
-
 
 #### 3rd Generation – ethinylestradiol + norgestimate
 
 - Lizinna® 250/35 (replaces Cilique® 250/35)
 
-
 #### 4th Generation
 
 - Yacella
-
 
 ### Combined hormonal contraceptives – transdermal
 
 - Evra® patches (ethinylestradiol + norelgestromin)
 
-
 ### Combined hormonal contraceptives – vaginal
 
 - Nuvaring (ethinylestradiol + etonogestrel)
-
 
 ### Inter-uterine devices
 
@@ -109,13 +93,11 @@ Refer to sexual health guidelines at – West of Scotland sexual health guidelin
 - Narrow os – Nova-T® 380 (5 year)
 - Narrow os and short uterus CU-Safe® T 300 (5 year)
 
-
-### Diaphragms/caps 
+### Diaphragms/caps
 
 Seek advice from sexual health on the most cost effective product at the time of prescribing
 
 - Copper IUD should be offered first line ✓ First Choice
-
 
 ### Hormonal Emergency Contraception
 
@@ -126,17 +108,14 @@ See FSRH guidance (December 2017 – updated 2023) for clarification on when Uli
 
 - Desogestrel (12 hour window) ✓ First Choice
 
-
 ### LARC parenteral progestogen - only
 
 - Medroxyprogesterone acetate 150mg/1ml (Depo-Provera®) ✓ First Choice
 - Medroxyprogesterone acetate 104mg/0.65ml (Sayana Press®) for self-administration.
 
-
 ### LARC - Contraceptive implants
 
 - Etonogestrel (Nexplanon®) ✓ First Choice
-
 
 ### LARC - Hormone releasing intra-uterine systems
 
@@ -156,7 +135,7 @@ Prescription must be endorsed ‘SLS’ by the prescriber. Only allowed on the N
 
 Specialist treatment
 
- 
+
 
 ## 5. Polycystic ovarian syndrome
 
@@ -178,16 +157,13 @@ Specialist treatment
 - Mifepristone ✓ Specialist Use Only
 - Misoprostol ✓ Specialist Use Only
 
-
 ### Hospital management - Ectopic pregnancy
 
 - Methotrexate ✓ Specialist Use Only
 
-
 ### Hospital management- Suppression of Lactation
 
 - Cabergoline ✓ Specialist Use Only/li>
-
 
 ### Hospital management - Uterine hyperstimulation
 
@@ -195,11 +171,9 @@ Specialist treatment
 
 ## 8. Vaginal and vulval conditions
 
-
 ### Lichen sclerosis
 
 - Clobetasol propionate 0.05% ointment
-
 
 ### Vulval moisturizers (Can be used as a wash/ soap substitute)
 
@@ -207,12 +181,9 @@ Specialist treatment
 - Hydromol ointment
 - Doublebase gel or equivalent emollient
 
-
 ### Vaginal Atrophy
 
-
 ### Vaginal Oestrogen Products
-
 
 #### Symptom control
 
@@ -220,12 +191,10 @@ Specialist treatment
 - Sylk® VM
 - YES® VM
 
-
 ### Dysmenorrhoea
 
 - Ibuprofen
 - Paracetamol
-
 
 ### Oligomenorrhoea
 
@@ -234,14 +203,12 @@ Specialist treatment
 
 ## 9. Thyroid disorders
 
-
 ### Antithyroid drugs
 
 To be initiated on specialist advice
 
 - Carbimazole ✓ First Choice
 - Propylthiouracil – Patients should be counselled re risk of hepatitis (see SPC at www.medicines.org.uk )
-
 
 ### Beta-blockers
 

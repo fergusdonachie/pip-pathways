@@ -41,17 +41,14 @@ In cases of mild neutropenia, recommend annual FBC monitoring. Referral is indic
 
 ## Who to refer
 
-
 ### Immediate referral for admission
 
 Patients with severe neutropenia with evidence of sepsis require admission via Combined Assessment Unit
-
 
 ### Urgent referral
 
 - Neutropenia with concomitant cytopenia
 - Neutropenia in the presence of adenopathy or splenomegaly
-
 
 ### Routine referral
 

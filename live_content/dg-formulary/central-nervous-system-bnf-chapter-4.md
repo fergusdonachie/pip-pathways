@@ -5,26 +5,22 @@ Fetched: 2026-02-23
 
 ## 1. Dementia
 
-
 ### Mild to moderate Alzheimer's disease
 
-Donepezil tablets ✓ First Choice ✓ Specialist Initiation Only
+Donepezil tablets ✓ First Choice ✓ Specialist Initiation Only
 
- 
 
 
 ### Severe Alzheimer's disease
 
-Memantine tablets/ oral solution ✓ First Choice ✓ Specialist Initiation Only - Also for moderately severe who are intolerant or have contraindications to cholinesterase inhibitors
+Memantine tablets/ oral solution ✓ First Choice ✓ Specialist Initiation Only - Also for moderately severe who are intolerant or have contraindications to cholinesterase inhibitors
 
- 
 
 
 ### Dementia other than Alzheimer’s Disease
 
 Please seek specialist advice.
 
- 
 
 
 #### Reference
@@ -33,19 +29,16 @@ NICE TA 217: Donepezil, galantamine, rivastigmine and memantine for the treatmen
 
 ## 2. Epilepsy
 
-**Sodium valproate is NOT suitable for woman of child bearing age.** Specialists must independently consider and complete Pregnancy Prevention Programme to demonstrate that there is no other effective treatment for all male and female patients under the age of 55 years, or that there are compelling reasons that the reproductive risks do not apply.  Please see MHRA guidelines below
-
+**Sodium valproate is NOT suitable for woman of child bearing age.** Specialists must independently consider and complete Pregnancy Prevention Programme to demonstrate that there is no other effective treatment for all male and female patients under the age of 55 years, or that there are compelling reasons that the reproductive risks do not apply.  Please see MHRA guidelines below
 
 ### Focal onset seizures
 
 Specialist advice only:
 
-
 #### 1st line monotherapy
 
 - Lamotrigine ✓ First Choice✓ Specialist Initiation Only – suitable in women of child bearing age
 - Levetiracetam ✓ Specialist Initiation Only – suitable in women of child bearing age
-
 
 #### 2nd line monotherapy
 
@@ -53,34 +46,28 @@ Specialist advice only:
 - oxcarbazepine ✓ Specialist Initiation Only
 - Zonisamide✓ Specialist Initiation Only
 
-
 ### Generalised epilepsy
 
 - Lamotrigine ✓ First Choice✓ Specialist Initiation Only – suitable in women of child bearing age
 - Levetiracetam ✓ Specialist Initiation Only – suitable in women of child bearing age
 
-
 ### Status epilepticus
-
 
 #### Step 1 (in community):
 
 - Midazolam buccal ✓ First Choice/intranasal (Buccolam) ✓ First Choice
 - Lorazepam IV/Diazepam IV
 
-
 #### Step 2 (in hospital):
 
 - Midazolam buccal ✓ First Choice/intranasal (Buccolam)
 - Lorazepam IV ✓ First Choice
 
-
 #### Step 3 (in hospital/CCU):
 
 - Levetiracetam injection
-- Phenytoin injection 
+- Phenytoin injection
 - Sodium valproate injection (not suitable for women of CBP)
-
 
 ### Advice on switching between different manufacturers' products
 
@@ -120,7 +107,6 @@ Category 3 – The potential for clinically relevant differences to exist betwee
 
 This guidance only relates to the treatment of epilepsy – it does not apply to the use of these drugs for other indications eg neuropathic pain.
 
-
 ### References
 
 SIGN 143: Diagnosis and management of epilepsy in adults, May 2015, revised 2018.
@@ -141,11 +127,9 @@ MHRA Drug Safety Update: MHRA DSU: Antiepileptic drugs: Updated advice on switch
 
 To know more about mental health conditions and their treatment, and to obtain printable patient information leaflets go to: www.choiceandmedication.org/nhs24/
 
-
 ### Acute anxiety state
 
 - Diazepam tablets 2mg ✓ First Choice - short term treatment only of acute crises (ensure appropriate review)
-
 
 ### Treatment of anxiety and related disorders
 
@@ -156,7 +140,6 @@ For adults whose anxiety disorder symptoms only partially respond to psychologic
 
 Benzodiazepines are associated with poorer outcomes in the long term and should not be prescribed for the treatment of anxiety except as a short-term measure during crises.
 
-
 #### Pharmacological treatment of anxiety
 
 (Note: different antidepressants have differing product licenses for the anxiety disorders, see product literature for details)
@@ -165,7 +148,6 @@ Benzodiazepines are associated with poorer outcomes in the long term and should 
 - Fluoxetine in OCD / BDD ✓ First Choice; tends to require higher doses than depression
 - Alternative SSRI
 - SNRI: Duloxetine or Venlafaxine
-
 
 #### Second line pharmacological treatment of anxiety
 
@@ -180,7 +162,6 @@ Specialist advice only:
 - MAOIs e.g. Phenelzine / Moclobemide
 - Lisdexamfetamine in binge eating disorder
 
-
 ### Drug treatment of PTSD for adults (Specialist advice only)
 
 - Venlafaxine ✓ Specialist Initiation Only
@@ -194,7 +175,6 @@ Consider antipsychotics such as Risperidone ✓ Specialist Initiation Only, in a
 
 Nightmares in PTSD can respond to Prazosin ✓ Specialist Initiation Only or Doxazosin ✓ Specialist Initiation Only given at bedtime.
 
-
 ### References
 
 **Generalised anxiety disorder and panic disorder: ***www.nice.org.uk/guidance/cg113*
@@ -205,8 +185,7 @@ Nightmares in PTSD can respond to Prazosin ✓ Specialist Initiation Only or Dox
 
 **Post-traumatic stress disorder: ***www.nice.org.uk/guidance/ng116*
 
-** ****Eating disorders**: www.nice.org.uk/guidance/ng69
-
+** Eating disorders**: www.nice.org.uk/guidance/ng69
 
 #### Medication choice – children aged 5 years and over and young people
 
@@ -215,21 +194,18 @@ Nightmares in PTSD can respond to Prazosin ✓ Specialist Initiation Only or Dox
 - they cannot tolerate methylphenidate or lisdexamfetamine or
 - their symptoms have not responded to separate 6-week trials of lisdexamfetamine and methylphenidate, having considered alternative preparations and adequate doses
 
-
 #### Medication choice – adults
 
 (Note: product licenses vary for adults between preparations and if pre-existing or new diagnosis)
 
-- they cannot tolerate lisdexamfetamine or methylphenidate or 
+- they cannot tolerate lisdexamfetamine or methylphenidate or
 - symptoms have not responded to separate 6-week trials of lisdexamfetamine and methylphenidate, having considered alternative preparations and adequate doses.
-
 
 #### ONLY on advice of tertiary specialist ADHD service:
 
 - guanfacine for adults
 - clonidine for children with ADHD and sleep disturbance, rages or tics
 - atypical antipsychotics in addition to stimulants for people with ADHD and coexisting pervasive aggression, rages or irritability
-
 
 #### Medication choice – people with coexisting conditions
 
@@ -256,7 +232,6 @@ MHRA Drug Safety update: Valproate medicines (Epilim, Depakote): Pregnancy Preve
 
 https://www.gov.uk/government/news/mhra-advises-men-taking-valproate-and-their-partners-to-use-effective-contraception
 
-
 ### Pharmacological interventions for mania/hypomania
 
 Seek specialist service advice, (Acute Mania would generally be managed in hospital, hypomania may be managed at home with support).
@@ -264,7 +239,6 @@ Seek specialist service advice, (Acute Mania would generally be managed in hospi
 Insomnia is both a symptoms and trigger for mania, consider if a hypnotic is indicated.
 
 Lamotrigine is not helpful in managing mania
-
 
 ### Pharmacological treatment of bipolar depression
 
@@ -279,7 +253,6 @@ If not already taking lithium and still unwell, consider adding lithium and opti
 
 If already taking sodium valproate* (and not a woman of CBP) consider increasing the dose within the therapeutic range
 
-
 ### Pharmacological prophylaxis of relapse in Bipolar disorder
 
 (with specialist advice): Consider, with the individual, the medication that has been helpful during episodes of mania or bipolar depression and if to continue this longer term.
@@ -291,20 +264,16 @@ If not already taking offer lithium as a first-line, long-term pharmacological t
 
 Consider the long term adverse effects of the medication and plan for physical health monitoring appropriate to the medication, including blood level monitoring for lithium.
 
-
 ### Mild to moderate depression
 
 - self help – drug treatment is not a 1st line option. See: NHS Inform website for topics, for self help guides within individual topics: https://www.nhsinform.scot/illnesses-and-conditions/mental-health
 
-
 ### Pharmacological treatment of moderate to severe depression
-
 
 #### First line:
 
 - Fluoxetine
 - Sertraline
-
 
 #### Second line:
 
@@ -313,11 +282,9 @@ Consider the long term adverse effects of the medication and plan for physical h
 - Mirtazapine
 - Venlafaxine standard release tablets, (XL preparations are less cost-effective and should only be considered where standard release is not suitable).
 
-
 #### Recurrence of depression:
 
 - previously successful anti-depressant
-
 
 #### Antidepressants for treatment of anxiety disorders see 3.1
 
@@ -325,13 +292,11 @@ Formulary note: Fluvoxamine is NOT recommended for use in NHS D&G
 
 NICE Psychosis and schizophrenia in adults: prevention and management: [CG178] Published Feb 2014 Last update March 2014 https://www.nice.org.uk/guidance/cg178
 
-
 ### Treatment of psychosis (specialist initiation only)
 
 - An antipsychotic appropriate to the patient’s needs and characteristics
 
-MHRA Drug safety update - Clozapine and other antipsychotics: monitoring blood concentrations for toxicity –
-
+MHRA Drug safety update - Clozapine and other antipsychotics: monitoring blood concentrations for toxicity –
 
 ### Antipsychotics and dementia (on specialist advice only)
 
@@ -340,14 +305,13 @@ Before prescribing consider Stress and Distress and contacting the IDEAS team un
 - Risperidone - only licensed for a maximum of 6 weeks use in the management of Behavioural and Psychological Symptoms of Dementia (BPSD)
 - Antipsychotic depot injections (specialist initiation only)
 
-Formulary note: Where quetiapine is used it should be prescribed as standard release tablets  
+Formulary note: Where quetiapine is used it should be prescribed as standard release tablets
 
 ## 4. Movement disorders
 
 Drugs used in idiopathic Parkinson’s disease and related disorders are on specialist advice only ✓ Specialist Initiation Only
 
 Dopaminergic drugs used in Parkinson’s disease
-
 
 #### Dopamine- agonists
 
@@ -358,18 +322,15 @@ Dopaminergic drugs used in Parkinson’s disease
 
 In patients who are nil by mouth or who have absorption problems, Rotigotine patches may be considered as a treatment option
 
-
 #### Dopamine containing drugs
 
 - Co-beneldopa (Madopar®) ✓ First Choice
 - Co-careldopa (Sinemet®) ✓ First Choice
 - Stanek® (Co-careldopa/Entacapone)
 
-
 #### COMT inhibitor
 
 - Entacapone
-
 
 #### MAOB inhibitor
 
@@ -377,9 +338,7 @@ In patients who are nil by mouth or who have absorption problems, Rotigotine pat
 
 ## 5. Nausea and labyrinth disorders
 
-
 ### Nausea
-
 
 #### Antihistamines
 
@@ -388,12 +347,10 @@ In patients who are nil by mouth or who have absorption problems, Rotigotine pat
 
 See also National Palliative Care Guidance
 
-
 #### Phenothiazine and related drugs
 
 - Levomepromazine
 - Prochlorperazine
-
 
 #### Dopamine receptor antagonists
 
@@ -404,36 +361,29 @@ Drug Safety Update: Metoclopramide: risk of neurological adverse effects Dec 201
 
 Drug Safety Update: Domperidone for nausea and vomiting: lack of efficacy in children; reminder of contraindications in adults and adolescents Dec 2019
 
-
 #### 5HT3 receptors antagonists
 
 - Ondansetron
-
 
 #### Antimuscarinics
 
 - Hyoscine hydrobromide
 
-
 ### Nausea and vomiting in migraine (See MHRA advice above)
 
 - Metoclopramide
-
 
 ### Gastric stasis
 
 - Metoclopramide
 
-
 ### Nausea & vomiting in pregnancy
 
 - Cyclizine
 
-
 ### Opioid-induced
 
 - Haloperidol – See also National Palliative Care Guidance
-
 
 ### Other drugs for Meniere’s Disease
 
@@ -451,13 +401,11 @@ Migraine, see chapter 4.5.1
 
 Tramadol is not approved for use in NHS D&G unless on Specialist Advice. If tramadol is prescribed the possibility of seratoninergic drug combinations must be considered.
 
-
 ### Step 1: mild pain
 
 - Paracetamol ✓ First Choice +/-
 - NSAID (Ibuprofen ✓ First Choice)
 - Refer to section 10.4 for topical NSAIDs
-
 
 ### Step 2: moderate pain
 
@@ -467,7 +415,6 @@ Tramadol is not approved for use in NHS D&G unless on Specialist Advice. If tram
 Consider combinations as appropriate – Only after trial of Step 1
 
 - Co-codamol 30/500 ✓ First Choice (prescribe as tablets/caplets) ± NSAID (Ibuprofen ✓ First Choice)
-
 
 ### Step 3: severe pain
 
@@ -499,7 +446,6 @@ Opiods: risk of dependence and addiction
 
 For palliative care only See current palliative care guidelines
 
-
 ### Migraine
 
 For further advice and prescribing information, see:
@@ -507,16 +453,13 @@ For further advice and prescribing information, see:
 - SIGN 155 Pharmacological management of migraine 2023 update
 - DGRefHelp: Migraine in adults | Right Decisions
 
-
 #### Treatment of the acute migraine attack
-
 
 #### Mild to moderate migraine
 
 - Aspirin
 - Ibuprofen
 - Paracetamol – if NSAIDs are contraindicated/not tolerated, or in combination with aspirin or NSAID
-
 
 #### Nausea due to migraine
 
@@ -525,7 +468,6 @@ For further advice and prescribing information, see:
 
 MHRA Drug Safety Update December 2014 Metoclopramide: risk of neurological adverse effects - GOV.UK
 
-
 #### Severe migraine
 
 - Sumatriptan tablets
@@ -533,11 +475,9 @@ MHRA Drug Safety Update December 2014 Metoclopramide: risk of neurological adver
 
 The combination of an analgesic and metoclopramide can be as effective as a triptan
 
-
 #### Oral calcitonin gene-related peptide (CGRP) inhibitors
 
 - Rimegepant – for treatment of acute migraine in patients who have had prior failure on at least two triptans or triptans are contra-indicated
-
 
 #### Migraine prophylaxis (primary care)
 
@@ -547,7 +487,6 @@ The combination of an analgesic and metoclopramide can be as effective as a trip
 - Topiramate – contraindicated in pregnancy and in women of childbearing potential unless the conditions of a pregnancy prevention programme are fulfilled. MHRA Drug Safety Update June 2024 Topiramate (Topamax): introduction of new safety measures, including a Pregnancy Prevention Programme - GOV.UK
 - Rimegepant – treatment of episodic migraines in patient who have had prior failure on three or more migraine preventative treatments
 - Atogepant – treatment of chronic or episodic migraine who have had prior failure on three or more migraine preventative treatments
-
 
 #### Migraine prophylaxis (specialist)
 
@@ -559,27 +498,21 @@ The combination of an analgesic and metoclopramide can be as effective as a trip
 
 MHRA warning metoclopramide – only licensed for short term use up to 5 days due to risk of potentially serious neurological side effects Drug treatment of cluster headache acute attacks Sumatriptan subcutaneous Prophylaxis - see specialist
 
-
 ### Drug treatment of cluster headache
-
 
 #### Acute attacks
 
 - Sumatriptan subcutaneous ✓ First Choice
 
-
 #### Prophylaxis - see specialist
-
 
 #### 1st line
 
 - Amitriptyline ✓ First Choice(titrate to adequate dose)
 
-
 #### 2nd line
 
 - Gabapentin (titrate dose up to at least 1200mg a day)
-
 
 #### 3rd line
 
@@ -591,7 +524,6 @@ MHRA warning metoclopramide – only licensed for short term use up to 5 days du
 Before prescribing consider contributory factors which may be causing insomnia e.g.
 
 Sleepio is a digital app which can be used to help manage insomnia disorder for adults aged 18 years and older, as an adjunct to their usual medical care. https://info.sleepio.com/suitability
-
 
 ### Pharmacological treatment of insomnia in adults
 
@@ -606,7 +538,7 @@ Acute prescriptions only- short term relief of symptoms, **max 4 weeks** – Adv
 
 Hypnotics started in hospital should not normally be continued on discharge (except palliative care)
 
- 
+
 
 CNS stimulants: secondary care advice only
 
@@ -614,23 +546,19 @@ Narcolepsy: seek specialist advice
 
 ## 8. Substance dependence
 
-
 ### Alcohol withdrawal symptoms: Inpatients
 
 - Refer to clinical handbook
 - Diazepam ✓ First Choice
 - Lorazepam in special patient groups e.g. liver impairment, respiratory depression, frail elderly
 
-
 ### Alcohol withdrawal symptoms: Outpatients (specialist advice)
 
 - Chlordiazepoxide ✓ First Choice
 
-
 ### Alcohol withdrawal symptoms in pregnancy:
 
 - Seek specialist advice; usually chlordiazepoxide
-
 
 ### Maintenance of abstinence from alcohol
 
@@ -638,14 +566,12 @@ Narcolepsy: seek specialist advice
 - Acamprosate calcium ✓ First Choice(review annually for need to continue)
 - Naltrexone ✓ First Choice(ongoing need must be assessed)
 
-
 ### Assisting Controlled drinking
 
 - Naltrexone ✓ First Choice(ongoing need must be assessed)
 - Nalmefene ✓ First Choice(ongoing need must be assessed)
 - Baclofen ✓ Specialist Initiation Only(off-label, Specialist initiation only)
 - Topiramate ✓ Specialist Initiation Only(off-label, Specialist initiation only) -Caution required in women of childbearing age, see MHRA guidance. Two prescribers must have decided this is the most appropriate option and a Pregnancy Prevention Plan completed
-
 
 ### Vitamin supplementation
 
@@ -675,7 +601,7 @@ Emergency Opiate Overdose Treatment
 - Nyxoid 1.8mg nasal spray ✓ First Choice
 - Accord 1.26mg nasal spray ✓ First Choice
 
- 
+
 
 Melatonin
 
@@ -684,7 +610,7 @@ Melatonin
 - Adalflex® tablets ✓ Specialist Initiation Only
 - Melatonin 1mg/ml oral solution ✓ Specialist Initiation Only
 
- 
+
 
 ---
 ## Editorial Information

@@ -11,7 +11,6 @@ Fetched: 2026-02-23
 
 ## Couple present with infertility
 
-
 ##### Unless indicated as in early referral, do not refer, but do:
 
 - Reassure - 84% of couples will conceive in 1st year of having unprotected sexual intercourse and 92% will conceive by the 2nd year (NICE)
@@ -29,7 +28,6 @@ Smoking cessation – neither partner to be smoking, both should be nicotine fre
 
 ## Routine investigations
 
-
 ##### Female
 
 - Rubella status—ensure has had vaccination
@@ -44,19 +42,17 @@ TSH
 - FSH/LH
 - Note: these are not required if regular cycle
 
- 
 
 
 ##### Male
 
-- Semen analysis - arrange with local fertility clinic on 01387 241205 and leave the patients details - name, CHI and requesting Doctor.  A pack will be sent to the patient, who then books an appointment with the Lab directly and the results will be forwarded back to the GP practice in due course.  
+- Semen analysis - arrange with local fertility clinic on 01387 241205 and leave the patients details - name, CHI and requesting Doctor.  A pack will be sent to the patient, who then books an appointment with the Lab directly and the results will be forwarded back to the GP practice in due course.
 - If sample normal, no need to repeat
 - If abnormal, repeat usually requested
 
- 
+
 
 ## Considerations for early referral
-
 
 ##### Female
 
@@ -68,7 +64,6 @@ TSH
 - Previous pelvic surgery
 - Any significant relevant abnormality on history, examination or investigations
 - Previous investigations
-
 
 ##### Male
 

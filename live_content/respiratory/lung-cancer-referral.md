@@ -11,7 +11,6 @@ However, **a normal chest x-ray does not exclude a diagnosis of lung cancer**.
 
 In patients with a history of asbestos exposure, mesothelioma should be considered.
 
-
 ### Refer for urgent suspicion of cancer chest x-ray for any of the following:
 
 - Any unexplained haemoptysis
@@ -25,12 +24,11 @@ change in cough or new cough
 - hoarseness (constant with voice never normal)
 - fatigue
 
-***** if CXR normal, refer via Head & Neck pathway ****** if CXR normal, consider alternative diagnosis including other cancers
+***** if CXR normal, refer via Head & Neck pathway ****** if CXR normal, consider alternative diagnosis including other cancers
 
- 
+
 
 ## Refer Urgent Suspicion of Cancer
-
 
 ### Urgent suspicion of cancer referral
 
@@ -53,9 +51,8 @@ It is helpful for a decision on clinic slot to include details on functional lev
 
 In people with features suggestive of cancer including suspected metastatic disease, but no other signs to suggest the primary source, consider Rapid Cancer Diagnostic Service referral.
 
- 
 
- 
+
 
 
 ### Functional capacity

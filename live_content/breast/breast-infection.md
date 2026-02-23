@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
 ##### Points in history
 
 - Are they lactating?
@@ -36,9 +35,9 @@ Treat with:
 
 - ***Co-amoxiclav 500/125mg TDS*** for 10-14 days
 - ***Erythromycin 250-500mg QDS*** plus ***Metronidazole 500mg TDS***for 10-14 days if penicillin allergic
-- Or ***Clarithromycin 500mg BD*** plus ***Metronidazole 500mg TDS*** for 10-14 days
+- Or ***Clarithromycin 500mg BD*** plus ***Metronidazole 500mg TDS*** for 10-14 days
 
- 
+
 
 ## Infection of skin lesion
 
@@ -48,7 +47,7 @@ Treat with:
 
 - ***Co-amoxiclav 500/125mg TDS*** for 10-14 days
 - ***Erythromycin 250-500mg QDS*** plus ***Metronidazole 500mg TDS*** for 10-14 days if penicillin allergic
-- Or ***Clarithromycin 500mg BD*** plus ***Metronidazole 500mg TDS*** for 10-14 days
+- Or ***Clarithromycin 500mg BD*** plus ***Metronidazole 500mg TDS*** for 10-14 days
 
 Hidradenitis suppurativa results in multiple, recurrent, troublesome small skin abscesses beneath the breasts, in the axilla and in the groin. Surgical intervention is generally not recommended.
 
@@ -57,7 +56,6 @@ Hidradenitis suppurativa results in multiple, recurrent, troublesome small skin 
 Refer as breast lump pathway.
 
 ## Recurrent infections or not settled with antibiotics
-
 
 ### Refer urgent suspicion of cancer
 

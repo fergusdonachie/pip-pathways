@@ -9,7 +9,7 @@ This is a summary of the follow-up guidance for practices taking part in the Loc
 
 At point of transfer to shared care, the urologist will clearly identify the schedule to follow by specifying which of the groups below apply to that patient.
 
- 
+
 
 ## Active surveillance
 

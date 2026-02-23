@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
 ### Digital Interventions
 
 The **Space in Lung Conditions** from Depression & Anxiety programme has been designed and tailored for individuals living with Lung Conditions who are experiencing co-morbid symptoms of depression and anxiety.
@@ -20,14 +19,13 @@ The programme is accessible 24/7, allowing users to access the programme at a ti
 
 All vignettes, personal stories and examples used throughout the programme are from the perspective of an individual living with lung conditions. The user is also provided with a number of activities to enable them to become more aware of their mood and to understand their situation.
 
-
 #### How to refer
 
 Refer via SCI Gateway...Mountainhall...Clinical Psychology...Psychology and choose Digital Interventions
 
 Further information: Link to digital interventions page
 
-For more complex mental health difficulties in the context of lung/respiratory conditions consider referral to the Physical Health Psychology Team 
+For more complex mental health difficulties in the context of lung/respiratory conditions consider referral to the Physical Health Psychology Team
 
 ---
 ## Editorial Information

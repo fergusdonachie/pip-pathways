@@ -24,7 +24,6 @@ Some cases with CLL show an indolent course and may not require treatment for se
 
 ## Who to refer
 
-
 ### Urgent referral
 
 - Lymphocytosis in association with cytopenia, anaemia, neutropenia, thrombocytopenia
@@ -33,7 +32,6 @@ Some cases with CLL show an indolent course and may not require treatment for se
 - Lymphocyte count >20X109/L
 - Cell marker study confirms Clonal B-Lymphocytosis **not** consistent with CLL
 
- 
 
 
 ### Routine referral or advice request

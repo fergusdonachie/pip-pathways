@@ -40,7 +40,7 @@ Lymecycline 408 mg OD,
 
 - **Severe inflammatory acne:**
 
-Refer all patients with severe acne for specialist assessment and consideration of oral isotretinoin 
+Refer all patients with severe acne for specialist assessment and consideration of oral isotretinoin
 - If the patient is female, ensure they are using appropriate contraception prior to referral for isotretinoin.
 
 ## Who to refer
@@ -52,7 +52,6 @@ Refer all patients with severe acne for specialist assessment and consideration 
 There are significant restrictions to prescription of oral isotretinoin which is a dermatologist only medication with significant side effects and risks but is a very effective treatment.
 
 There is a lot for the patient to consider before deciding to take this treatment and there is a good leaflet available from BAD.
-
 
 ### Information required as part of referral
 

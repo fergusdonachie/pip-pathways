@@ -5,7 +5,7 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-Firstly, assess if the patient simply snores, or has symptoms of OSAS. 
+Firstly, assess if the patient simply snores, or has symptoms of OSAS.
 
 Obstructive sleep apnoea syndrome should be suspected in patients with:
 
@@ -43,7 +43,7 @@ Bloods:
 
 - FBC, U&E, TFT, HbA1c, ferritin, B12, bicarbonate (a normal bicarbonate is helpful in suggesting against ventilatory failure)
 
-Scores can be helpful. An Epworth score of > 10 suggests 'abnormal' somnolence. 
+Scores can be helpful. An Epworth score of > 10 suggests 'abnormal' somnolence.
 
 ## Primary care management
 

@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
 ###### Important points in the history
 
 Are symptoms:
@@ -17,7 +16,6 @@ Are symptoms:
 - Indicative of acid reflux
 
 These would suggest benign cause.
-
 
 ###### Important points in examination
 

@@ -3,7 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infant-feeding-guidelines/colic/
 Fetched: 2026-02-23
 
-
 #### **Normal infant behaviour**
 
 All babies cry, but a baby may have colic if they cry more than 3 hours a day, 3 days a week for at least 1 week but are otherwise healthy.
@@ -44,7 +43,7 @@ In the meantime, parents should try a range of options:
 - Try baby wearing and motion to keep baby upright after feeds and close to their parent
 - Warm bathing or co-bathing
 
-NICE CKS states that the following should NOT be recommended due to insufficient evidence:
+NICE CKS states that the following should NOT be recommended due to insufficient evidence:
 
 - Simeticone (eg. infacol) or lactase (eg. colief) drops
 - Changes to maternal diet (if breastfeeding) or changing formula preparation (if formula feeding)
@@ -58,8 +57,7 @@ NICE CKS states that the following should NOT be recommended due to insufficien
 - There is suspected faltering growth, or symptoms are severe, worsening, or persist beyond 5 months of age.
 - There is a suspected underlying cause for symptoms which cannot be managed in primary care.
 
-
-#### Useful resources for parents: 
+#### Useful resources for parents:
 
 I think my baby's got colic - La Leche League GB
 

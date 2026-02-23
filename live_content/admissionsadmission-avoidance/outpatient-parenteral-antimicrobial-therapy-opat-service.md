@@ -7,7 +7,6 @@ Fetched: 2026-02-23
 
 The OPAT service provides 7-day cover for the delivery of intravenous (IV) antimicrobials and monitoring of patients on complex oral antibiotics across Dumfries & Galloway.
 
-
 #### What We Offer
 
 - Nurse-Led Clinic –
@@ -32,7 +31,6 @@ Linezolid
 
 ## Who to refer
 
-
 ### We will accept direct referrals for:
 
 - Complicated skin and soft tissue infections (upper/lower limbs or face, e.g. erysipelas) – after an adequate trial of oral antibiotics.
@@ -41,8 +39,7 @@ Linezolid
 - Patient requirements:
 
 Must have a working phone number.
-- Must be able to attend the clinic independently. 
-
+- Must be able to attend the clinic independently.
 
 ### How to Refer From Primary Care
 

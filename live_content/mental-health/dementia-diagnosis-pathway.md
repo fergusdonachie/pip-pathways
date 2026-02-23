@@ -22,7 +22,6 @@ If dementia is still suspected after initial assessment:
 - undertake appropriate blood and urine tests to exclude reversible causes of cognitive decline
 - use cognitive testing
 
-
 ###### Blood tests required
 
 - FBC
@@ -38,10 +37,9 @@ Review medication, particularly anticholinergics and stop if possible. Consider 
 
 ## Cognitive testing
 
-There are several validated, brief, structured, cognitive tests which can be used in primary care. Some have licensing restrictions. Do not rule out dementia solely because the person has a normal score on a cognitive test. 
+There are several validated, brief, structured, cognitive tests which can be used in primary care. Some have licensing restrictions. Do not rule out dementia solely because the person has a normal score on a cognitive test.
 
 It is best to become familiar with one test which allows consistency and can provide a baseline for repeat testing.
-
 
 #### Montreal Cognitive Assessment (MoCA)
 
@@ -51,14 +49,12 @@ It is best to become familiar with one test which allows consistency and can pro
 - Requires registration and completing training or signing disclaimer to access
 - Access MoCA site
 
-
 #### 6-CIT
 
 - 4-5 minutes
 - Cut off >7 (inverse scoring)
 - Online version here
 - Printed version here
-
 
 #### Test your memory (TYM)
 
@@ -67,11 +63,10 @@ It is best to become familiar with one test which allows consistency and can pro
 - Cut off <43
 - Printed version
 
-
 #### Mini-Addenbrookes
 
 - 5 minutes
-- Cut offs <25 or <21 
+- Cut offs <25 or <21
 - Printed version
 
 ## Referral
@@ -82,19 +77,15 @@ Ensure the patient consent box is ticked.
 
 Referrals are discussed by a multidisciplinary team
 
-
 ###### Possible outcomes of MDT assessment
-
 
 ###### No dementia diagnosis
 
 Patient can be referred back in future
 
-
 ###### Mild Cognitive impairment / Does not meet the criteria for dementia diagnosis at present
 
 Patient will be booked for further testing by memory clinic in timescale advised by consultant psychiatrist or psychologist
-
 
 ###### Diagnosis confirmed
 

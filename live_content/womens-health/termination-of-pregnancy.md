@@ -21,7 +21,7 @@ If gestation is clear from the history, please do not refer before 6 weeks gesta
 
 **Patients are welcome to self refer by phoning 01387 241200.**
 
-Please make it clear to patients that the initial appointment is for discussion and counselling around the options. An initial consultation will be done by phone. If the patient is unsure about her decision, a further appointment with ourselves can be made. A scan is may be carried out at the first visit to establish pregnancy viability and gestation but is not required if the date of last menstrual period is accurate, has regular periods, no bleeding or any abdominal pain.
+Please make it clear to patients that the initial appointment is for discussion and counselling around the options. An initial consultation will be done by phone. If the patient is unsure about her decision, a further appointment with ourselves can be made. A scan is may be carried out at the first visit to establish pregnancy viability and gestation but is not required if the date of last menstrual period is accurate, has regular periods, no bleeding or any abdominal pain.
 
 A self taken low vaginal swab is taken to screen for Chlamydia and Gonorrhoea. **It is very helpful if this can be checked by yourselves at the time of referral.**
 
@@ -30,7 +30,7 @@ A self taken low vaginal swab is taken to screen for Chlamydia and Gonorrhoea. *
 Once the decision has been made to go ahead with a pregnancy termination, arrangements are made for:
 
 - Early medical management at home is offered for patients living within 30 minutes of DGRI or GCH, and who are less than 10 week's gestation.
-Patients who met the criteria for home management will first attend DGRI/GCH for a face/face appointment for the administration of Mifepristone. 
+Patients who met the criteria for home management will first attend DGRI/GCH for a face/face appointment for the administration of Mifepristone.
 - During this appointment patients are then given a supply of Misoprostol to return home to self-administer 48 hours later and this is where the abortion takes place.
 
 For most patients having medical or surgical termination, only day-case attendance is required.

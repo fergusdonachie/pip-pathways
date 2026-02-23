@@ -26,7 +26,6 @@ Examination
 
 ## Primary care management
 
-
 ##### Investigations
 
 - MSSU
@@ -39,23 +38,19 @@ If MSSU positive then treat appropriately
 
 ## Who to refer?
 
-
 ##### Refer Urology Urgent Suspicion of Cancer
 
 - Age 60 or over with persistent non-visible haematuria, negative MSU and persistent irritative lower urinary symptoms or raised white cell count on blood test
 
-
-##### Refer Urology Urgent 
+##### Refer Urology Urgent
 
 - Age under 60 with persistent non-visible haematuria, negative MSU and persistent irritative lower urinary symptoms
-
 
 ##### Refer Urology Routinely
 
 - Age > 35 with unexplained non-visible haematuria on 3 or more occasions
 
 Refer via SCI-Gateway...Urology...Fast track Haematuria referral
-
 
 ##### Consider Renal referral if age < 40 and:
 

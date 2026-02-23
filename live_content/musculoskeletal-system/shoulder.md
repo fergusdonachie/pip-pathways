@@ -7,7 +7,7 @@ Fetched: 2026-02-23
 
 - Suspected fracture
 - Suspected unreduced shoulder dislocation
-- Suspected septic arthritis  - Erythema, fever, systemically unwell
+- Suspected septic arthritis  - Erythema, fever, systemically unwell
 
 ## Red flags
 
@@ -42,7 +42,7 @@ Primary Care Management: NSAIDs, refer Physiotherapy, steroid injection
 
 **Consider referral to orthopaedics if worsening function/ reduced range, night pain, failed conservative management – X-rays can be ordered at same time**
 
- 
+
 
 ## Acromio-clavicular pain
 

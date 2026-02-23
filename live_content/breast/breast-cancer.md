@@ -15,13 +15,11 @@ See also individual pages for more information on primary care management and no
 
 ## Breast Lumps
 
-
 ### Refer urgent suspicion of cancer
 
 - Any new discrete lump in patients 30 years and over
 - New breast lump in patient < 30 with axillary lump, suspicious nipple/skin changes or significant family history of breast cancer
 - New, unexplained axillary lymph node 2cm or more in size persisting at review after six weeks or increasing in size
-
 
 ### Routine referral
 
@@ -31,7 +29,6 @@ See also individual pages for more information on primary care management and no
 For more detail on breast lumps management see here
 
 ## Nipple symptoms
-
 
 ### Refer urgent suspicion of cancer
 
@@ -43,7 +40,6 @@ For more information on non-cancer management see here
 
 ## Skin changes
 
-
 ### Refer urgent suspicion of cancer
 
 - Skin tethering
@@ -51,7 +47,6 @@ For more information on non-cancer management see here
 - Peau d’orange
 
 ## Abscess/Infection
-
 
 ### Refer urgent suspicion of cancer
 

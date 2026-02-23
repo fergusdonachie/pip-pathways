@@ -17,7 +17,7 @@ Hypermobility syndromes, however, are common and terminology is confusing and of
 
 Hypermobile Ehlers Danlos is the commonest type and has no genetic test available. It can be diagnosed clinically.
 
- 
+
 
 ## Assessment
 
@@ -34,10 +34,9 @@ Patients with hypermobile Ehlers Danlos (hEDS) may present with:
 - Autonomic dysfunction
 - Positive family history
 
- 
+
 
 If the patient has any of the following symptoms/signs then they may have one of the rare genetic forms of Ehlers Danlos or Marfans and referral to Clinical genetics should be considered:
-
 
 ###### Classical Ehlers Danlos
 
@@ -48,7 +47,6 @@ If the patient has any of the following symptoms/signs then they may have one of
 - Kyphoscoliosis
 - Scleral fragility
 - Skin fragility/sagging
-
 
 ###### Marfans
 

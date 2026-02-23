@@ -19,17 +19,17 @@ Patients who are poorly controlled on a 'legacy' asthma treatment should be move
 
 ## Step 2 – Add regular long acting beta agonist (LABA)
 
-**Formulary Choices:** Dry powder inhalersFostair Nexthaler 100/6 Â - 1 puff BD (Â£14.66)****DuoResp Spiromax 160/4.5 - 1 puff BD (Â£13.98)Fobumix Easyhaler 160/4.5 - 1 puff BD (Â£10.75)Metered dose inhalersLuforbec (100/6) - 1 puff BD (Â£10.26)Bibefco 100/6 - 1 puff BD (Â£10.26)Â *does not contain maleic acid as excipient*
+**Formulary Choices:** Dry powder inhalersFostair Nexthaler 100/6  - 1 puff BD (£14.66)****DuoResp Spiromax 160/4.5 - 1 puff BD (£13.98)Fobumix Easyhaler 160/4.5 - 1 puff BD (£10.75)Metered dose inhalersLuforbec (100/6) - 1 puff BD (£10.26)Bibefco 100/6 - 1 puff BD (£10.26) *does not contain maleic acid as excipient*
 
-**Equivalents - Non Formulary:**Dry powder inhalersSymbicort 200/6 - 1 puff BD (Â£14.00)Seretide 100 Accuhaler - 1 puff BD (Â£18.00)Relvar Ellipta 92/22 - 1 puff daily (Â£22.00)Metered dose inhalers Fostair 100/6 - 1 puff BD (Â£14.66)Flutiform 50/5 2 puffs BD (Â£18.00)Seretide Evohaler 50 - 2 puffs BD (Â£17.46)Combisal 25/50 - 2 puffs BD (Â£13.50)
+**Equivalents - Non Formulary:**Dry powder inhalersSymbicort 200/6 - 1 puff BD (£14.00)Seretide 100 Accuhaler - 1 puff BD (£18.00)Relvar Ellipta 92/22 - 1 puff daily (£22.00)Metered dose inhalers Fostair 100/6 - 1 puff BD (£14.66)Flutiform 50/5 2 puffs BD (£18.00)Seretide Evohaler 50 - 2 puffs BD (£17.46)Combisal 25/50 - 2 puffs BD (£13.50)
 
 **Note:**Qvar, Fostair, Flixotide, Flutiform, Seretide and Asmanex are âdouble strengthâ compared to standard Beclometasone (Prices from step 2 per 30 days supply)
 
 ## Step 3 – Increase to moderate dose inhaled steroid
 
-**Formulary Choices:** Dry powder inhalersFostair Nexthaler 100/6 Â - 2 puffs BD (Â£29.32)****DuoResp Spiromax 160/4.5 - 2 puffs BD (Â£27.97)Fobumix Easyhaler 160/4.5 - 2 puffs BD (Â£21.50)Metered dose inhalersLuforbec 100/6 - 2 puffs BD (Â£20.52)Bibefco 100/6 - 2 puffs BD (Â£20.52)Â *does not contain maleic acid as excipient*
+**Formulary Choices:** Dry powder inhalersFostair Nexthaler 100/6  - 2 puffs BD (£29.32)****DuoResp Spiromax 160/4.5 - 2 puffs BD (£27.97)Fobumix Easyhaler 160/4.5 - 2 puffs BD (£21.50)Metered dose inhalersLuforbec 100/6 - 2 puffs BD (£20.52)Bibefco 100/6 - 2 puffs BD (£20.52) *does not contain maleic acid as excipient*
 
-**Equivalents - Non Formulary:**Dry powder inhalersSymbicort 200/6 - 2 puffs BD (Â£28.00)Symbicort 400/12 - 1 puff BD (Â£28.00)Seretide 100 Accuhaler - 2 puffs BD (Â£36.00)Seretide 250 Accuhaler 1 puff BD (Â£35.00)Fusacomb Easyhaler 250 1 puff BD (Â£21.50)Relvar Ellipta 92/22 - 2 puffs daily (Â£44.00)Relvar Ellipta 184/22 1 puff daily (Â£29.50)Metered dose inhalers Fostair 100/6 - 2 puffs BD (Â£29.32)Flutiform 125/5 2 puffs BD (Â£28.00)Seretide Evohaler 125 - 2 puffs BD (Â£23.45) or Seretide clones:Â  Â  Â Combisal 25/125, Â Aloflute 25/125, Sereflo 25/125, Sirdupla 25/125
+**Equivalents - Non Formulary:**Dry powder inhalersSymbicort 200/6 - 2 puffs BD (£28.00)Symbicort 400/12 - 1 puff BD (£28.00)Seretide 100 Accuhaler - 2 puffs BD (£36.00)Seretide 250 Accuhaler 1 puff BD (£35.00)Fusacomb Easyhaler 250 1 puff BD (£21.50)Relvar Ellipta 92/22 - 2 puffs daily (£44.00)Relvar Ellipta 184/22 1 puff daily (£29.50)Metered dose inhalers Fostair 100/6 - 2 puffs BD (£29.32)Flutiform 125/5 2 puffs BD (£28.00)Seretide Evohaler 125 - 2 puffs BD (£23.45) or Seretide clones:     Combisal 25/125,  Aloflute 25/125, Sereflo 25/125, Sirdupla 25/125
 
 **Note:**Qvar, Fostair, Flixotide, Flutiform, Seretide and Asmanex are âdouble strengthâ compared to standard Beclometasone (Prices from step 2 per 30 days supply)
 
@@ -37,9 +37,9 @@ Patients who are poorly controlled on a 'legacy' asthma treatment should be move
 
 ## Step 4 – Review diagnosis - referral/discussion with specialist before increase to high dose inhaled steroid
 
-**Formulary Choices:**Dry powder inhalersFostair Nexthaler 200/6 - 2 puffs BD (Â£29.32)DuoResp SpiroMax 320/9 - 2 puffs BD (Â£55.94)Fobumix Easyhaler 320/9 - 2 puffs BD (Â£43.00)Metered dose inhalersFostair 200/6 - 2 puffs BD (Â£29.32)Luforbec 200/6 2 puffs BD (Â£13.98)Bibefco 200/6 - 2 puffs BD (Â£13.98)Â *does not contain maleic acid as excipient*
+**Formulary Choices:**Dry powder inhalersFostair Nexthaler 200/6 - 2 puffs BD (£29.32)DuoResp SpiroMax 320/9 - 2 puffs BD (£55.94)Fobumix Easyhaler 320/9 - 2 puffs BD (£43.00)Metered dose inhalersFostair 200/6 - 2 puffs BD (£29.32)Luforbec 200/6 2 puffs BD (£13.98)Bibefco 200/6 - 2 puffs BD (£13.98) *does not contain maleic acid as excipient*
 
-**Equivalents - Non Formulary:**Dry powder inhalersBeclometasone 800mcg BD plus LABASymbicort 400/12 2 puffs BD (Â£56.00) Seretide 500 Accuhaler 1 puff BD (Â£40.92) â also available as AirfluSal Forspiro (Â£29.97), Fusacomb Easyhaler 500 (Â£26.99) and Stalpex 500 DPI (Â£24.56)Metered dose inhalersFlutiform 250/5 2 puffs BD (Â£45.56)Seretide Evohaler 250 2 puffs BD (Â£29.32) or clones:Â  Â  AirFluSal (Â£20.52), Aloflute (Â£28.32), Combisal (Â£27.99), Sereflo (Â£19.99), Sirdupla (Â£28.32)
+**Equivalents - Non Formulary:**Dry powder inhalersBeclometasone 800mcg BD plus LABASymbicort 400/12 2 puffs BD (£56.00) Seretide 500 Accuhaler 1 puff BD (£40.92) â also available as AirfluSal Forspiro (£29.97), Fusacomb Easyhaler 500 (£26.99) and Stalpex 500 DPI (£24.56)Metered dose inhalersFlutiform 250/5 2 puffs BD (£45.56)Seretide Evohaler 250 2 puffs BD (£29.32) or clones:    AirFluSal (£20.52), Aloflute (£28.32), Combisal (£27.99), Sereflo (£19.99), Sirdupla (£28.32)
 
 **Note:**Qvar, Fostair, Flixotide, Flutiform, Seretide and Asmanex are âdouble strengthâ compared to standard Beclometasone (Prices from step 2 per 30 days supply)
 

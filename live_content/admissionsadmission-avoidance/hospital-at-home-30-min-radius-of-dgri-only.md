@@ -5,14 +5,11 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
 ### WHAT IS FRAILTY HOSPITAL AT HOME - H@H?
 
 The purpose of the service is to reduce hospital admissions and length of stays for elderly patients by providing acute treatment in the comfort and familiarity of their own home. The service enables people to receive hospital level care that would otherwise require them to be admitted to hospital, such as an intravenous drip or oxygen supply. It also provides access to hospital tests under the care of a consultant in their own home.
 
-
 #### GEOGRAPHICAL AREA COVERED
-
 
 #### WHO IS ELIGIBLE FOR H@H?
 
@@ -20,8 +17,7 @@ Frail patients ages 75 and over or 65 and in a care home, who are independent or
 
 Do you have a patient within this criteria in your care that needs IV ABX or short term O2? (Max 2L on constant flow or 6L pulse flow).
 
-
-####  WHAT CONDITIONS CAN H@H OFFER TO SUPPORT WITH?
+####  WHAT CONDITIONS CAN H@H OFFER TO SUPPORT WITH?
 
 Examples of conditions-
 
@@ -31,7 +27,6 @@ Examples of conditions-
 - Acute exacerbation CCF
 - Acute kidney infection or hyponatraemia
 
- 
 
 
 #### WHAT ASSESSMENTS/TREATMENTS CAN THE SERVICE OFFER?
@@ -45,7 +40,6 @@ Examples of conditions-
 - Short term O2 requirement (max 2L on constant, 6L on pulse)
 - Rapid access to radiological tests e.g. CT, ultrasound, and plain film.
 
- 
 
 
 #### HOW ARE PATIENTS REFERRED TO THE SERVICE?
@@ -54,14 +48,12 @@ If you think your patient would benefit from H@H and meets the criteria for the 
 
 **Please make sure the patient has been seen by yourself or another member of your team before referring. **
 
-
 #### CONTACT DETAILS
 
 Any referrals, questions or quires please contact the H@H coordinator-
 
 - **Telephone- 07483169629**
 - **Email- dg.hospitalathome@nhs.scot**
-
 
 #### WHEN DOES THE SERVICE OPERATE?
 

@@ -21,18 +21,16 @@ Causes
 
 ## Who to refer
 
-
 ### Urgent referral
 
 - Unexplained platelet count >1000
 - Unexplained platelet count >450 in individuals who sustained arterial or venous thrombosis ( DVT/PE, TIA/CVA, Angina / MI) or abnormal bleeding
 
-
 ### Routine referral
 
 Persistent unexplained thrombocytosis (platelet count >450) over at least 3 months period
 
-The haematology team might advise that a blood sample in EDTA Tube shall be sent for molecular testing (JAK2, CALR mutation analysis) when the  case is referred to haematology for suspected Myeloproliferative Neoplasia, and the team might suggest waiting for resuls prior to assessing patient.
+The haematology team might advise that a blood sample in EDTA Tube shall be sent for molecular testing (JAK2, CALR mutation analysis) when the  case is referred to haematology for suspected Myeloproliferative Neoplasia, and the team might suggest waiting for resuls prior to assessing patient.
 
 ## Who not to refer
 

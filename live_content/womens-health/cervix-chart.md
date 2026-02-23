@@ -4,4 +4,3 @@ Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/w
 Fetched: 2026-02-23
 
 A cervix chart for sample takers in primary care is available here.
-

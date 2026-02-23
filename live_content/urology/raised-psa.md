@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
 ### Testing in asymptomatic patients
 
 There is no screening programme but it is reasonable to carry out PSA in patients who request testing in the following groups:
@@ -18,7 +17,6 @@ First degree relative with prostate cancer (brother/father)
 - Carry a BRCA gene variant
 
 Leaflets to support this are available on Prostate Cancer Risk Management site
-
 
 ### PSA testing in elderly
 
@@ -49,7 +47,7 @@ If a raised PSA result is received in the context of a suspected or proven UTI r
 
 **Refer fast track prostate pathway**
 
-- PSA > 10 
+- PSA > 10
 
 Mandatory tests:
 

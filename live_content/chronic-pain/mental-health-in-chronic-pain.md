@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Introduction
 
-
 ### Digital Interventions
 
 The **Space from Chronic Pain** programme has been written for individuals living with chronic pain who are experiencing symptoms of low mood, depression and anxiety.
@@ -22,11 +21,9 @@ It is accessible 24/7, which allows users to access the programme at a time and 
 
 Each module is designed of follow a goal orientated and structured format comprising of an introductory video and quiz, psychoeducational content with examples and personal stories, interactive activities, homework suggestions and summaries.
 
-
 #### How to refer
 
 Refer via SCI Gateway...Mountainhall...Clinical Psychology...Psychology and choose Digital Interventions
-
 
 #### Further information:
 

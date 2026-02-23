@@ -5,12 +5,10 @@ Fetched: 2026-02-23
 
 ## Hot swollen joint
 
-
 #### Infection suspected or recent joint surgery
 
 Refer to Emergency department or contact on-call orthopaedic registrar
 
- 
 
 
 #### Inflammatory disease suspected
@@ -27,7 +25,7 @@ Refer to ED:
 
 Refer direct for MRI:
 
-- >6 weeks with  uninterrupted symptoms and
+- >6 weeks with  uninterrupted symptoms and
 - positive meniscal provocation tests or ligament insufficiency +- joint line tenderness and
 - under 50
 

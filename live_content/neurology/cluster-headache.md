@@ -16,33 +16,31 @@ Cluster headache attacks are typified by severe or very severe unilateral orbita
 
 Smoking and alcohol may be trigger factors for cluster headache and patients should be given advice on reducing alcohol intake and smoking cessation as appropriate.
 
-All patients should be advised on the risk of medication-overuse headache and overuse of acute medicines should be addressed. 
+All patients should be advised on the risk of medication-overuse headache and overuse of acute medicines should be addressed.
 
 There is no evidence to support the use of opioids, NSAIDs, paracetamol or *oral* triptans in the management of confirmed cluster headache.
 
 A management plan will typically be in discussion with the neurologist.
-
 
 #### Management of an acute attack in a patient with known cluster headache
 
 - Sumatriptan 6mg subcutaneous injection is first line
 
 **Dose**: A single 6 mg subcutaneous injection for each cluster attack.
-- The maximum dose in 24 hours is two 6 mg injections (12 mg) with a minimum interval of **one hour** between the two doses.
+- The maximum dose in 24 hours is two 6 mg injections (12 mg) with a minimum interval of **one hour** between the two doses.
 
 - Sumatriptan nasal spray for those who can't tolerate injection
 
 **Dose**: Initially 10–20 mg administered into one nostril.
-- If there is no response to the first dose, a second dose **should not** be taken for the same attack.
+- If there is no response to the first dose, a second dose **should not** be taken for the same attack.
 - If headache recurs a second 10-20mg dose can be administered.
-- This **should not be taken within 2 hours of the initial dose.**
+- This **should not be taken within 2 hours of the initial dose.**
 - Maximum dose in 24 hours is 40mg.
 
 - Short burst oxygen therapy (100% oxygen)
 
 100% oxygen at a rate of 10-15 litres/minute for 10–20 minutes is useful in aborting an attack.
 - **Oxygen treatment is initiated by a Consultant Neurologist.**
-
 
 #### Preventative treatment
 

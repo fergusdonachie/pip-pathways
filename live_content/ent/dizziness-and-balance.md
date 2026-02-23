@@ -7,7 +7,6 @@ Fetched: 2026-02-23
 
 Intermittent short lived non-positional balance disturbance is very common in all age groups and is probably multifactorial. It is not indicative of any specific or treatable pathology. It does tend to settle over a year or so. Strong reassurance is often all that is required but encourage patients to keep on moving as this helps with habituation.
 
-
 ###### Key Messages
 
 Multiple studies have shown that in patients referred to Balance Clinics:
@@ -46,7 +45,7 @@ Vestibular neuritis (no hearing loss) or
 - Labyrinthitis (often following infection and associated with unilateral hearing loss).
 
 - MIGRAINE can cause true rotatory vertigo associated with light sensitivity +/- headache, occurring with menstrual cycle or more frequently, a past history of migraine.
-- Vestibular Migraine (previously known as migraine-associated vertigo)  - please consider migraine before any referral  to the multidisciplinary balance clinic.
+- Vestibular Migraine (previously known as migraine-associated vertigo)  - please consider migraine before any referral  to the multidisciplinary balance clinic.
 - Vertigo may be associated with other central neurological conditions, including multiple sclerosis, cardiovascular events and Parkinson's Disease.
 
 - Balance disturbance is often central or multifactorial – Consider referral to Medicine of the Elderly. The team will see patients with vertigo where that is part of a more complex picture. Some may benefit from referral to the falls pathway.

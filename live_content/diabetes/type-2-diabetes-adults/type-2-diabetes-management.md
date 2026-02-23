@@ -24,7 +24,7 @@ Fetched: 2026-02-23
 - Once tolerability confirmed add Dapagliflozin 10mg OD - no need to check HbA1c before adding
 
 - **GLP-1 receptor agonist** (**Semaglutide** (**Rybelsus**)1.5mg, increasing to 4mg after 1 month then 9mg if needed) OR
-- **DPP-4 inhibitor (Sitagliptin 100mg) **
+- **DPP-4 inhibitor (Sitagliptin 100mg) **
 
 **Note: GLP-1 - Ensure up to date eye screening. If overdue arrange this before starting. OK to use in background retinopathy.**
 
@@ -60,7 +60,7 @@ Fetched: 2026-02-23
 - **Urgent referral** to specialist diabetes antenatal service.
 - **Urgent referral** to eye screening team
 - **Start insulin promptly** under specialist guidance.
-- **Provide Libre sensor** as per national guidance.
+- **Provide Libre sensor** as per national guidance.
 
 ## Diabetes drugs cribsheet
 

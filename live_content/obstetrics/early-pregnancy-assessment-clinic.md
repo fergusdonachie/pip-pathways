@@ -11,7 +11,7 @@ Monday – Friday 9am – 4.30pm. Early Pregnancy Assessment Service Telephone n
 
 ## Elective referral
 
-There are specific groups of women for whom referral as soon as pregnancy is confirmed is recommended. 
+There are specific groups of women for whom referral as soon as pregnancy is confirmed is recommended.
 
 Patients requiring early referral include:
 
@@ -21,16 +21,16 @@ Patients requiring early referral include:
 - Epilepsy
 - Thyroid dysfunction
 
-Referral can be made through SCI gateway or by phoning Women’s Outpatients during clinic hours.  Women's Outpatients telephone number - 01387 241200.
+Referral can be made through SCI gateway or by phoning Women’s Outpatients during clinic hours.  Women's Outpatients telephone number - 01387 241200.
 
 ## Urgent referral
 
 If the reason for referral is bleeding and/or abdominal pain or any symptoms suggestive of ectopic pregnancy (typical or atypical), referral should be as follows:
 
-- During clinic hours: telephone Early Pregnancy Assessment Service on **01387 241266** for initial assessment and appointments as appropriate.
-- Out with clinic hours: **for****emergencies**, telephone the on call middle grade gynaecologist via the switchboard 01387 246246 for advice.   
+- During clinic hours: telephone Early Pregnancy Assessment Service on **01387 241266** for initial assessment and appointments as appropriate.
+- Out with clinic hours: **for****emergencies**, telephone the on call middle grade gynaecologist via the switchboard 01387 246246 for advice.
 
- 
+
 
 ---
 ## Editorial Information

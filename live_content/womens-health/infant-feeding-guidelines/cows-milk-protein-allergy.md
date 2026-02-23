@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Overview
 
-
 ### Cow's milk protein allergy or lactose intolerance?
 
 Primary Lactose intolerance is rare, but infants can develop transient lactose intolerance, following a G.I infection/virus; which will self resolve over 4 – 6 weeks.
@@ -16,13 +15,11 @@ Lactose free infant formula milks can be purchased over the counter in pharmacie
 
 ## Assessment
 
-
 ### Symptoms of mild to moderate CMPA
 
 - Gastrointestinal: frequent regurgitation, vomiting, diarrhea, constipation (with/without perianal rash), blood in stool, iron deficiency anemia.
 - Dermatological: atopic dermatitis.
 - Gastric: persistent distress or colic (≥3h per day wailing/irritable) at least 3 days/week over a period of >3 weeks.
-
 
 ### Symptoms of severe CMPA
 
@@ -31,15 +28,12 @@ Lactose free infant formula milks can be purchased over the counter in pharmacie
 
 ## Primary care management - Formula feeding
 
-
 ### For Mild to Moderate CMPA
-
 
 #### Four-week trial of Extensively Hydrolyzed Formula (EHF)
 
 - First line: Aptamil Pepti 1.
 - Second line: SMA Althera.
-
 
 #### Evaluation
 
@@ -71,21 +65,17 @@ Continue AAF prescription.
 
 - Consider other diagnoses.
 
-
 ### For severe CMPA
 
 - Immediate referral to paediatric dietician for diagnosis and treatment.
 
 ## Primary care management - Breast feeding
 
-
 ### For Mild to Moderate CMPA
-
 
 #### Continue breastfeeding
 
 - Mother should follow an elimination diet, excluding CMP for 2 weeks (up to 4 weeks in case of atopic eczema or allergic colitis), plus calcium supplement.
-
 
 #### Evaluation
 
@@ -101,7 +91,6 @@ Maintain elimination diet in mother (plus calcium supplement).
 - Breast feeding can continue, topical treatment in case of atopic dermatitis
 - Resume normal diet in mother and/or consider other (allergic) diagnoses.
 
-
 ### For severe CMPA
 
 - Referral to paediatric dietician for diagnosis and treatment.
@@ -109,9 +98,7 @@ Maintain elimination diet in mother (plus calcium supplement).
 
 ## Who to refer
 
-
 ### Refer to paediatric dietician
-
 
 #### Refer urgently
 
@@ -119,7 +106,6 @@ Maintain elimination diet in mother (plus calcium supplement).
 
 Gastrointestinal: failure to thrive because of diarrhea or regurgitation/vomiting, refusal to feed, moderate to large amounts of blood in stool with decreased hemoglobin, protein-losing enteropathy.
 - Dermatological: failure to thrive and severe atopic dermatitis.
-
 
 #### Refer routinely
 
@@ -213,7 +199,7 @@ Amino Acid Formula (AAF) with Probiotics
 
 Preparation technique differs from normal infant formula
 
- 
+
 
 Once diagnosis is confirmed by challenge, formula milk can then be put on the child’s repeat prescription. Children under 6 months of age will require approximately 8 x 400g tins every 4 weeks. Once the child is over 6 months and weaning has commenced, this quantity should decrease on a monthly basis and the prescription should stop at the age of 12 months. Prescriptions should only be continued for children over the age of 12 months if requested by a Dietitian.
 

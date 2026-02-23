@@ -22,7 +22,7 @@ Potential causes
 - Consumptive Coagulopathy (DIC, TTP, HUS)
 - Spurious thrombocytopenia (clotted sample, incomplete EDTA anticoagulation)
 
- 
+
 
 ## Assessment
 
@@ -30,7 +30,7 @@ Potential causes
 - Repeat FBC, lab will add on blood film examination if appropriate
 - Liver and renal function test
 - Haematinics
-- Viral Serology -  HIV, Hepatitis C, Hepatitis B
+- Viral Serology -  HIV, Hepatitis C, Hepatitis B
 - Consider auto-immune screen – guided by history findings
 
 ## Primary care management
@@ -38,7 +38,6 @@ Potential causes
 - Repeat FBC in 4 weeks in case of mild thrombocytopenia particularly if a potential cause has been identified and discontinued / reversed
 
 ## Who to refer
-
 
 ### Urgent referral to haematology
 
@@ -50,7 +49,6 @@ Potential causes
 - In pregnancy
 
 ***Patients presenting with platelet count <20 or excess bruising / bleeding – regardless of the platelet count – should be discussed with the on-call haematologist***
-
 
 ### Routine referral or advice request
 

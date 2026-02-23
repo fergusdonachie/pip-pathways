@@ -27,7 +27,7 @@ For fungal infections:
 
 - Clotrimazole 1% solution
 
- 
+
 
 Investigations are rarely helpful but consider an ear swab if treatment fails or otitis externa occurs frequently
 
@@ -74,7 +74,7 @@ See antimicrobial guidelines and
 
 BNF https://bnf.nice.org.uk/treatment-summary/oropharyngeal-infections-antibacterial-therapy.html
 
- 
+
 
 - Nystatin Suspension
 - Miconazole oromucosal gel

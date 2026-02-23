@@ -20,7 +20,6 @@ Consider referral to orthopaedics via back pain pathway for consideration of MRI
 
 Urgent MRI through the Emergency Department if “red flags” are present
 
-
 ### Red Flags for Acute Cauda Equina Syndrome
 
 - New or worsening dysfunction of bladder, bowel, or sexual function within the last 2 weeks

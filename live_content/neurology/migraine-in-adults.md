@@ -31,7 +31,6 @@ And no more likely cause of headache identified.
 
 Migraine may or may not be preceded by an aura.
 
-
 #### Aura
 
 Aura symptoms, if present, are fully reversible and typically consist of:
@@ -44,7 +43,6 @@ Aura symptoms typically last 5-60 minutes and are followed by headache within 60
 
 Motor weakness, double vision, visual symptoms affecting only one eye, poor balance or decreased conscious level are NOT typical aura symptoms and should prompt urgent assessment to consider alternative diagnosis.
 
-
 #### Chronic migraine
 
 Chronic migraine is defined as headache on 15 or more days a month, for at least 3 months where at least 8 of the days fit the migraine criteria. Medication overuse is common in chronic migraine and dealing with this will often result in reverting back to episodic migraine.
@@ -53,13 +51,11 @@ Chronic migraine is defined as headache on 15 or more days a month, for at least
 
 Please refer to BNF/SPC for full prescribing information
 
-
 #### First line
 
 - Aspirin 900 mg (max 4 times/24h)
 - Ibuprofen 400-600 mg (max 4 times/24h)
 - Cyclizine 50 mg (max 3 times/24h)
-
 
 #### Second line
 
@@ -86,7 +82,6 @@ Triptans should be taken at onset of headache (not onset of aura). A second dose
 
 Side effects tightness in jaw, throat, chest and pins and needles in face.
 
-
 #### Third line
 
 ***Rimegepant (Vydura)*** 75mg tablets taken at onset of headache. This is a calcitonin gene-related peptide (CGRP) receptor antagonist. It is taken in a similar way to triptans at the onset of headache. It is very expensive (£12.90 a tablet) and generally much less effective than triptans but is SMC approved for use in treatment of acute migraine with or without aura in adults where:
@@ -99,10 +94,9 @@ Side effects tightness in jaw, throat, chest and pins and needles in face.
 
 **Do not use gabapentinoids in migraine management.**
 
- 
+
 
 ## Primary care preventative management
-
 
 #### When to consider preventative medication
 
@@ -115,7 +109,6 @@ Note it is essential to consider medication overuse headache before starting pre
 Patients must be counselled that prophylaxis aims to reduce the frequency and severity of attacks only, not abolish them. Patients should be told to expect side effects initially and use each treatment for at least 3 months. Often the reason for ineffectiveness is lack of perseverance or medication overuse.
 
 A successful outcome is 50% reduction in headache days in episodic migraine or 30% reduction in headache days in chronic migraine.
-
 
 #### Lifestyle advice
 
@@ -132,13 +125,11 @@ Suggest headache diary. The Migraine Trust has a downloadable template.
 
 Sleepio app for sleep management. Self management advice at the migraine trust
 
-
 #### Medication options
 
 Please refer to BNF/SPC for full prescribing information
 
 When swapping between preventative medications, titrate one down over 2 weeks before starting the next.
-
 
 ##### Beta Blockers
 
@@ -146,7 +137,6 @@ When swapping between preventative medications, titrate one down over 2 weeks be
 - Propranolol MR is an alternative - 80mg OD increasing to 160mg OD.
 - Contra-indicated in asthma, heart failure, PVD, depression and should not be used in patients taking verapamil
 - Side effects bradycardia, hypotension, fatigue, sexual dysfunction, wheezing
-
 
 ##### Tricyclics
 
@@ -158,7 +148,6 @@ tension-type headache
 - disturbed sleep
 - depression
 
-
 ##### Topiramate
 
 - Topiramate 25mg once daily at night, increasing by 25mg every 2 weeks aiming for 50mg bd.
@@ -169,17 +158,15 @@ tension-type headache
 - Interacts with digoxin, metformin, thiazides, acetazolamide. See BNF/SPC for further details.
 - Side effects acute glaucoma, peripheral paraesthesia, fatigue, nausea, diarrhoea, weight loss, taste change, concentration difficulties, word finding difficulties, insomnia, anxiety, depression.
 
-
 ##### Candesartan
 
-- Start 4mg daily increasing by 4mg  every 1-2 weeks aiming for 16mg daily
+- Start 4mg daily increasing by 4mg  every 1-2 weeks aiming for 16mg daily
 - Check baseline U&E and monitor U&E during titration.
 - Should not be used in pregnancy and women of child bearing age should be on highly effective contraception.
 - Avoid in breast feeding
 - Avoid in patients with renal artery stenosis, hypotension, renal impairment or history of angio-oedema
 - Interacts with lithium, caution with spironolactone. See SPC/BNF for further details.
 - Side effects hypotension, renal impairment and cough.
-
 
 ##### Others
 
@@ -189,7 +176,6 @@ Limited evidence base but widely used.
 - may cause weight gain
 
 Riboflavin 400mg once daily is mentioned in NICE but not SIGN guideline. Magnesium, Feverfew and Melatonin are not mentioned in either and therefore not recommended.
-
 
 ##### Oral CGRP inhibitors
 

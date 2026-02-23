@@ -19,7 +19,7 @@ Consider referral via this pathway for:
 
 - Unexplained weight loss - documented 5% or more in 3 months or a strong clinical suspicion
 - New, unexplained loss of appetite, fatigue nausea, malaise or bloating for 4 weeks or more
-- New unexplained pain (abdominal /back/bone) for 4 weeks or more 
+- New unexplained pain (abdominal /back/bone) for 4 weeks or more
 - New unexplained laboratory results eg hypocalcaemia or thrombocytopenia
 - GP – ‘gut feeling’ of cancer diagnosis
 
@@ -66,16 +66,13 @@ All patients must have the following suite of pre-referral tests done with resul
 - Pregnancy test (all females of child bearing age)
 - HIV serology
 
-
 #### Additional comments section
 
 Please include results of all the mandatory examinations and any other relevant information in this section. This information will be used to determine the patient’s eligibility for this pathway so please include all relevant information in this section.
 
-
 #### Referrer gut feeling of cancer
 
 Please complete this section with as much information as possible relating to the patients presentation. This information will be used during the triage process to determine if the patient is eligible for this referral pathway.
-
 
 #### Preferred contact method
 
@@ -83,7 +80,7 @@ Please ensure the telephone number is completed and the patient is aware they wi
 
 **Please ensure you give the patient the ECDC information leaflet and the patient is aware they have been referred on a suspicion of cancer pathway.**
 
- 
+
 
 ---
 ## Editorial Information

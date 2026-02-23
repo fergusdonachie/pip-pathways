@@ -5,7 +5,7 @@ Fetched: 2026-02-23
 
 British Menopause Society HRT guide - A succint guide to HRT
 
-British Menopause Society Menopause Resources Toolkit - This brings together a huge range of free resources about various aspects of menopause care in the form of podcasts, Tools for Clinicians, Consensus statements and fact sheets from the British Menopause Society.
+British Menopause Society Menopause Resources Toolkit - This brings together a huge range of free resources about various aspects of menopause care in the form of podcasts, Tools for Clinicians, Consensus statements and fact sheets from the British Menopause Society.
 
 You may also find the Decision tree helpful at Decision Tree Flow Chart : Menopause Matters
 

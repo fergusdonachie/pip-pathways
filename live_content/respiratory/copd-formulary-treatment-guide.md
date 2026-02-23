@@ -20,7 +20,7 @@ SABA
 
 - Salbutamol Easyhaler (DPI) 200micrograms as needed (£3.31)
 - Salbutamol MDI 100micrograms as needed (£1.50)
-- Salamol Easibreathe (BA) 100micrograms as needed (£6.30)                                
+- Salamol Easibreathe (BA) 100micrograms as needed (£6.30)
 
 Continued breathlessness that limits daily activities
 
@@ -66,7 +66,7 @@ SABA + LAMA + (LABA + ICS)
 - Smoking status?
 - Co-morbidities?
 
- 
+
 
 Think about carbon footprint of inhaler choices
 

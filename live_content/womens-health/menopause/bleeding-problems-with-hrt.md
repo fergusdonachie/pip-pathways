@@ -19,7 +19,7 @@ Most common reason for referral is unscheduled bleeding on continuous combined H
 - If transdermal continuous combined HRT indicated, offer off license half continuous combined patch, rather than medium dose (Evorel conti or Femseven conti) to offer low dose when possible Postmenopause : Menopause Matters
 - If higher dose estrogen required (after giving any type of HRT at least 3 months to show effect, addressing other factors contributing to symptoms, eg diet and lifestyle, patch adherence..) increase progestogen proportionately
 - Try to avoid the need for regimens taking estrogen and progestogen separately, since progestogen can be missed leading to higher chance of endometrial stimulation and hence bleeding. The need for separate progestogen is inevitable if using estrogen gel or spray, since these are estrogen only, but these should be a later option, not offered first line
-- **Uterine bleeding with hormone therapies in menopausal women: a systematic review. **J H Pickar1 2, D F Archer 3, S R Goldstein et al. Climacteric 2020 Dec; 23(6):550-558
+- **Uterine bleeding with hormone therapies in menopausal women: a systematic review. **J H Pickar1 2, D F Archer 3, S R Goldstein et al. Climacteric 2020 Dec; 23(6):550-558
 
 ---
 ## Editorial Information

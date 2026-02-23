@@ -17,7 +17,7 @@ They may be endocervical or ectocervical:
 - Most commonly found at the time of routine cervical smear-taking
 - Any abnormal bleeding needs to be investigated and managed to exclude other, more serious, causes
 
- 
+
 
 ## Management
 
@@ -30,7 +30,7 @@ It is recommended that polyps be removed. This is usually a simple process which
 - Removal of the polyp is usually painless as polyps do not have a nerve supply
 - Advise patient to avoid tampons and vaginal intercourse for 2 days
 
- 
+
 
 ## Recurrent polyps
 

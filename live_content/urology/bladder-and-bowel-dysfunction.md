@@ -30,24 +30,21 @@ Initial assessment should include:
 
 ## Primary care management
 
-
 #### All patients
 
 - Give information on healthy bowel/bladder - patient leaflet available here
 - Treat constipation/UTI if needed
 - Allow time for conservative measures/advice to work before referral
 
-
 #### Postmenopausal women
 
 - If vaginal atrophy is found on examination then vaginal oestrogen should be tried for at least 6 weeks
-
 
 #### Men with bladder dysfunction
 
 - Consider and treat benign prostatic hypertrophy
 
- 
+
 
 ## Who to refer
 

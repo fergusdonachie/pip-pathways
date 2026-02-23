@@ -11,7 +11,7 @@ Fetched: 2026-02-23
 
 is 45 or over and
 - has activity-related joint pain and
-- morning stiffness that lasts no longer than 30 minutes.
+- morning stiffness that lasts no longer than 30 minutes.
 
 ## Advice in Primary Care
 
@@ -37,7 +37,7 @@ Refer via SCI Gateway to **Occupational Therapy Hand Clinic** and include follow
 - History of trauma
 - Symptoms unmanageable/impacting greatly on function
 
-**Boggy, hot swelling;**Refer direct to **Rheumatology** 
+**Boggy, hot swelling;**Refer direct to **Rheumatology**
 
 - If boggy swelling of any hand joints, there may be an inflammatory arthritis, so please refer direct to Rheumatology describing the affected joints, onset and duration of symptoms.
 

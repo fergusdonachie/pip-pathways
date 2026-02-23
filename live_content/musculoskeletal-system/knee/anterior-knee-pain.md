@@ -17,7 +17,6 @@ Fetched: 2026-02-23
 - It is best managed by strengthening and stretching the structures around the knee particularly the VMO muscle in the quadriceps in order to add support to the knee and reduce pain
 - If the patella does sublux due to ligament instability this may need referral to specialist MSK services.
 
- 
 
 
 #### Management

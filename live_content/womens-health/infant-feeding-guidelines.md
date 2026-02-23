@@ -13,9 +13,8 @@ If a patient comes to see you with any issues related to breastfeeding and you a
 - Benefits to the mother include: reduced rates of breast and ovarian cancer, T2DM and reduced incidence of obesity.
 - It has also been shown to have significant cost savings to the NHS (see Renfew 2012)Specialist support
 
-Breastfeeding issues may have a number of underlying causes, and more than one problem may co-exist at the same time. Assessment should include history and examination of both the mother and infant, including observation of the woman breastfeeding by a person with appropriate training and expertise.Dumfries and Galloway has a dedicated infant feeding team who offer 1-1 consultations in both the hospital and community setting, drop-in support groups across the region and workshops/classes for expectant/new parents, in addition to staff training.
+Breastfeeding issues may have a number of underlying causes, and more than one problem may co-exist at the same time. Assessment should include history and examination of both the mother and infant, including observation of the woman breastfeeding by a person with appropriate training and expertise.Dumfries and Galloway has a dedicated infant feeding team who offer 1-1 consultations in both the hospital and community setting, drop-in support groups across the region and workshops/classes for expectant/new parents, in addition to staff training.
 
-To refer please contact:Eithne Clarke (RM SCPHN IBCLC) - Infant Feeding Team Coordinator. Tel 07765657807. dg.infantfeedingteam@nhs.scot  eithne.clarke1@nhs.scot  
+To refer please contact:Eithne Clarke (RM SCPHN IBCLC) - Infant Feeding Team Coordinator. Tel 07765657807. dg.infantfeedingteam@nhs.scot  eithne.clarke1@nhs.scot
 
 For any urgent OOH queries, please contact the National Breastfeeding Helpline – for both patient and HCP enquiries 0300 100 0212
-

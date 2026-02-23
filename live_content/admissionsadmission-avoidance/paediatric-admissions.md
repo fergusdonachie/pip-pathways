@@ -43,9 +43,9 @@ If admitting via ambulance, paramedics will take the child to the ward or to res
 
 ## References
 
-1. Corfield, Alasdair R.a; Booth, Katherine L.a; Clerihew, Lindab; Staines, Harryc; Stewart, Elained; Rooney, Kevin D.e. Association of out of hospital paediatric early warning score with need for hospital admission in a Scottish emergency ambulance population. European Journal of Emergency Medicine 27(6):p 454-460, December 2020. | DOI: 10.1097/MEJ.0000000000000725 
+1. Corfield, Alasdair R.a; Booth, Katherine L.a; Clerihew, Lindab; Staines, Harryc; Stewart, Elained; Rooney, Kevin D.e. Association of out of hospital paediatric early warning score with need for hospital admission in a Scottish emergency ambulance population. European Journal of Emergency Medicine 27(6):p 454-460, December 2020. | DOI: 10.1097/MEJ.0000000000000725
 
-2. Amy Clark, Rebecca Cannings-John, Megan Blyth, Alastair D Hay, Christopher C Butler, Kathryn Hughes Accuracy of the NICE traffic light system in children presenting to general practice: a retrospective cohort study. British Journal of General Practice 2022; 72 (719): e398-e404. DOI: 10.3399/BJGP.2021.0633
+2. Amy Clark, Rebecca Cannings-John, Megan Blyth, Alastair D Hay, Christopher C Butler, Kathryn Hughes Accuracy of the NICE traffic light system in children presenting to general practice: a retrospective cohort study. British Journal of General Practice 2022; 72 (719): e398-e404. DOI: 10.3399/BJGP.2021.0633
 
 https://bjgp.org/content/72/719/e398
 

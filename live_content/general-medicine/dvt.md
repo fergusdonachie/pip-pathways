@@ -14,15 +14,13 @@ Discuss with on-call physician if:
 
 Discuss with on-call obstetrician if patient pregnant
 
- 
+
 
 ## Primary care assessment
 
 Complete pre-test probability using Wells score below or online calculator
 
-
 #### Criterion
-
 
 #### Score
 
@@ -32,16 +30,13 @@ DVT is ***unlikely*** if the score is 0 or 1
 
 ## DVT unlikely - Well's score 0 or 1
 
-
 ###### Check D-Dimer
-
 
 ###### D-Dimer positive
 
 - Refer for urgent USS leg via SCI Gateway. Ensure D-dimer and Well's score is included in clinical details.
 - Start Apixaban 10mg BD for 7 days then 5mg BD unless contra-indication.
 - Take blood for FBC, U&E, LFT, Clotting but no need to await results before starting Apixaban.
-
 
 ###### D-Dimer negative
 
@@ -80,7 +75,6 @@ Consider causes for unprovoked DVT:
 - Review patient for physical examination
 - Review baseline bloods and symptoms
 - No indication for further investigations for cancer if no relevant symptoms or signs elicited
-
 
 #### Ilio-femoral DVT
 

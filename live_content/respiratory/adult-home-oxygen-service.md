@@ -7,13 +7,11 @@ Fetched: 2026-02-23
 
 NHS D&G Adult home oxygen service is managed by the Integrated Respiratory Team and includes Respiratory Nurse Specialists (RNS) and a Clinical Lead Respiratory Consultant. The risk from delivering too much or too little Oxygen in this vulnerable group, i.e. patients with COPD, interstitial lung disease or other chronic respiratory conditions, is well recognised yet patients can still come to harm. To improve safety, oxygen must be prescribed to a defined flow rate and the circumstance of use. Acute illness can change oxygen requirements for a Home oxygen patient and require reassessment which can be supported through the RNS team. Please seek advice if you remain unsure and before changing an oxygen prescription.
 
-
 #### RNS contact details
 
-- **Patients in DGRI**: Yvonne Scott -  01387 246246 (ext.32007)/Susan McGill – 01387 246246 (ext.31576)
+- **Patients in DGRI**: Yvonne Scott -  01387 246246 (ext.32007)/Susan McGill – 01387 246246 (ext.31576)
 - **Community East**: Kayrine Stewart – 07738500448/Susan Shearer – 07920540273
 - **Community West**: Bruce Watt – 07736955354/Shona Jardine/John Duncan – 07920540646
-
 
 ### Key points below
 
@@ -21,7 +19,6 @@ NHS D&G Adult home oxygen service is managed by the Integrated Respiratory Team 
 - A range of home oxygen delivery systems
 - Red flags
 - Important points for patients who are admitted to hospital who are on home oxygen
-
 
 ### **Understanding Patient treatment categories**
 
@@ -34,8 +31,7 @@ NHS D&G Adult home oxygen service is managed by the Integrated Respiratory Team 
 - trip and falls risk
 - cognitive function and other concerns that impact on safety
 
-The RNS’s are working towards adding alerts on the person summary page of clinical portal for patients on home oxygen.  There will also be a clinical note & GP letter on clinical portal (respiratory section) detailing the home oxygen prescription and patients are also given a home oxygen card detailing their prescription.
-
+The RNS’s are working towards adding alerts on the person summary page of clinical portal for patients on home oxygen.  There will also be a clinical note & GP letter on clinical portal (respiratory section) detailing the home oxygen prescription and patients are also given a home oxygen card detailing their prescription.
 
 ### **Long Term Oxygen therapy (LTOT)**
 
@@ -46,11 +42,9 @@ LTOT is worn for 15 to 24 hours per day
 Hypoxia has been adequately corrected
 - CO2 has not risen which would suggest risk of hypercapnic respiratory failure (ie harm from CO2 build up)
 
-
 ### Ambulatory Oxygen therapy (AOT)
 
 AOT may be used as a single therapy or in addition to LTOT when a person needs to increase oxygen flow rate during exertion. AOT is also helpful when a patient has a satisfactory resting oxygen but a significant drop when they attempt to mobilise. An AOT assessment can be performed at home by the RNS and does not require an ABG. An order form will be completed by the RNS.
-
 
 ### Home Oxygen Delivery Systems (understanding the terminology and pitfalls)
 
@@ -70,11 +64,9 @@ AOT may be used as a single therapy or in addition to LTOT when a person needs t
 
 **PITFALL:** Venturi face masks are not compatible with oxygen concentrators and should not be used.
 
- 
 
 
 ### RED FLAG Scenarios
-
 
 #### Patient on LTOT becomes more hypoxic in the community
 
@@ -86,13 +78,11 @@ For safety reasons the patient is likely to need an ABG or transcutaneous CO2 le
 
 During urgent hospital admission, any increase in oxygen requirement above usual LTOT rate should be considered a ‘NEW’ Oxygen requirement and managed accordingly with ABG and scoring on NEWS
 
-
 #### Patient on AOT becomes more hypoxic in the community
 
 This is a sign of a deteriorating patient.
 
 Please do not attempt to correct hypoxia by switching from AOT to LTOT without support from RNS or hospital admission for re-assessment
-
 
 #### A change in circumstances which highlights a risk to patient on home oxygen or to others
 
@@ -110,14 +100,12 @@ Types of concerns that have required intervention include:
 - Increasing risk of trips or falls for the patient or other member of the household
 - But please discuss other concerns with the RNS
 
-
 #### When patient admitted to hospital
 
 **Pitfalls:**
 
 - Failing to recognise the **new** oxygen requirement when a patient previously on AOT requires continuous therapy or their continuous flow rate increases above their normal baseline LTOT rate. This should be scored on NEWS as a new requirement and prompt ABG and further assessment undertaken.
 - Failing to remember that the flow rate (litres/min) for home Oxygen is calculated for nasal cannula. This will not be the appropriate rate for a deteriorating patient who requires a Venturi mask. Please ask if you are unsure what to prescribe as they are completely different systems.
-
 
 ### Hospital Discharge for Patients on AOT/LTOT
 

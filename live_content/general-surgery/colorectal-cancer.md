@@ -5,7 +5,6 @@ Fetched: 2026-02-23
 
 ## Overview
 
-
 ### qFIT testing
 
 - qFIT tests for occult blood in the stool. It uses antibodies to human haemoglobin so avoids the false positives of the old FOB tests.
@@ -23,7 +22,6 @@ Fetched: 2026-02-23
 - qFIT should not be done in the absence of colorectal symptoms or for an acute change in bowel habit (<4 weeks)
 
 ## Assessment
-
 
 ### Symptoms suggestive of colorectal cancer
 
@@ -104,8 +102,8 @@ This is a fast track pathway with escalated clinic review and diagnostic test. A
 
 - qFIT, FBC, U&E, ferritin, LFT, rectal exam. Consider second qFIT
 
-- qFIT < 20μgHb/g and symptoms/signs as above and significant clinical concern -**Refer Urgent**
-- Patients with symptoms requiring secondary care management but without significant clinical concern -**R****efer Routine**
+- qFIT < 20μgHb/g and symptoms/signs as above and significant clinical concern - **Refer Urgent**
+- Patients with symptoms requiring secondary care management but without significant clinical concern - **Refer Routine**
 
 - None
 

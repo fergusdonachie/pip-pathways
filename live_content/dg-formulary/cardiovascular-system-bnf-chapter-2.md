@@ -5,17 +5,14 @@ Fetched: 2026-02-23
 
 ## 1. Anti Arrhythmics
 
-
 ### Class I membrane stabilising drugs
 
 - Flecainide
-
 
 ### Class II beta blockers
 
 - Bisoprolol ✓ First Choice
 - Carvedilol
-
 
 ### Class III anti-arrhythmic agents
 
@@ -23,17 +20,14 @@ Fetched: 2026-02-23
 - Amiodarone
 - Dronedarone – for the prevention of recurrence of AF in patients in whom beta-blockers, class 1c drugs or amiodarone are contraindicated, ineffective or not tolerated. ✓ Specialist Initiation Only
 
-
 ### Class IV calcium channel blockers (not to be used in patients with LVSD)
 
-- Diltiazem - MR preparations should be prescribed by brand (Alizem XL®, Zemtard XL® capsules)Verapamil (Securon®) ✓ First Choice
-
+- Diltiazem - MR preparations should be prescribed by brand (Alizem XL®, Zemtard XL® capsules)Verapamil (Securon®) ✓ First Choice
 
 ### Other
 
 - Atropine
 - Adenosine
-
 
 ### Cardiac glycosides
 
@@ -41,46 +35,37 @@ Fetched: 2026-02-23
 
 ## 2. Bleeding disorders
 
-
 ### Anti-fibrinolytic drugs and haemostatics
 
 - Tranexamic acid ✓ First Choice
 
 ## 3. Blood clots
 
-
 ### **Parenteral anticoagulants**
-
 
 ### Prophylaxis of DVT
 
 - Dalteparin ✓ First Choice
 
-
 ### Treatment of DVT and/or PE
 
 - Dalteparin ✓ First Choice
-
 
 ### Unstable angina and non-Q-wave MI
 
 - Fonaparinux ✓ First Choice
 
-
 ### **Oral anticoagulants**
-
 
 ### Prevention of stroke and systemic embolism in patients with valvular AF, treatment of DVT and /or PE
 
 - Warfarin ✓ First Choice
-
 
 ### Prevention of stroke and systemic embolism in patients with non-valvular atrial fibrillation, treatment of DVT and /or PE
 
 - Apixaban ✓ First Choice
 - Edoxaban (where once daily dosing is desirable)
 - Warfarin
-
 
 ### **Other** – Restricted to use only on advice of Consultant Haematologist in accordance with local protocol
 
@@ -91,11 +76,9 @@ Fetched: 2026-02-23
 
 NICE Patient decision aid - HypertensionNICE: Hypertension in adults: diagnosis and treatment
 
-
 ### Angiotensin-converting enzyme inhibitors
 
 - Ramipril capsules ✓ First Choice
-
 
 #### Post stroke / prevention of vascular events in at risk patients
 
@@ -105,29 +88,24 @@ Angiotensin-II receptor antagonists
 
 - Candesartan ✓ First Choice
 
-
 ### Calcium-channel blockers
 
 - Amlodipine✓ First Choice/li>
 - For long acting, once daily preparations - Adipine XL® (Nifedipine)
 
-
 ### Beta-adrenoceptor blocking drugs
 
 - Bisoprolol ✓ First Choice
-
 
 ### Mineralocorticoid Receptor Antagonist (MRA)
 
 - Spironolactone
 - Eplerenone (used in men reduced risk of gynecomastia)
 
-
 ### Thiazides
 
 - Indapamide ✓ First Choice
 - Bendroflumethiazide
-
 
 ### Alpha-adrenoceptor blocking drugs
 
@@ -139,8 +117,7 @@ For advice on prescribing in HF (heart failure) please contact the Heart Failure
 
 Please do not stop any patient’s HF medications indefinitely without discussing with the HFNS first. If stopping for a period, please ensure they are reviewed for restarting when appropriate – the HFNS team can offer guidance with this.
 
-
-### Heart Failure with reduced ejection Fraction (HF-rEF) - LVEF ≤40% 
+### Heart Failure with reduced ejection Fraction (HF-rEF) - LVEF ≤40%
 
 Prescribe the 4 Pillars of Heart Failure:
 
@@ -148,7 +125,6 @@ Prescribe the 4 Pillars of Heart Failure:
 - **Beta-blocker**: Bisoprolol or Carvedilol
 - **Mineralocorticoid Receptor Antagonist (MRA)**: Spironolactone or Eplerenone (use Eplerenone in men to reduce risk of gynecomastia). MRAs can be used if potassium is 5.5 mmol/L, consider Lokelma (Sodium Zirconium Cyclosilicate) 5g daily – discuss with HFNS.
 - **SGLT2 inhibitor**: Dapagliflozin or Empagliflozin (continue Empagliflozin if already prescribed for diabetes)
-
 
 #### Diuretics
 
@@ -160,17 +136,15 @@ If K+ >5.5 mmol/L, consider prescribing Lokelma (Sodium Zirconium Cyclosilicate)
 
 For HF patients with eGFR above 30 ml/min, a rise in creatinine or fall in eGFR by up to 25% is acceptable. If more than this, contact HFNS for advice. The first drug to temporarily stop in mild AKI is the MRA (Eplerenone or Spironolactone).
 
-
 ### Heart Failure with mildly reduced Ejection Fraction (HFmrEF) - LVEF 41–49%
 
 Treat the same as HF-rEF using the 4 pillars, but start with ACEi/ARB instead of Entresto.
-
 
 ### Heart Failure with preserved Ejection Fraction (HFpEF) - LVEF ≥50–55% with symptoms of HF and raised NTproBNP
 
 SGLT2 inhibitor:
 
-- Dapagliflozin or Empagliflozin (continue if already prescribed for diabetes)
+- Dapagliflozin or Empagliflozin (continue if already prescribed for diabetes)
 
 **Hypertension treatment:**
 
@@ -180,11 +154,11 @@ SGLT2 inhibitor:
 
 **AF rate control**:
 
-- Bisoprolol or Digoxin
+- Bisoprolol or Digoxin
 
 **Oedema management**:
 
-- Diuretics 
+- Diuretics
 
 Furosemide
 - Bumetanide
@@ -194,11 +168,9 @@ Furosemide
 
 *Please see D&G Coronary Heart Disease and Stroke, Primary and Secondary Prevention Guideline*
 
-
 ### Primary Prevention
 
 - Atorvastatin 20mg OD
-
 
 ### Secondary Prevention
 
@@ -218,7 +190,6 @@ If statin intolerant, please follow NICE guidelines: NICE Statin Intolerance Pat
 
 - Bempedoic acid (Nilemdo®) or Bempedoic acid / Ezetimibe (Nustendi®)
 
-
 #### Specialist Initiation
 
 - Evolocumab (Repatha®) ✓ Specialist Initiation Only
@@ -227,7 +198,6 @@ If statin intolerant, please follow NICE guidelines: NICE Statin Intolerance Pat
 
 ## 8. Anti-anginals
 
-
 ### Nitrates
 
 - Glyceryl Trinitrate
@@ -235,21 +205,17 @@ If statin intolerant, please follow NICE guidelines: NICE Statin Intolerance Pat
 
 *MR preparations are more cost effective; prescribe generically as MR 25/50mg caps or 40/60mg tabs.*
 
-
 ### Beta blocker
 
 - Bisoprolol
-
 
 ### Ivabradine
 
 - Ivabradine if in sinus rhythm and heart rate >70 bpm. If patient is in AF, use Beta-blocker (+ digoxin if needed for rate control).
 
-
 ### Calcium channel blocker
 
 - Amlodipine
-
 
 ### Nicorandil
 
@@ -259,7 +225,6 @@ If normal LV function, consider:
 
 - Diltiazem (Adizem XL®, Zemtard XL® capsules)
 - Verapamil (Securon®)
-
 
 ### Acute Coronary Syndrome
 
@@ -271,7 +236,6 @@ See guidance: NICE 185, SIGN 148
 - Statin
 - GTN
 
-
 ### Antiplatelet
 
 - Aspirin dispersible 75mg OD
@@ -279,13 +243,11 @@ See guidance: NICE 185, SIGN 148
 - Prasugrel 10mg OD – contraindicated in patients with a history of Stroke/TIA
 - Ticagrelor 90mg BD – no longer being commenced but some existing patients may still be on it
 
-
 ### Sympathomimetics
 
 - Adrenaline
 - *Inotropic:* Dobutamine, Dopamine
 - *Vasoconstrictor:* Noradrenaline acid tartrate
-
 
 ### Fibrinolytics
 
@@ -294,19 +256,15 @@ See guidance: NICE 185, SIGN 148
 
 ## 9. Oedema
 
-
 ### Loop diuretics
 
 - Furosemide
 - Bumetanide
 
-
 ### Thiazide and related diuretics
 
 - Metolazone (Cardiology advice only)
 
-
 ### Aldosterone antagonist
 
 - Spironolactone – avoid in men where possible due to risk of gynecomastia
-

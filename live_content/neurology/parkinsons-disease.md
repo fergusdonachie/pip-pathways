@@ -38,7 +38,7 @@ It is a progressive condition which is not sudden in onset, therefore urgent ref
 
 ## Who not to refer
 
-Patients with Restless Legs Syndrome 
+Patients with Restless Legs Syndrome
 
 Patients with essential tremor where the diagnosis is clear but if not sure then referral for single assessment appointment is reasonable.
 

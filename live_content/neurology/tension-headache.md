@@ -9,7 +9,7 @@ Tension-type headache is the most common primary headache disorder, which is not
 
 Tension headache is defined as:
 
-- Recurrent episodes of headache lasting from 30 minutes to 7 days which are not associated with nausea or vomiting. The headache may also be associated with no more than one of photophobia or phonophobia, *and*
+- Recurrent episodes of headache lasting from 30 minutes to 7 days which are not associated with nausea or vomiting. The headache may also be associated with no more than one of photophobia or phonophobia, *and*
 - The headache has at least two of the following:
 
 bilateral location

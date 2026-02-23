@@ -22,12 +22,10 @@ Assess the airway and if any compromise refer as below:
 
 ## Referral to secondary care
 
-
 ###### Emergency referral to ENT:
 
 - If there is concern regarding the patients airway then immediate referral to A+E via an ambulance
 - If the patient is unable to swallow, is septic or concern regarding an acute complication of tonsillitis (referral to on callENT team)
-
 
 ###### Chronic or recurrent tonsillitis, as per the SIGN guidelines the episodes need to be:
 
@@ -37,7 +35,6 @@ Assess the airway and if any compromise refer as below:
 7 in 1 year
 - 5 in the 2 preceding years
 - 3 in the 3 preceding years
-
 
 ###### What is not accepted?
 

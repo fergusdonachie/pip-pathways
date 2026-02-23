@@ -31,11 +31,11 @@ Consider a diagnosis of hyperthyroidism if there are symptoms or signs of:
 
 Examine for thyroid enlargement:
 
-- In Graves' disease, the thyroid gland is usually diffusely symmetrically enlarged without nodules, and there may be a bruit.
-- A toxic multinodular goitre typically presents with non-tender thyroid nodules.
-- A toxic adenoma typically presents with a unilateral, non-tender thyroid mass.
-- Subacute thyroiditis typically presents with a tender, firm, irregular, diffusely enlarged thyroid gland which may be asymmetrical.
-- In amiodarone-induced thyroiditis, a small goitre is usually present.
+- In Graves' disease, the thyroid gland is usually diffusely symmetrically enlarged without nodules, and there may be a bruit.
+- A toxic multinodular goitre typically presents with non-tender thyroid nodules.
+- A toxic adenoma typically presents with a unilateral, non-tender thyroid mass.
+- Subacute thyroiditis typically presents with a tender, firm, irregular, diffusely enlarged thyroid gland which may be asymmetrical.
+- In amiodarone-induced thyroiditis, a small goitre is usually present.
 
 Check blood for:
 
@@ -76,7 +76,7 @@ Referrals will be triaged and endocrinology aim to see most people with a new di
 
 If the patient has positive anti-TSH receptor antibodies then this would suggest Graves’ disease as the likely cause of their hyperthyroidism. A very small number of patients with Graves’ can develop thyroid eye problems. The most common complaint is dry or “gritty” eyes and lubricating drops can be used. If troublesome symptoms are experienced then our first suggestion would be to attend their local optician and mention that they are being treated for hyperthyroidism.
 
- 
+
 
 ## Recurrent thyrotoxicosis
 
@@ -89,7 +89,7 @@ If the patient has positive anti-TSH receptor antibodies then this would suggest
 - When repeating bloods, please (re)check anti TSH receptor (TRAB) antibodies The repeat anti TSH receptor antibody levels will help us in assessing the risk of subsequent recurrences.
 - where possible we would encourage definitive (permanent) therapy with either radioiodine or surgery and this will be discussed at the clinic appointment
 
- 
+
 
 We aim to see most people with a new diagnosis of thyrotoxicosis around 6 weeks after the initial finding. The tests and results above will help guide our treatment plan and allow efficient use of clinic appointments
 
@@ -98,7 +98,7 @@ We aim to see most people with a new diagnosis of thyrotoxicosis around 6 weeks 
 - Patients with subclinical hyperthyroidism with partially suppressed TSH generally don't need referral but see here
 - Patients with a suppressed TSH on thyroxine (Iatrogenic subclinical hyperthyroidism)
 
- 
+
 
 ---
 ## Editorial Information

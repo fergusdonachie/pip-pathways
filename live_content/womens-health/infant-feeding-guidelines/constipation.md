@@ -9,11 +9,11 @@ From around 6 weeks postpartum some breastfed babies continue to stool with ever
 
 Occasional green stools indicate that the milk has passed through the intestines relatively quickly, and in the absence of other symptoms, are unlikely to be significant.
 
-La Leche League has information on what is normal infant poo. Breastfeeding support has a visual guide for parents 
+La Leche League has information on what is normal infant poo. Breastfeeding support has a visual guide for parents
 
-See the GP Infant Feeding Network for information on red/amber flags for constipation and management in those under 1 
+See the GP Infant Feeding Network for information on red/amber flags for constipation and management in those under 1
 
-The NICE guidelines have information on constipation in older children 
+The NICE guidelines have information on constipation in older children
 
 ---
 ## Editorial Information

@@ -7,13 +7,11 @@ Fetched: 2026-02-23
 
 See NHS D&G Quit Your Way for smoking cessation
 
-
 ### National pathways and resources
 
 - Asthma pathway (BTS, NICE, SIGN)
 - NICE Guideline NG115 - COPD in over 16s Dec 2018
 - Quality prescribing strategy for respiratory conditions - Scottish Government
-
 
 ### Inhaler Devices
 
@@ -23,9 +21,7 @@ See NHS D&G Quit Your Way for smoking cessation
 - Patients with a metered dose inhaler (MDI) should have a spacer available for use for all occasions, but particularly for acute exacerbations.
 - Consider using lower carbon footprint (CF) inhalers where clinically appropriate. You may wish to use the NICE decision aid , which considers the carbon footprint of inhalers as well as other issues affecting inhaler selection.
 
-
 ### Bronchodilators
-
 
 #### SABA – Short Acting Beta2 Agonists
 
@@ -36,19 +32,15 @@ Do not prescribe alone or as first-line in asthma. Ensure a preventer (ICS or IC
 - Salamol Easi-Breathe® (BA): £6.30
 - Salbutamol nebules: £16.69 (20-unit dose vials, Drug Tariff)
 
-
 #### LABA – Long Acting Beta2 Agonists
 
 Use as add-on if asthma is not well controlled with ICS. Always prescribe as combination LABA/ICS. Do not prescribe LABA alone in asthma.
 
-
 #### Antimuscarinic Bronchodilators
-
 
 ##### Asthma
 
 **Spiriva Respimat® (tiotropium) ✓ First Choice:** accepted for use in Scotland as add-on maintenance bronchodilator treatment in adult patients with asthma who are currently treated with the maintenance combination of inhaled corticosteroids (≥800 micrograms budesonide/day or equivalent) and long-acting beta2 agonists and who experienced one or more severe exacerbations in the previous year.
-
 
 ##### Moderate to High Risk COPD
 
@@ -57,9 +49,7 @@ Use as add-on if asthma is not well controlled with ICS. Always prescribe as com
 - Spiolto Respimat® (tiotropium/olodaterol) (SMI) ✓ First Choice
 - Anoro Ellipta® (umeclidinium/vilanterol) (DPI) ✓ First Choice
 
-
 ### Corticosteroids (Inhaled)
-
 
 #### Asthma (Adults)
 
@@ -69,7 +59,6 @@ Use as add-on if asthma is not well controlled with ICS. Always prescribe as com
 
 **Note:** Prescribe by **brand** – products are not bioequivalent. See Table 1.
 
-
 #### Combination Corticosteroids (See Table 1)
 
 **MART therapy options highlighted in Table 1:**
@@ -78,17 +67,14 @@ Use as add-on if asthma is not well controlled with ICS. Always prescribe as com
 - Symbicort® 100/6, 200/6 or 400/12 ✓ First Choice
 - Fostair Nexthaler® (100/6 and 200/6 DPI), Luforbec® 100/6 and 200/6 MDI, Bibecfo® 100/6 and 200/6 MDI ✓ First Choice, Fostair® 100/6 and 200/6 (MDI)
 
-
 ##### Anti-inflammatory Reliever Therapy (AIR) for Mild Asthma
 
 - Symbicort® 200/6 (DPI) – from age 12 ✓ First Choice
-
 
 ##### Asthma in Paediatric Patients
 
 - Symbicort® 100/6 DPI – from age 6
 - Seretide® 50 MDI – from age 5
-
 
 #### Combination ICS/LABA/LAMA (Triple Therapy)
 
@@ -143,69 +129,69 @@ Easyhaler budesonide (DPI)
 
 Fobumix Easyhaler ® (DPI)
 
- 
 
-80/4.5  one or two puffs twice a day
 
-160/4.5  one puff twice a day
+80/4.5  one or two puffs twice a day
 
- 
+160/4.5  one puff twice a day
+
+
 
 160/4.5 two puffs twice a day
 
 320/9 one puff twice a day
 
- 
 
-320/9    two puffs twice a day
 
-160/9  two puffs twice a day plus four puffs (MART)
+320/9    two puffs twice a day
 
- 
+160/9  two puffs twice a day plus four puffs (MART)
+
+
 
 Luforbec ® or Bibecfo ® MDI
 
- 
 
-100/6   one puff twice a day
+
+100/6   one puff twice a day
 
 100/6 two puffs twice a day
 
- 
+
 
 200/6 one puff twice a day
 
-100/6    two puffs twice a day plus four puffs if needed (MART)
+100/6    two puffs twice a day plus four puffs if needed (MART)
 
- 
+
 
 Or 200/6 two puffs twice a day
 
 Fostair ® Nexthaler (DPI) or MDI, only if cannot tolerate alternatives
 
- 
+
 
 100/6 one puff twice a day
 
- 
+
 
 100/6 two puffs twice a day
 
- 
+
 
 200/6 one puff twice a day
 
- 
 
-100/6     two puffs twice a day plus four puffs if needed (MART)
 
- 
+100/6     two puffs twice a day plus four puffs if needed (MART)
 
- 
+
+
+
 
 200/6 two puffs twice a day
 
- 
+
 
 Symbicort (DPI)
 
@@ -215,12 +201,10 @@ Symbicort (DPI)
 
 200/6 two puffs twice a day plus four puffs if needed (MART)
 
-
 #### Other corticosteroids
 
 - Prednisolone tablets (oral) ✓ First Choice
 - Hydrocortisone (intravenous) ✓ First Choice
-
 
 #### Drug delivery devices
 
@@ -230,12 +214,10 @@ Easychamber ® spacer device (compatible with all formulary inhalers)
 
 Medi Peak Flow Meter® (Medicare plus international) standard (60-800 litres/minute) and low range 30-400 litres/minute
 
-
 #### Theophylline preparations ✓ Specialist Initiation Only
 
 - Oral: Uniphyllin continus®
 - Aminophylline Injection (hospital use only)
-
 
 #### Drugs for respiratory diseases
 
@@ -247,12 +229,11 @@ Monoclonal antibodies – all specialist initiation and as per SMC advice
 - Omalizumab (Xolair®) ✓ Specialist Use Only
 - Tezepelumab ✓ Specialist Use Only
 
-
 #### Leukotriene receptor agonist
 
 - Montelukast tablets (note not licensed in COPD)
 
- 
+
 
 ## 2. Allergic conditions
 
@@ -266,7 +247,6 @@ Note Allergic Emergencies – under review see BNF 8.1a
 
 ## 3. Conditions affecting sputum viscosity
 
-
 ### Mucolytics
 
 - NACSYS ® effervescent tablets (contains 600mg acetylcysteine per tablet) ✓ First Choice
@@ -276,7 +256,6 @@ Note Allergic Emergencies – under review see BNF 8.1a
 There is little evidence to support the use of cough suppressants. See cough guidance on DG Refhelp
 
 ## 5. Idiopathic pulmonary fibrosis
-
 
 ### Antifibrotics– specialist initation as per SMC
 

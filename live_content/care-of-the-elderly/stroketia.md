@@ -15,10 +15,9 @@ Focal symptoms/signs include:
 - Monocular visual loss
 - Posterior circulation - ataxia, vertigo, nystagmus
 
-Transient loss of consciousness is **almost never** caused by TIA or stroke - consider referral to cardiology or neurology.
+Transient loss of consciousness is **almost never** caused by TIA or stroke - consider referral to cardiology or neurology.
 
 ## Emergency assessment - blue light
-
 
 #### Patient potentially suitable for thrombolysis if they have all of:
 
@@ -74,7 +73,6 @@ Note there is no need to complete the ABCD2 assessment tool; it is no longer use
 
 Phoning the stroke line as well as doing a SCI referral allows the team to give tailored interim treatment advice, advise when admission may be more appropriate and facilitates more rapid booking of clinic slots.
 
-
 #### Interim treatment
 
 While waiting for a clinic appointment:
@@ -84,10 +82,9 @@ While waiting for a clinic appointment:
 - Advise patient not to drive until seen at clinic.
 - It is helpful if you can take blood for U&E, TFT, HbA1c, Lipids, FBC (and ESR if monocular visual loss) then results will be available in the clinic.
 
-
 #### Neuro-vascular clinics
 
-Clinics are at DGRI, on Monday, Tuesday and Thursday afternoons 
+Clinics are at DGRI, on Monday, Tuesday and Thursday afternoons
 
 These clinics offer a specialist assessment with same day ECG, CT brain and carotid scanning. They also have access to MRI and 3 day ECG monitors.
 
@@ -96,7 +93,6 @@ A letter detailing the diagnosis, medication changes, investigation results (for
 If further investigations are requested, a letter detailing results will be sent promptly to the referring team and to the patient.
 
 Most patients diagnosed with TIA or stroke will be followed up by one of our specialist stroke nurses at their clinics, either face-to-face or by telephone.
-
 
 #### Resources
 
