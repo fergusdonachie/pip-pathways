@@ -3,7 +3,10 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/cervical-polyps/
 Fetched: 2026-02-23
 
-## Introduction
+## Overview
+
+
+> **WARNING:** Warning
 
 Cervical polyps are common benign lesions of the cervix, found in about 4% of the gynaecological population.
 

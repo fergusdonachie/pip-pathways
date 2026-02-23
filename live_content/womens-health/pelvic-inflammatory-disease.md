@@ -3,7 +3,10 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/pelvic-inflammatory-disease/
 Fetched: 2026-02-23
 
-## Introduction
+## Overview
+
+
+> **WARNING:** Warning
 
 Adapted from BASHH UK national guideline for the management of PID (June 2011) and current practice in Sexual Health Department, Nithbank, Dumfries.
 

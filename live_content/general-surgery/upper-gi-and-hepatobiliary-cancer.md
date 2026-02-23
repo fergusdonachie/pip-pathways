@@ -3,7 +3,10 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/general-surgery/upper-gi-and-hepatobiliary-cancer/
 Fetched: 2026-02-23
 
-## Introduction
+## Overview
+
+
+> **WARNING:** Warning
 
 Upper GI cancers (oesophagus, stomach, hepato-pancreato-biliary) often present with vague symptoms which are very common in non-cancer presentations in primary care. Identifying those patients to refer is therefore difficult based on individual 'red flag' symptoms. 
 
@@ -36,39 +39,6 @@ Assessment of patients with symptoms suggestive of upper GI cancer should includ
 - HbA1c
 
 ## Refer urgent suspicion of cancer
-
-
-#### Oesophago-gastric cancer
-
-- Persistent or progressive dysphagia (**NOT** a 'feeling of something stuck in throat')
-- Weight loss (5% or more of bodyweight or strong clinical suspicion) **AND **age 55 or over **AND** one of:
-
-upper abdominal pain
-- early satiety
-- reflux
-- dyspepsia
-- nausea and/or vomiting
-
-
-#### Refer via SCI-Gateway...General Surgery...Open Access UpperGI Endo
-
-
-#### Hepato-pancreato-biliary cancer
-
-- Painless obstructive jaundice in a person aged 40 years or over
-- Weight loss (5% or more of bodyweight or strong clinical suspicion) **AND **age 55 or over **AND** one of:
-
-change in bowel habit
-- back and/or abdominal pain
-- nausea and/or vomiting
-- new onset diabetes
-
-- nausea and/or vomiting
-- weight loss (5% or more of bodyweight or strong clinical suspicion)
-- constipation
-
-
-#### Refer via SCI-Gateway...General Surgery...General
 
  
 

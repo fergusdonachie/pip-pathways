@@ -3,7 +3,10 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infant-feeding-guidelines/cows-milk-protein-allergy/
 Fetched: 2026-02-23
 
-## Introduction
+## Overview
+
+
+> **WARNING:** Warning
 
 
 ### Cow's milk protein allergy or lactose intolerance?

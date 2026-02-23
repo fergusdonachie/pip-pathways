@@ -3,6 +3,11 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/termination-of-pregnancy/
 Fetched: 2026-02-23
 
+## Overview
+
+
+> **WARNING:** Warning
+
 ## Confirmation of pregnancy
 
 Most patients with an unplanned pregnancy will have already carried out a pregnancy test. If they have already had a positive test and the history is consistent with pregnancy, then referral can be made and a repeat pregnancy test is not required.

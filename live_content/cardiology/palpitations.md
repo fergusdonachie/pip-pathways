@@ -3,6 +3,11 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/cardiology/palpitations/
 Fetched: 2026-02-23
 
+## Overview
+
+
+> **WARNING:** Warning
+
 ## Assessment
 
 Patient presenting with history of palpitations

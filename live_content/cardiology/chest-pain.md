@@ -3,6 +3,11 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/cardiology/chest-pain/
 Fetched: 2026-02-23
 
+## Overview
+
+
+> **WARNING:** Warning
+
 ## Assessment
 
 All patients presenting with suspected ischaemic chest pain should have a clinical assessment, examination, PMHx and risk factor profile.
@@ -27,12 +32,6 @@ Stop what they are doing and rest.
 - Call 999 for an ambulance if the pain persists, or earlier if the pain is intensifying and the person feels unwell.
 
 ## Who to refer
-
-
-### Emergency admission
-
-- Increase in severity or frequency of symptoms over recent days and/or
-- Prolonged rest pain > 20 minutes within the past 12 hours
 
 
 ### Refer to Rapid Access Chest Pain Clinic

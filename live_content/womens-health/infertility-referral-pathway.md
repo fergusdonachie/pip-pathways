@@ -3,6 +3,11 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infertility-referral-pathway/
 Fetched: 2026-02-23
 
+## Overview
+
+
+> **WARNING:** Warning
+
 ## Primary care
 
 - Initial investigations for any couple experiencing infertility are inexpensive, non-invasive and likely to yield useful information prior to onward referral

@@ -3,7 +3,10 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/menopause/bleeding-problems-with-hrt/
 Fetched: 2026-02-23
 
-## Introduction
+## Overview
+
+
+> **WARNING:** Warning
 
 - Perform vaginal and speculum examination and then refer as **Urgent**
 - Sequential therapy - change in pattern of bleeding including increased duration, frequency and/or heaviness, and irregular bleeding.

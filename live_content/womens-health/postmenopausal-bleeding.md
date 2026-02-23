@@ -3,6 +3,11 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/postmenopausal-bleeding/
 Fetched: 2026-02-23
 
+## Overview
+
+
+> **WARNING:** Warning
+
 ## Postmenopausal bleeding pathway - EAST
 
 The EAST pathway for postmenopausal bleeding can be found here.
