@@ -8,20 +8,20 @@ Fetched: 2026-02-23
 
 Editorial Information 
             
-                            Last reviewed:
+                             - Last reviewed:
                                 05/11/2025
 
-                            Next review date:
+                             - Next review date:
                                 05/11/2027
 
-                            Author(s): 
+                             - Author(s): 
                                 Sue Bryant.
 
-                            Version: 
+                             - Version: 
                                 1.0
 
-                            Approved By: 
+                             - Approved By: 
                                 Realistic medicine group, GP Sub-committee
 
-                            Reviewer name(s): 
+                             - Reviewer name(s): 
                                 Fergus Donachie.
