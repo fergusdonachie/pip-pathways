@@ -5,7 +5,7 @@ Fetched: 2026-02-23
 
 ## Overview
 
-Upper GI cancers (oesophagus, stomach, hepato-pancreato-biliary) often present with vague symptoms which are very common in non-cancer presentations in primary care. Identifying those patients to refer is therefore difficult based on individual 'red flag' symptoms. 
+Upper GI cancers (oesophagus, stomach, hepato-pancreato-biliary) often present with vague symptoms which are very common in non-cancer presentations in primary care. Identifying those patients to refer is therefore difficult based on individual 'red flag' symptoms.
 
 Dysphagia for gastro-oesophageal cancer and jaundice for pancreatic cancer are the only discriminatory symptoms (i.e. >3% positive predictive value)
 
@@ -40,37 +40,32 @@ Assessment of patients with symptoms suggestive of upper GI cancer should includ
 
 #### Oesophago-gastric cancer
 
-- Persistent or progressive dysphagia (**NOT** a 'feeling of something stuck in throat')
-- Weight loss (5% or more of bodyweight or strong clinical suspicion) **AND **age 55 or over **AND** one of:
-
-upper abdominal pain
-- early satiety
-- reflux
-- dyspepsia
-- nausea and/or vomiting
-
+- Persistent or progressive dysphagia (**NOT**a 'feeling of something stuck in throat')
+- Weight loss (5% or more of bodyweight or strong clinical suspicion)**AND**age 55 or over**AND**one of:
+    - upper abdominal pain
+    - early satiety
+    - reflux
+    - dyspepsia
+    - nausea and/or vomiting
 
 #### Refer via SCI-Gateway...General Surgery...Open Access UpperGI Endo
-
 
 #### Hepato-pancreato-biliary cancer
 
 - Painless obstructive jaundice in a person aged 40 years or over
-- Weight loss (5% or more of bodyweight or strong clinical suspicion) **AND **age 55 or over **AND** one of:
-
-change in bowel habit
-- back and/or abdominal pain
-- nausea and/or vomiting
-- new onset diabetes
-
-- nausea and/or vomiting
-- weight loss (5% or more of bodyweight or strong clinical suspicion)
-- constipation
-
+- Weight loss (5% or more of bodyweight or strong clinical suspicion)**AND**age 55 or over**AND**one of:
+    - change in bowel habit
+    - back and/or abdominal pain
+    - nausea and/or vomiting
+    - new onset diabetes
+- Abdominal pain in a person 55 or over with any of:
+    - nausea and/or vomiting
+    - weight loss (5% or more of bodyweight or strong clinical suspicion)
+    - constipation
+- Palpable upper abdominal or epigastric mass
+- Abnormality on imaging suspicious of HBP cancer
 
 #### Refer via SCI-Gateway...General Surgery...General
-
- 
 
 ---
 ## Editorial Information
