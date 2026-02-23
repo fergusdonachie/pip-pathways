@@ -3,8 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infant-feeding-guidelines/mastitis-and-breast-abscesses/
 Fetched: 2026-02-23
 
-## Overview
-
 Mastitis is inflammation of the breast, usually associated with an abundant supply of milk. If milk is not drained effectively from a part of the breast, it can become pressurised and leak into surrounding tissue, triggering an inflammatory response. It is a continuum from engorgement through to breast abscesses.
 
 Sometimes mastitis is preceded by a blocked duct – a small tender lump. The Breastfeeding Network has self-help information for mother’s, which will resolve the majority of cases without additional treatment. 
@@ -42,12 +40,6 @@ Rarely mastitis can result in sepsis – emergency admission to the breast team 
 An abscess presents as a well-defined firm, extremely tender swelling +/- redness or hyperpigmentation. They are typically managed by US guided drainage or incision and drainage (under GA) and need same day referral.
 
  
-
-
-### Editorial Information **
-
-**Author(s):**
- Ruth Ginty.
 
 ---
 ## Editorial Information

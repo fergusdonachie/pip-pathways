@@ -3,11 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/cardiology/syncopecollapse/
 Fetched: 2026-02-23
 
-## Overview
-
-
-> **WARNING:** Warning
-
 ## Assessment
 
 Patient Presentation: Patients who have had episodes of transient loss of consciousness (TLoC) and do not have a firm diagnosis of uncomplicated faint, situational syncope, orthostatic hypotension, or epileptic seizures.

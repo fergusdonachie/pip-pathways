@@ -5,9 +5,6 @@ Fetched: 2026-02-23
 
 ## Overview
 
-
-> **WARNING:** Warning
-
 - Perform vaginal and speculum examination and then refer as **Urgent**
 - Sequential therapy - change in pattern of bleeding including increased duration, frequency and/or heaviness, and irregular bleeding.
 - Continuous combined therapy or tibolone - if still bleeding after 6 months of therapy or if bleeding occurs later after a spell of no bleeding.

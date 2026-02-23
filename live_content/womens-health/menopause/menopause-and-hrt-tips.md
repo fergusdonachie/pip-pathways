@@ -3,11 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/menopause/menopause-and-hrt-tips/
 Fetched: 2026-02-23
 
-## Overview
-
-
-> **WARNING:** Warning
-
 ## Diagnosis of menopause
 
 - Age 45 or over - Diagnosis is clinical and hormone blood tests are not recommended

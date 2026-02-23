@@ -5,9 +5,6 @@ Fetched: 2026-02-23
 
 ## Overview
 
-
-> **WARNING:** Warning
-
 Adapted from BASHH UK national guideline for the management of PID (June 2011) and current practice in Sexual Health Department, Nithbank, Dumfries.
 
 ## Features suggestive of PID

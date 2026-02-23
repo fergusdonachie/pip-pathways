@@ -5,9 +5,6 @@ Fetched: 2026-02-23
 
 ## Overview
 
-
-> **WARNING:** Warning
-
 Consider a diagnosis of heart failure in patients with:
 
 - New-onset or major worsening of exertional or nocturnal dyspnoea.

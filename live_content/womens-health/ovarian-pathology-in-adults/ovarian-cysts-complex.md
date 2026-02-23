@@ -3,11 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/ovarian-pathology-in-adults/ovarian-cysts-complex/
 Fetched: 2026-02-23
 
-## Overview
-
-
-> **WARNING:** Warning
-
 - Normal finding - no follow up required
 
 - Refer to gynaecology with CA125
@@ -27,15 +22,6 @@ Fetched: 2026-02-23
 - Gynaecology referral, CA125 and staging CT (chest, abdominal, pelvis) but if age <40 yrs, further tumour markers and MRI - additional CT at discretion of gynaecology MDT
 
  
-
-
-### Editorial Information **
-
-**Next review date:**
- 05/01/2027
-
-**Author(s):**
- Heather Currie.
 
 ---
 ## Editorial Information

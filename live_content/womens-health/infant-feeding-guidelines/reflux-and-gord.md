@@ -3,8 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infant-feeding-guidelines/reflux-and-gord/
 Fetched: 2026-02-23
 
-## Overview
-
 
 #### Reflux
 
@@ -74,12 +72,6 @@ The GP infant feeding network has information on management of GORD for both bre
 For prescribing advice re Gaviscon, thickeners, PPIs ect, consult the relevant NICE guidelines on gastro-oesophageal reflux disease.
 
 Primary Care Knowledge Boost has a useful podcast on this topic for further CPD 
-
-
-### Editorial Information **
-
-**Author(s):**
- Ruth Ginty.
 
 ---
 ## Editorial Information

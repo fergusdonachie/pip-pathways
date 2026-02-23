@@ -3,8 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infant-feeding-guidelines/introducing-solids-and-weaning/
 Fetched: 2026-02-23
 
-## Overview
-
 The WHO recommends exclusive breastfeeding for the first six months of a baby’s life, followed by complementary introduction of solids alongside continued breastfeeding thereafter. Milk is the main source of nutrition for infants up to one year, and has ongoing benefits thereafter. Breastmilk is a complex living fluid which varies from mother to mother and even by time of day. See https://www.human-milk.com/ for more information on the components of human breast milk.
 
 Early introduction of solids has been shown to increase the risk of cardiovascular disease, diabetes and obesity in later life.
@@ -21,12 +19,6 @@ Waking at night to feed is normal for the first year and beyond. See this video 
 ##### Vitamin supplements
 
 It is recommended that breastfed infants are given a daily supplement of vitamin D (8.5-10mcg) with the addition of Vitamins A and C from 6 months. This is currently ProHealth drops (Vit D) available free to all children under 3 from the Health Visiting service. Infants taking more than 500ml of first infant formula a day do not require this as formula milks are fortified with vitamin D.
-
-
-### Editorial Information **
-
-**Author(s):**
- Ruth Ginty.
 
 ---
 ## Editorial Information

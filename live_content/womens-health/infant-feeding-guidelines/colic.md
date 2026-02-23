@@ -3,8 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infant-feeding-guidelines/colic/
 Fetched: 2026-02-23
 
-## Overview
-
 
 #### **Normal infant behaviour**
 
@@ -66,12 +64,6 @@ NICE CKS states that the following should NOT be recommended due to insufficien
 I think my baby's got colic - La Leche League GB
 
 ICON Cope – resource for parents with crying babies
-
-
-### Editorial Information **
-
-**Author(s):**
- Ruth Ginty.
 
 ---
 ## Editorial Information

@@ -3,11 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/cardiology/echo-referral/
 Fetched: 2026-02-23
 
-## Overview
-
-
-> **WARNING:** Warning
-
 ## Assessment
 
 Please include in the clinical details all the data which would be sent for a  referral to the cardiology clinic:

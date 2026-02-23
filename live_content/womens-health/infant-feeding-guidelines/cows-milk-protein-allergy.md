@@ -6,9 +6,6 @@ Fetched: 2026-02-23
 ## Overview
 
 
-> **WARNING:** Warning
-
-
 ### Cow's milk protein allergy or lactose intolerance?
 
 Primary Lactose intolerance is rare, but infants can develop transient lactose intolerance, following a G.I infection/virus; which will self resolve over 4 – 6 weeks.

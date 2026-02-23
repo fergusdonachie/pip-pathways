@@ -3,11 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/cardiology/atrial-fibrillation/
 Fetched: 2026-02-23
 
-## Overview
-
-
-> **WARNING:** Warning
-
 ## Assessment
 
 Patient Presentation:

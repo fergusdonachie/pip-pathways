@@ -5,9 +5,6 @@ Fetched: 2026-02-23
 
 ## Overview
 
-
-> **WARNING:** Warning
-
 Cervical polyps are common benign lesions of the cervix, found in about 4% of the gynaecological population.
 
 They may be endocervical or ectocervical:

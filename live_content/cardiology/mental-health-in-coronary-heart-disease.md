@@ -6,9 +6,6 @@ Fetched: 2026-02-23
 ## Overview
 
 
-> **WARNING:** Warning
-
-
 ### Digital Interventions
 
 The **Space in Coronary Heart Disease** from Depression and Anxiety programme has been designed and tailored for individuals living with Coronary Heart Disease (CHD) who are experiencing co-morbid symptoms of depression and anxiety.

@@ -3,11 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/pelvic-organ-prolapse-pop/
 Fetched: 2026-02-23
 
-## Overview
-
-
-> **WARNING:** Warning
-
 ## Types of POP
 
 

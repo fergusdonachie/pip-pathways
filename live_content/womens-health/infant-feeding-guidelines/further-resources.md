@@ -3,8 +3,6 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/womens-health/infant-feeding-guidelines/further-resources/
 Fetched: 2026-02-23
 
-## Overview
-
 
 #### To direct patients to:
 
@@ -16,12 +14,6 @@ Breastfeeding network The Breastfeeding Network | Independent Breastfeeding Supp
 #### Further education for healthcare professionals:
 
 RCGP e-learning module (0.5hr CPD) https://elearning.rcgp.org.uk/course/info.php?id=290 The GP infant feeding network (written by and for GPs): https://gpifn.org.uk/breastfeeding/ UNICEF UK Baby Friendly Initiative: https://www.unicef.org.uk/babyfriendly/ CPD connect – PBSGL infant feeding module 
-
-
-### Editorial Information **
-
-**Author(s):**
- Ruth Ginty.
 
 ---
 ## Editorial Information
