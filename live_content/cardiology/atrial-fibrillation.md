@@ -3,16 +3,9 @@
 Source: https://www.rightdecisions.scot.nhs.uk/dgrefhelp-nhs-dumfries-galloway/cardiology/atrial-fibrillation/
 Fetched: 2026-02-23
 
-## Introduction
-
-!
-            
-                Warning
-
 ## Assessment
 
 Patient Presentation:
-
 
 - New cases of atrial fibrillation who are hemodynamically stable.
 - Asymptomatic AF detected during routine review.
@@ -20,11 +13,9 @@ Patient Presentation:
 
 Confirm AF with ECG:
 
-
 - Resting 12 lead ECG or rhythm strip ≥ 30 seconds from handheld device or smartwatch.
 
 Assess Stroke Risk:
-
 
 - Use CHA2DS2-VASc score to determine thromboembolism risk.
 
@@ -32,18 +23,16 @@ Assess Stroke Risk:
 
 Heart Rate Control:
 
-
 - Heart rate >110bpm without heart failure: Beta-blocker or calcium channel blocker (e.g., bisoprolol, atenolol, verapamil).
-- Heart rate 110bpm with heart failure: Consider digoxin or beta-blocker as appropriate, with reference to local guidelines.
+- Heart rate <110bpm and asymptomatic: No immediate anti-arrhythmic required; consider 24-hour tape to assess overall rate control.
+- Heart rate >110bpm with heart failure: Consider digoxin or beta-blocker as appropriate, with reference to local guidelines.
 
 Oral Anticoagulant Therapy:
-
 
 - Initiate based on CHA2DS2-VASc score and patient discussion.
 - For mechanical heart valves or moderate/severe mitral stenosis: Initiate Warfarin.
 
 Lifestyle Advice:
-
 
 - Encourage weight loss for overweight patients (BMI >27kg/m²).
 - Encourage physical activity and moderate exercise.
@@ -54,7 +43,11 @@ Lifestyle Advice:
 
 - Criteria for Rhythm Control and Cardioversion:
 - Symptomatic AF despite adequate rate control.
-- Young age (
+- Young age (<65 years).
+- Inadequate rate control despite measures or intolerance of these.
+- Structural heart disease on echocardiography.
+- AF and co-existing heart failure.
+- Symptomatic paroxysmal AF requiring a rhythm control strategy.
 
 ## Who not to refer
 
@@ -64,22 +57,15 @@ Lifestyle Advice:
 ---
 ## Editorial Information
 
-Editorial Information 
-            
-                             - Last reviewed:
-                                05/07/2024
-
-                             - Next review date:
-                                05/07/2026
-
-                             - Author(s): 
-                                Sue Bryant.
-
-                             - Version: 
-                                1.0
-
-                             - Approved By: 
-                                Realistic medicine group, GP Sub-committee
-
-                             - Reviewer name(s): 
-                                Fergus Donachie.
+- **Last reviewed:**
+ 05/07/2024
+- **Next review date:**
+ 05/07/2026
+- **Author(s): **
+ Sue Bryant.
+- **Version: **
+ 1.0
+- **Approved By: **
+ Realistic medicine group, GP Sub-committee
+- **Reviewer name(s): **
+ Fergus Donachie.
