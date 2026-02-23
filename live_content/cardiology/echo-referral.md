@@ -53,13 +53,8 @@ Refer to cardiology for advice rather than direct echo referral for:
 ---
 ## Editorial Information
 
-- **Last reviewed:**
- 05/11/2025
-- **Next review date:**
- 05/11/2027
-- **Author(s): **
- Sue Bryant.
-- **Version: **
- 1.0
-- **Approved By: **
- Interface group
+- **Last reviewed:** 05/11/2025
+- **Next review date:** 05/11/2027
+- **Author(s):** Sue Bryant.
+- **Version:** 1.0
+- **Approved By:** Interface group

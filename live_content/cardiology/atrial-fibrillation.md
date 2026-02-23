@@ -57,15 +57,9 @@ Lifestyle Advice:
 ---
 ## Editorial Information
 
-- **Last reviewed:**
- 05/07/2024
-- **Next review date:**
- 05/07/2026
-- **Author(s): **
- Sue Bryant.
-- **Version: **
- 1.0
-- **Approved By: **
- Realistic medicine group, GP Sub-committee
-- **Reviewer name(s): **
- Fergus Donachie.
+- **Last reviewed:** 05/07/2024
+- **Next review date:** 05/07/2026
+- **Author(s):** Sue Bryant.
+- **Version:** 1.0
+- **Approved By:** Realistic medicine group, GP Sub-committee
+- **Reviewer name(s):** Fergus Donachie.

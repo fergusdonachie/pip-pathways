@@ -33,11 +33,7 @@ For more complex mental health difficulties in the context of CHD consider refer
 ---
 ## Editorial Information
 
-- **Last reviewed:**
- 20/08/2025
-- **Next review date:**
- 20/08/2027
-- **Author(s): **
- Fionnuala Edgar.
-- **Version: **
- 1.0
+- **Last reviewed:** 20/08/2025
+- **Next review date:** 20/08/2027
+- **Author(s):** Fionnuala Edgar.
+- **Version:** 1.0

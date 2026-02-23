@@ -78,15 +78,9 @@ The following are unlikely to be cardiac chest pain and other causes should be r
 ---
 ## Editorial Information
 
-- **Last reviewed:**
- 23/06/2025
-- **Next review date:**
- 23/06/2027
-- **Author(s): **
- Sue Bryant.
-- **Version: **
- 1.0
-- **Approved By: **
- Interface group
-- **Reviewer name(s): **
- Fergus Donachie.
+- **Last reviewed:** 23/06/2025
+- **Next review date:** 23/06/2027
+- **Author(s):** Sue Bryant.
+- **Version:** 1.0
+- **Approved By:** Interface group
+- **Reviewer name(s):** Fergus Donachie.
